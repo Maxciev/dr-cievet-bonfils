@@ -1,0 +1,82 @@
+{
+  "base_url": "https://www.dr-cievet-bonfils.fr",
+  "updated": "2026-09-25",
+  "name": "Dr Maxime Cievet-Bonfils",
+  "given_name": "Maxime",
+  "family_name": "Cievet-Bonfils",
+  "author_variants": [
+    "Cievet-Bonfils M",
+    "Cievet M"
+  ],
+  "links": {
+    "doctolib": "https://www.doctolib.fr/chirurgien-orthopediste/villeurbanne/maxime-cievet-bonfils",
+    "orcid": "https://orcid.org/0000-0001-9736-166X",
+    "researchgate": "https://www.researchgate.net/profile/Maxime-Cievet-Bonfils",
+    "linkedin": "https://fr.linkedin.com/in/maxime-cievet-bonfils-bb7aa78a",
+    "icmms": "https://www.icmms.fr/dr-maxime-cievet-bonfils",
+    "pole": "https://www.chirurgien-orthopediste-lyon.fr/equipes/chirurgiens-du-membre-superieur/dr-maxime-cievet-bonfils",
+    "infirmerie": "https://www.infirmerie-protestante.com/cievet-bonfils-maxime",
+    "medipole": "https://www.medipolelyonvilleurbanne.fr/medecins/dr-cievet-bonfils-maxime/"
+  },
+  "pubmed_query": "Cievet-Bonfils M[au] OR Cievet M[au]",
+  "pubmed_exclude": [],
+  "consultations": [
+    {
+      "name": "ICMMS – Centre Eiffel",
+      "street": "20 rue Tronchet",
+      "postal": "69006",
+      "city": "Lyon",
+      "detail_fr": "3e étage",
+      "detail_en": "3rd floor"
+    },
+    {
+      "name": "Clinique de l'Infirmerie Protestante",
+      "street": "3 chemin du Penthod",
+      "postal": "69300",
+      "city": "Caluire-et-Cuire",
+      "detail_fr": "bâtiment D, 4e étage",
+      "detail_en": "Building D, 4th floor"
+    }
+  ],
+  "surgery_sites": [
+    {
+      "name": "Médipôle Lyon-Villeurbanne",
+      "street": "158 rue Léon Blum",
+      "postal": "69100",
+      "city": "Villeurbanne"
+    },
+    {
+      "name": "Clinique de l'Infirmerie Protestante",
+      "street": "3 chemin du Penthod",
+      "postal": "69300",
+      "city": "Caluire-et-Cuire"
+    },
+    {
+      "name": "Clinique Saint-Charles",
+      "street": "25 rue de Flesselles",
+      "postal": "69001",
+      "city": "Lyon"
+    }
+  ],
+  "legal": {
+    "rpps": "10101467933",
+    "ordre": "Inscrit au tableau de l'Ordre des médecins",
+    "secteur": "Conventionné secteur 2, honoraires libres (non adhérent à l'OPTAM)",
+    "host": "GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis"
+  },
+  "phone": {
+    "display": "04 87 25 83 35",
+    "e164": "+33487258335",
+    "label_fr": "Secrétariat (ligne directe)",
+    "label_en": "Secretary (direct line)"
+  },
+  "cname": "www.dr-cievet-bonfils.fr",
+  "orcid_id": "0000-0001-9736-166X",
+  "other_ids": [
+    "34982477",
+    "30497889",
+    "28293910",
+    "33347131",
+    "10.1016/j.rcot.2018.11.002"
+  ]
+}

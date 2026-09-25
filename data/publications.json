@@ -1,0 +1,301 @@
+{
+  "fetched": "2026-09-25",
+  "source": "PubMed + ORCID",
+  "items": [
+    {
+      "pmid": "42714363",
+      "doi": "10.1016/j.jhsa.2026.08.006",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2026",
+      "title": "Beyond the Algorithm: A Stewardship Framework for the Hand Surgeon Adopting Artificial Intelligence.",
+      "authors": [
+        "Cievet-Bonfils M",
+        "Burnier M",
+        "Locquet V"
+      ],
+      "et_al": false,
+      "journal": "J Hand Surg Am",
+      "volume": "",
+      "issue": "",
+      "pages": ""
+    },
+    {
+      "pmid": "42498062",
+      "doi": "10.1016/j.hansur.2026.102739",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2026",
+      "title": "Arthroscopically assisted temporary trans-articular headless screw fixation for perilunate injuries: A retrospective study.",
+      "authors": [
+        "Vanpoulle G",
+        "Klyce W",
+        "Locquet V",
+        "Alech-Tournier F",
+        "Erhard L",
+        "Cievet-Bonfils M"
+      ],
+      "et_al": true,
+      "journal": "Hand Surg Rehabil",
+      "volume": "",
+      "issue": "",
+      "pages": "102739"
+    },
+    {
+      "pmid": "40216513",
+      "doi": "10.1016/j.hcl.2024.12.011",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2025",
+      "title": "The Role of Cadaver-Based Laboratories Versus 3 Dimensional Virtual Training in Surgical Teaching.",
+      "authors": [
+        "Burnier M",
+        "Cievet-Bonfils M"
+      ],
+      "et_al": false,
+      "journal": "Hand Clin",
+      "volume": "41",
+      "issue": "2",
+      "pages": "223-230"
+    },
+    {
+      "pmid": "38331367",
+      "doi": "10.1016/j.arthro.2024.01.028",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2024",
+      "title": "High Rates of Union Following Arthroscopic Treatment of Scaphoid Non-Union: A Systematic Review.",
+      "authors": [
+        "Burnier M",
+        "Bouteille C",
+        "Cievet M"
+      ],
+      "et_al": false,
+      "journal": "Arthroscopy",
+      "volume": "40",
+      "issue": "9",
+      "pages": "2507-2521.e4"
+    },
+    {
+      "pmid": "38114074",
+      "doi": "10.1177/17531934231221692",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2024",
+      "title": "31 years survival rate of ARPE® single-mobility prosthesis in trapeziometacarpal osteoarthritis.",
+      "authors": [
+        "Druel T",
+        "Cievet-Bonfils M",
+        "Comtet JJ",
+        "Gazarian A"
+      ],
+      "et_al": false,
+      "journal": "J Hand Surg Eur Vol",
+      "volume": "49",
+      "issue": "7",
+      "pages": "914-916"
+    },
+    {
+      "pmid": "37364729",
+      "doi": "10.1016/j.hansur.2023.06.006",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2023",
+      "title": "Outcomes of arthroscopic versus open reduction and internal fixation for the treatment of acute traumatic lunate fractures: a systematic review.",
+      "authors": [
+        "Cievet M",
+        "Buffard M",
+        "Kumble A",
+        "Ramos-Pascual S",
+        "Locquet V",
+        "Burnier M"
+      ],
+      "et_al": false,
+      "journal": "Hand Surg Rehabil",
+      "volume": "42",
+      "issue": "4",
+      "pages": "284-290"
+    },
+    {
+      "pmid": "36289037",
+      "doi": "10.1016/j.jht.2022.09.007",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2023",
+      "title": "The consequences of a thoracic outlet syndrome's entrapment model on the biomechanics of the ulnar nerve - Cadaveric study.",
+      "authors": [
+        "Tremblais L",
+        "Rutka V",
+        "Cievet-Bonfils M",
+        "Gazarian A"
+      ],
+      "et_al": false,
+      "journal": "J Hand Ther",
+      "volume": "36",
+      "issue": "3",
+      "pages": "658-664"
+    },
+    {
+      "pmid": "",
+      "doi": "10.1016/j.rhum.2023.01.004",
+      "source": "orcid",
+      "type": "journal-article",
+      "year": "2023",
+      "title": "Instabilité du poignet",
+      "journal": "Revue du Rhumatisme",
+      "authors": [
+        "Burnier M",
+        "Erhard L",
+        "Locquet V",
+        "Cievet-Bonfils M"
+      ],
+      "et_al": false,
+      "volume": "90",
+      "issue": "2",
+      "pages": "224-232"
+    },
+    {
+      "pmid": "34982477",
+      "doi": "10.1111/sms.14127",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2022",
+      "title": "Sex differences in semitendinosus muscle fiber-type composition.",
+      "authors": [
+        "Fournier G",
+        "Bernard C",
+        "Cievet-Bonfils M",
+        "Kenney R",
+        "Pingon M",
+        "Sappey-Marinier E"
+      ],
+      "et_al": true,
+      "journal": "Scand J Med Sci Sports",
+      "volume": "32",
+      "issue": "4",
+      "pages": "720-727"
+    },
+    {
+      "pmid": "33347131",
+      "doi": "10.1007/978-3-030-24243-5_26",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2020",
+      "title": "Performing Patient-Specific Knee Replacement with Intra-Operative Planning and Assistive Device (CAS, Robotics).",
+      "authors": [
+        "Cievet-Bonfils M",
+        "Batailler C",
+        "Lording T",
+        "Servien E",
+        "Lustig S"
+      ],
+      "et_al": false,
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": ""
+    },
+    {
+      "pmid": "30941255",
+      "doi": "10.1055/s-0038-1667307",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2019",
+      "title": "Arthroscopic Treatment of Translunate Perilunate Injuries, Not Dislocated (PLIND).",
+      "authors": [
+        "Herzberg G",
+        "Cievet-Bonfils M",
+        "Burnier M"
+      ],
+      "et_al": false,
+      "journal": "J Wrist Surg",
+      "volume": "8",
+      "issue": "2",
+      "pages": "143-146"
+    },
+    {
+      "pmid": "30497889",
+      "doi": "10.1016/j.otsr.2018.10.002",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2019",
+      "title": "Axial patellar engagement index and patellar tilt after medial patello-femoral ligament reconstruction in children and adolescents.",
+      "authors": [
+        "Roger J",
+        "Viste A",
+        "Cievet-Bonfils M",
+        "Pracros JP",
+        "Raux S",
+        "Chotel F"
+      ],
+      "et_al": false,
+      "journal": "Orthop Traumatol Surg Res",
+      "volume": "105",
+      "issue": "1",
+      "pages": "133-138"
+    },
+    {
+      "pmid": "",
+      "doi": "10.1016/j.rcot.2018.11.002",
+      "source": "orcid",
+      "type": "journal-article",
+      "year": "2019",
+      "title": "Index axial d’engagement patellaire et bascule patellaire après reconstruction du ligament fémoro-patellaire médial chez l’enfant et l’adolescent",
+      "journal": "Revue de Chirurgie Orthopédique et Traumatologique",
+      "authors": [
+        "Roger J",
+        "Viste A",
+        "Cievet-Bonfils M",
+        "Pracros JP",
+        "Raux S",
+        "Chotel F"
+      ],
+      "et_al": false,
+      "volume": "105",
+      "issue": "1",
+      "pages": "65-69"
+    },
+    {
+      "pmid": "28293910",
+      "doi": "10.1007/s00590-017-1939-3",
+      "source": "pubmed",
+      "type": "journal-article",
+      "year": "2017",
+      "title": "Surgical treatment of complex proximal humeral fractures with a technique of nail and osteosuture: \"NOS\".",
+      "authors": [
+        "Garret J",
+        "Houdré H",
+        "Cievet-Bonfils M",
+        "Godenèche A",
+        "Duparc F",
+        "Roussignol X"
+      ],
+      "et_al": false,
+      "journal": "Eur J Orthop Surg Traumatol",
+      "volume": "27",
+      "issue": "3",
+      "pages": "391-397"
+    },
+    {
+      "pmid": "",
+      "doi": "10.1016/j.rcot.2017.09.406",
+      "source": "orcid",
+      "type": "journal-article",
+      "year": "2017",
+      "title": "Kystes mucoïdes de la face dorsale du poignet : physiopathologie et épidémiologie",
+      "journal": "Revue de Chirurgie Orthopédique et Traumatologique",
+      "authors": [
+        "Garret J",
+        "Facca S",
+        "Bordet B",
+        "Ponsot A",
+        "Borne J",
+        "Fantino O"
+      ],
+      "et_al": true,
+      "volume": "103",
+      "issue": "8",
+      "pages": "S179-S184"
+    }
+  ]
+}
