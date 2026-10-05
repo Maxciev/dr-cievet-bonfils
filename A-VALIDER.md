@@ -56,37 +56,37 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 
 # Lot B — points à vérifier par le chirurgien
 
-## fractures-des-doigts-et-metacarpes
+## [ ] [fractures-des-doigts-et-metacarpes](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/fractures-des-doigts-et-metacarpes.md)
 - Durée d'immobilisation annoncée « en général 3 à 6 semaines selon l'os » (la source ICMMS indique 4 à 6 semaines) et consolidation « suffisante vers 4 à 6 semaines ».
 - Retrait des broches « vers la 4e à la 6e semaine » ; vis et plaques « le plus souvent laissées en place, sauf gêne ».
 - Possibilité d'opérer « de nombreuses fractures des doigts » sous WALANT, et anesthésie locorégionale réservée plutôt aux métacarpiens / montages longs : conforme à votre pratique ?
 - Fracture du boxeur : « légère bascule souvent bien tolérée, traitement sans chirurgie », mais rotation toujours à corriger.
 
-## lesions-des-poulies
+## [ ] [lesions-des-poulies](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesions-des-poulies.md)
 - Échographie dynamique présentée comme « examen de référence », IRM en complément.
 - Indication chirurgicale : ruptures multiples (A2+A3, A2+A3+A4) ou échec ; rupture isolée d'A2 ou A4 « le plus souvent » traitée sans chirurgie.
 - Technique décrite : reconstruction par greffe tendineuse (anneau autour de la phalange ou fixation sur les reliquats) ; mention d'une réalisation possible sous WALANT « selon les cas » — à confirmer.
 - Affirmation : effet préventif du strapping chez le grimpeur sans lésion « non démontré ».
 
-## urgences-de-la-main
+## [ ] [urgences-de-la-main](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/urgences-de-la-main.md)
 - Phrase « Le Dr Cievet-Bonfils participe à la prise en charge des urgences de la main au sein du SOS Mains du Médipôle Lyon-Villeurbanne » : exactitude et souhait de la conserver.
 - Conservation du doigt amputé (compresse humidifiée au sérum, sachet fermé, récipient eau + glace, jamais au contact direct de la glace) et délai de réimplantation « limité à quelques heures ».
 - Conseil « un passage préalable par des urgences générales peut retarder la prise en charge » et « en cas d'amputation ou saignement abondant, appeler le 15 plutôt que se déplacer » : formulation acceptable ?
 - FESUM développée en « Fédération européenne des services d'urgence de la main » ; paragraphe sur le coude (biceps, fracture, infection) inclus à partir de la page SOS Coude. Aucun numéro de téléphone.
 
-## fracture-du-poignet
+## [ ] [fracture-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/fracture-du-poignet.md)
 - Immobilisation « plâtre, résine ou orthèse thermoformée, environ six semaines » (la source ICMMS indique que plâtres et résines ne sont plus utilisés chez l'adulte et annonce 4 à 6 semaines).
 - Plaque palmaire verrouillée « permettant en général de se passer de plâtre » ; plaque « le plus souvent laissée en place » (la source ICMMS dit qu'elle est « très souvent retirée ») — à trancher.
 - Broches : « adaptées à certaines fractures simples, avec immobilisation » ; assistance arthroscopique pour certaines fractures articulaires et recherche de lésions ligamentaires associées.
 - Bilan d'ostéoporose proposé après 50 ans (vitamine D, ostéodensitométrie) ; anesthésie locorégionale « de plusieurs heures » (la source évoque un bloc de longue durée d'environ 24 h et l'hypnose).
 
-## pseudarthrose-du-scaphoide
+## [ ] [pseudarthrose-du-scaphoide](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/pseudarthrose-du-scaphoide.md)
 - Fracture récente : scanner présenté comme l'examen le plus utile (IRM en alternative) ; traitement « immobilisation de plusieurs semaines » ou vissage percutané.
 - Greffe osseuse prélevée sur le radius ou la crête iliaque ; greffe vascularisée si pôle proximal mal vascularisé ; greffe + vis sous arthroscopie « pour certaines pseudarthroses ».
 - Contrôle de la consolidation par scanner ; reprise des sports d'appui « après plusieurs mois ».
 - PMID 38331367 placé en related_pmids sans citation dans le texte : vérifier qu'il correspond bien à cette fiche.
 
-## lesion-ligament-scapho-lunaire
+## [ ] [lesion-ligament-scapho-lunaire](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesion-ligament-scapho-lunaire.md)
 - Techniques citées : capsulodèse et réparation sous arthroscopie, ligamentoplastie assistée par arthroscopie, arthrodèse partielle en cas d'arthrose (SLAC) : conformes à votre pratique ?
 - Lésion périlunaire présentée comme urgence chirurgicale (réduction, réparation, broches temporaires) « qui passe encore trop souvent inaperçue ».
 - Examens : radiographies bilatérales poing serré, arthroscanner ou IRM, arthroscopie comme examen de confirmation et de gradation.
@@ -169,7 +169,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Attelle post-opératoire quelques jours ; éviction des appuis « plusieurs semaines ».
 - Récidive post-bursectomie qualifiée de « peu fréquente ».
 
-## compression-nerf-ulnaire-coude.md (rédigée sans source ICMMS)
+## [ ] [compression-nerf-ulnaire-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-ulnaire-coude.md) (rédigée sans source ICMMS)
 - « Deuxième compression nerveuse du membre supérieur » ; expression « petit juif » (terme populaire, à conserver ou retirer).
 - Indications de transposition antérieure (nerf instable, séquelles de fracture, récidive) vs libération in situ de référence.
 - Anesthésie : locorégionale, ou locale pour une libération simple (lien WALANT à ajouter si pratiqué).
