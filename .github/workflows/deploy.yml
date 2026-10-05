@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "0 5 * * 1"   # every Monday 05:00 UTC: refresh publications from PubMed
   workflow_dispatch:
+    inputs:
+      indexnow_all:
+        description: "Soumettre toutes les pages à IndexNow (Bing)"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -28,6 +33,14 @@ jobs:
         run: python scripts/update_publications.py
       - name: Build site
         run: python build.py
+      - name: List new or changed pages for IndexNow
+        run: python scripts/indexnow.py diff
+        env:
+          INDEXNOW_ALL: ${{ inputs.indexnow_all }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: indexnow
+          path: indexnow-urls.txt
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -40,3 +53,16 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: indexnow
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Notify Bing via IndexNow
+        run: python scripts/indexnow.py submit
