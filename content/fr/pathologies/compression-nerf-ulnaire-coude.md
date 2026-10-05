@@ -15,7 +15,7 @@ La compression du nerf ulnaire au coude, ou syndrome du tunnel cubital, est la d
 
 ## Qu'est-ce que la compression du nerf ulnaire au coude ?
 
-Le nerf ulnaire (anciennement appelé nerf cubital) descend le long du bras et passe à la face interne du coude, dans une gouttière osseuse derrière l'épitrochlée (le relief osseux interne du coude), recouverte d'une arcade fibreuse : c'est le tunnel cubital. C'est à cet endroit qu'on ressent une décharge en se cognant le « petit juif ».
+Le nerf ulnaire (anciennement appelé nerf cubital) descend le long du bras et passe à la face interne du coude, dans une gouttière osseuse derrière l'épitrochlée (le relief osseux interne du coude), recouverte d'une arcade fibreuse : c'est le tunnel cubital. C'est à cet endroit qu'on ressent une décharge électrique dans les deux derniers doigts quand on se cogne le coude.
 
 Lorsque le coude est plié, le tunnel se rétrécit et le nerf est étiré. Des postures prolongées coude fléchi (téléphone, sommeil bras replié, appui sur le coude), un nerf qui se luxe en avant à chaque flexion, une arthrose du coude ou des séquelles de fracture favorisent la compression.
 

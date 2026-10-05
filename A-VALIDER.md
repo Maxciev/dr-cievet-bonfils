@@ -170,7 +170,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Récidive post-bursectomie qualifiée de « peu fréquente ».
 
 ## [ ] [compression-nerf-ulnaire-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-ulnaire-coude.md) (rédigée sans source ICMMS)
-- « Deuxième compression nerveuse du membre supérieur » ; expression « petit juif » (terme populaire, à conserver ou retirer).
+- « Deuxième compression nerveuse du membre supérieur » (expression « petit juif » retirée par Claude).
 - Indications de transposition antérieure (nerf instable, séquelles de fracture, récidive) vs libération in situ de référence.
 - Anesthésie : locorégionale, ou locale pour une libération simple (lien WALANT à ajouter si pratiqué).
 - Durée du traitement médical (« plusieurs semaines à quelques mois ») ; récupération de la force « sur plusieurs mois ».
