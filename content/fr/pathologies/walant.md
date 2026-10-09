@@ -19,10 +19,13 @@ Le chirurgien injecte, avec une aiguille fine, un anesthésique local associé �
 
 ## Quelles interventions ?
 
-Le Dr Cievet-Bonfils pratique le WALANT pour deux interventions :
+Le Dr Cievet-Bonfils pratique le WALANT pour certaines interventions, par exemple :
 
 - [Doigt à ressaut](doigt-a-ressaut.html)
 - [Syndrome du canal carpien](canal-carpien.html)
+- Kyste de la gaine des fléchisseurs
+
+D'autres interventions peuvent être réalisées sous WALANT au cas par cas.
 
 L'indication est discutée en consultation selon l'intervention, votre état de santé et vos préférences.
 
