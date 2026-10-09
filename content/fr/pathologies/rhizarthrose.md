@@ -10,7 +10,7 @@ image: rhizarthrose.jpg
 image_alt: Illustration de l'arthrose trapézo-métacarpienne à la base du pouce
 related_pmids: 38114074
 ---
-La rhizarthrose est l'arthrose de l'articulation située à la base du pouce, entre le trapèze et le premier métacarpien. Elle provoque une douleur à la pince et à la prise, surtout chez la femme après 50 ans. Le traitement commence par une orthèse et des infiltrations ; en cas d'échec, une prothèse trapézo-métacarpienne peut être proposée.
+La rhizarthrose est l'arthrose de l'articulation située à la base du pouce, entre le trapèze et le premier métacarpien. Elle provoque une douleur à la pince et à la prise. Dans les stades débutants, le traitement commence par une orthèse et des infiltrations ; en cas d'échec ou de stade plus sévère, une prothèse trapézo-métacarpienne peut être proposée.
 
 ## Quels sont les symptômes ?
 
@@ -26,8 +26,7 @@ L'examen clinique oriente, des radiographies du pouce confirment l'arthrose et p
 ## Quels traitements sans chirurgie ?
 
 - Orthèse de repos portée la nuit ou lors des activités douloureuses
-- Adaptation des gestes et aides techniques, avec l'aide d'un ergothérapeute
-- Infiltration de corticoïdes dans l'articulation lors des poussées douloureuses
+- Infiltration de PRP (plasma riche en plaquettes) ou de corticoïdes dans l'articulation
 
 ## Quand opérer ?
 
@@ -39,7 +38,7 @@ La prothèse remplace l'articulation usée par une articulation artificielle : u
 
 Les prothèses actuelles, notamment à double mobilité, ont une survie d'environ 90 % à 10 ans dans les séries publiées ([Chammas et al., OTSR 2026](https://doi.org/10.1016/j.otsr.2026.104805) ; [Toffoli et al., J Hand Surg Am 2024](https://doi.org/10.1016/j.jhsa.2024.03.019)).
 
-L'intervention se fait en ambulatoire, sous anesthésie locorégionale. Le pouce est immobilisé quelques semaines, puis une rééducation est souvent nécessaire. La récupération complète de la force demande plusieurs mois.
+L'intervention se fait en ambulatoire, sous anesthésie locorégionale. Le pouce est immobilisé pendant 3 semaines, puis une rééducation est nécessaire. La récupération complète de la force demande plusieurs mois.
 
 Le Dr Cievet-Bonfils a coécrit une étude sur le devenir à 31 ans d'une série de prothèses trapézo-métacarpiennes (voir ci-dessous).
 
@@ -52,4 +51,4 @@ Pas toujours : une prothèse peut s'user ou se desceller avec le temps. Avec les
 Oui, en général à plusieurs mois d'intervalle.
 
 ### Combien de temps sans conduire ?
-La reprise dépend de l'immobilisation et de la récupération ; elle se discute au cas par cas, souvent après quelques semaines.
+La reprise dépend de l'immobilisation et de la récupération ; elle se discute au cas par cas, souvent après 3 semaines.

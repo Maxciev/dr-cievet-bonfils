@@ -21,9 +21,8 @@ Le chirurgien injecte, avec une aiguille fine, un anesthésique local associé �
 
 Le WALANT convient à de nombreuses interventions de la main et du poignet, notamment :
 
-- [Syndrome du canal carpien](canal-carpien.html)
 - [Doigt à ressaut](doigt-a-ressaut.html)
-- [Maladie de Dupuytren](maladie-de-dupuytren.html)
+- [Syndrome du canal carpien](canal-carpien.html)
 - Kystes, certaines lésions tendineuses et certaines fractures de la main
 
 L'indication est discutée en consultation selon l'intervention, votre état de santé et vos préférences.
@@ -50,4 +49,4 @@ L'injection initiale est ressentie comme une piqûre et une brûlure brève. Ens
 Non, un champ opératoire masque la main. Vous pouvez parler avec l'équipe pendant l'intervention.
 
 ### Puis-je rentrer seul chez moi ?
-L'intervention étant pratiquée sous anesthésie locale, la sortie est rapide. Il est recommandé de ne pas conduire le jour même avec la main opérée ; les consignes précises vous sont données par l'équipe.
+L'intervention étant pratiquée sous anesthésie locale, la sortie est rapide. Il est recommandé d'être accompagné pour le retour.

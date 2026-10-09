@@ -47,7 +47,7 @@ Elle peut être réalisée sous anesthésie locale sans garrot ([WALANT](walant.
 
 - Les doigts peuvent être utilisés immédiatement pour les gestes légers de la vie quotidienne
 - Les fourmillements nocturnes disparaissent souvent dans les premiers jours ; la récupération de la sensibilité est plus lente et dépend de l'ancienneté de la compression
-- Une sensibilité de la paume à l'appui (douleur « du talon de la main ») est fréquente pendant quelques semaines
+- Une sensibilité de la paume à l'appui (douleur « du talon de la main ») est fréquente pendant 2 à 3 mois
 - La durée de l'arrêt de travail dépend de votre métier : de quelques jours pour un travail de bureau à plusieurs semaines pour un travail manuel de force
 
 Les complications sont rares : infection, hématome, raideur ou syndrome douloureux régional complexe (algodystrophie). Elles vous sont expliquées en consultation.

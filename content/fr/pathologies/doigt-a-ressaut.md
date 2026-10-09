@@ -38,7 +38,8 @@ Elle se prête particulièrement bien à l'anesthésie locale sans garrot ([WALA
 
 - Mobilisation des doigts dès le jour de l'intervention
 - Pansement simple jusqu'à cicatrisation, en général deux semaines
-- Reprise progressive des activités ; la sensibilité de la cicatrice peut durer quelques semaines
+- Reprise progressive des activités ; pas de travail en force pendant 2 à 3 semaines
+- La sensibilité de la cicatrice peut durer 2 à 3 mois
 
 ## Questions fréquentes
 
@@ -49,4 +50,4 @@ Non. Elle est souvent efficace, mais les symptômes peuvent revenir. La chirurgi
 Oui, plusieurs doigts peuvent être libérés lors de la même intervention.
 
 ### Le doigt à ressaut peut-il toucher l'enfant ?
-Oui, surtout au pouce (pouce à ressaut ou « pouce bloqué » de l'enfant). La prise en charge diffère de celle de l'adulte ; elle est discutée en consultation.
+Oui, surtout au pouce (pouce à ressaut ou « pouce bloqué » de l'enfant). La prise en charge est généralement chirurgicale d'emblée.

@@ -31,17 +31,17 @@ Un simple nodule sans rétraction ne justifie pas d'intervention. On propose un 
 
 Le traitement dépend du stade, du nombre de doigts atteints et de vos attentes :
 
-- **Aponévrotomie percutanée à l'aiguille** : la corde est sectionnée à travers la peau, sous anesthésie locale, sans cicatrice. Récupération rapide, mais risque de récidive plus élevé.
+- **Aponévrotomie percutanée à l'aiguille** : la corde est sectionnée à travers la peau, sous anesthésie locale, de manière mini-invasive. Mais la maladie récidive progressivement, avec une durée médiane de 3 ans.
 - **Aponévrectomie** : ablation chirurgicale des cordes par une ou plusieurs incisions. Elle est plus durable et adaptée aux formes étendues.
 - Dans les formes récidivantes ou très sévères, d'autres gestes (greffe de peau, arthrodèse) peuvent être discutés.
 
-Les interventions se font en ambulatoire, sous anesthésie locale sans garrot ([WALANT](walant.html)) ou sous anesthésie locorégionale.
+Les interventions se font en ambulatoire, sous anesthésie locorégionale.
 
 ## Après l'opération
 
-- Pansement et orthèse d'extension selon les cas, souvent portée la nuit pendant quelques semaines
-- Rééducation avec un kinésithérapeute ou un ergothérapeute de la main, si nécessaire
-- La cicatrisation prend en général deux à trois semaines
+- Pansement pendant 2 à 3 semaines
+- Orthèse d'extension portée la nuit pendant plusieurs semaines
+- Rééducation avec un kinésithérapeute de la main
 
 La maladie de Dupuytren peut récidiver ou apparaître sur d'autres doigts au fil des années : l'intervention corrige la rétraction, elle ne guérit pas la maladie.
 
