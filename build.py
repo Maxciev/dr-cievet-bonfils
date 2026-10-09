@@ -464,6 +464,10 @@ def build_home_en():
 
 
 def build_pathology(p, all_pathos):
+    # A link to a fiche that is still a draft would 404 on the public site: keep only its text.
+    published = {o["slug"] for o in all_pathos}
+    p = {**p, "body": re.sub(r'<a href="([a-z0-9-]+)\.html">(.*?)</a>',
+                             lambda m: m.group(0) if m.group(1) in published else m.group(2), p["body"])}
     related = [x for x in PUBS["items"] if x["pmid"] in p.get("related_pmids", "").split()]
     rel_html = ""
     if related:

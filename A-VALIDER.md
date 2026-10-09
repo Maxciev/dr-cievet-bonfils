@@ -1,6 +1,6 @@
 # Fiches à valider
 
-25 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+24 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -12,7 +12,7 @@
 
 Affirmations à vérifier par le chirurgien, fiche par fiche.
 
-## [ ] [tenosynovite-de-de-quervain](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/tenosynovite-de-de-quervain.md)
+## [x] [tenosynovite-de-de-quervain](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/tenosynovite-de-de-quervain.md)
 - Durée d'intervention « une quinzaine de minutes » et ablation des fils « vers le 12e-15e jour » (dépend de votre type de suture : résorbable ?).
 - Mention de la cloison intra-compartimentale (sous-compartiment du court extenseur) comme cause possible d'échec de l'infiltration, et infiltration « souvent guidée par l'échographie » : conforme à votre pratique ?
 - Indication opératoire « en général après une ou deux infiltrations ».

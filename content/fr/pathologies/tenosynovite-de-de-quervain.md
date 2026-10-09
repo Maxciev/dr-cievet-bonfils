@@ -9,7 +9,6 @@ group: main
 image: tenosynovite-de-de-quervain.jpg
 image_alt: Schéma du poignet montrant les deux tendons du pouce inflammés dans leur gaine, au bord du poignet côté pouce
 related_pmids:
-status: brouillon
 ---
 La ténosynovite de De Quervain est une inflammation de deux tendons du pouce là où ils glissent dans un tunnel étroit, au bord du poignet côté pouce. Elle provoque une douleur vive quand on bouge le pouce ou qu'on pince. Le traitement repose d'abord sur le repos, une orthèse et une infiltration ; si la douleur persiste, une courte intervention sous anesthésie locale ouvre ce tunnel.
 
