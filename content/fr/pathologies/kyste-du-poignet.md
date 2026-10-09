@@ -50,7 +50,7 @@ L'exérèse est proposée lorsque le kyste est douloureux, gêne les activités,
 
 Le principe est de retirer le kyste **avec son pédicule** et la zone de capsule articulaire d'où il naît, pour limiter la récidive. L'intervention se fait en ambulatoire. Deux techniques sont possibles :
 
-- **À ciel ouvert** : par une courte incision en regard du kyste. Elle peut être réalisée sous anesthésie locale sans garrot ([WALANT](walant.html)) : vous restez éveillé, sans perfusion ni garrot. Une anesthésie locorégionale du bras est une alternative.
+- **À ciel ouvert** : par une courte incision en regard du kyste. Elle se fait sous anesthésie locorégionale du bras.
 - **Sous arthroscopie** : par deux ou trois incisions de quelques millimètres, le kyste est traité depuis l'intérieur de l'articulation. Cette technique, adaptée surtout aux kystes dorsaux, laisse des cicatrices plus discrètes et permet de vérifier l'état des ligaments du poignet. Elle se fait sous anesthésie locorégionale.
 
 Le choix se discute en consultation selon la localisation du kyste et vos attentes.

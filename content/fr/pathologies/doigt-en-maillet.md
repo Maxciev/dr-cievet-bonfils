@@ -58,7 +58,7 @@ La chirurgie est proposée dans un nombre limité de situations :
 
 ## Comment se déroule l'intervention ?
 
-En cas de fracture, le fragment osseux est remis en place et maintenu, le plus souvent par des broches placées à travers la peau. Dans les formes anciennes, le tendon peut être retendu ou réinséré, ou l'articulation bloquée (arthrodèse) si elle est abîmée. L'intervention se fait en ambulatoire ; elle se prête à l'anesthésie locale sans garrot ([WALANT](walant.html)) ou à une anesthésie du doigt ou du bras.
+En cas de fracture, le fragment osseux est remis en place et maintenu, le plus souvent par des broches placées à travers la peau. Dans les formes anciennes, le tendon peut être retendu ou réinséré, ou l'articulation bloquée (arthrodèse) si elle est abîmée. L'intervention se fait en ambulatoire ; elle se fait sous anesthésie du doigt ou du bras.
 
 ## Après l'opération
 

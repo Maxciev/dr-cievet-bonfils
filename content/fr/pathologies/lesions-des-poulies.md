@@ -57,7 +57,7 @@ Consulter rapidement après l'accident permet de poser le bon diagnostic et de n
 
 La poulie rompue ne peut en général pas être simplement recousue : elle est **reconstruite** à l'aide d'une greffe de tendon (souvent un petit tendon de l'avant-bras ou du poignet, dont l'absence ne gêne pas), passée en anneau autour de la phalange ou fixée sur les restes de la poulie. Le tendon fléchisseur retrouve ainsi sa position contre l'os.
 
-L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras ou, selon les cas, sous anesthésie locale sans garrot ([WALANT](walant.html)), qui permet de vérifier le glissement du tendon en vous faisant plier le doigt pendant l'opération.
+L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

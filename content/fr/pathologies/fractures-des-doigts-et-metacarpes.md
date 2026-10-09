@@ -67,7 +67,7 @@ Le chirurgien remet les fragments en place (réduction), puis les fixe (ostéosy
 - **vis** seules, pour certaines fractures obliques ou articulaires
 - **plaque vissée**, lorsque le montage doit être assez solide pour permettre une mobilisation rapide
 
-L'intervention se fait en ambulatoire. De nombreuses fractures des doigts peuvent être opérées sous anesthésie locale sans garrot ([WALANT](walant.html)) : vous restez éveillé et pouvez bouger le doigt pendant l'intervention, ce qui permet de vérifier l'absence de rotation et la bonne course des tendons. Une anesthésie locorégionale du bras est une alternative, notamment pour les fractures des métacarpiens ou les montages plus longs.
+L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

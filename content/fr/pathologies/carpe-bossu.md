@@ -49,7 +49,7 @@ L'intervention est proposée lorsque la douleur persiste malgré ces mesures et 
 
 Par une courte incision sur le dos de la main, en écartant les tendons extenseurs, le chirurgien retire la saillie osseuse (**résection**) jusqu'à retrouver une surface régulière, ainsi qu'un éventuel kyste associé. Dans certaines situations, notamment en cas de récidive ou d'articulation très instable, une **arthrodèse** (fusion) de cette petite articulation peut être discutée ; elle n'entraîne pas de perte de mobilité notable du poignet, car cette articulation bouge très peu.
 
-L'intervention se fait en ambulatoire. Elle peut être réalisée sous anesthésie locale sans garrot ([WALANT](walant.html)) ou sous anesthésie locorégionale du bras. Le choix se discute en consultation.
+L'intervention se fait en ambulatoire. Elle est réalisée sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

@@ -50,7 +50,7 @@ L'intervention est proposée lorsque la douleur persiste ou récidive malgré un
 
 Par une petite incision au bord du poignet, le chirurgien ouvre le toit du premier compartiment pour redonner de la place aux tendons. La gaine malade est retirée si nécessaire, et une éventuelle cloison séparant les deux tendons est ouverte. Les fines branches du nerf sensitif qui passent juste sous la peau à cet endroit sont repérées et protégées.
 
-L'intervention dure une quinzaine de minutes et se fait en ambulatoire. Elle se prête bien à l'anesthésie locale sans garrot ([WALANT](walant.html)) : vous restez éveillé, et le chirurgien peut vous demander de bouger le pouce pour vérifier que les tendons glissent librement. Une anesthésie locorégionale du bras reste possible.
+L'intervention dure une quinzaine de minutes et se fait en ambulatoire. Elle se fait sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

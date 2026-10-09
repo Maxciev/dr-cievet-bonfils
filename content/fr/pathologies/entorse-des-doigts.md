@@ -55,7 +55,7 @@ L'intervention est nécessaire dans des situations moins fréquentes :
 
 ## Comment se déroule l'intervention ?
 
-Selon la lésion, le chirurgien remet l'articulation en place, répare ou réinsère le ligament déchiré à l'os (par exemple avec une petite ancre), ou fixe le fragment osseux avec des broches, une vis ou une petite plaque. L'objectif est d'obtenir une articulation stable permettant une rééducation précoce. L'intervention se fait en ambulatoire ; elle peut être réalisée sous anesthésie locale sans garrot ([WALANT](walant.html)), ce qui permet de vérifier la stabilité du doigt en mouvement, ou sous anesthésie locorégionale du bras.
+Selon la lésion, le chirurgien remet l'articulation en place, répare ou réinsère le ligament déchiré à l'os (par exemple avec une petite ancre), ou fixe le fragment osseux avec des broches, une vis ou une petite plaque. L'objectif est d'obtenir une articulation stable permettant une rééducation précoce. L'intervention se fait en ambulatoire ; elle se fait sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

@@ -19,11 +19,10 @@ Le chirurgien injecte, avec une aiguille fine, un anesthésique local associé �
 
 ## Quelles interventions ?
 
-Le WALANT convient à de nombreuses interventions de la main et du poignet, notamment :
+Le Dr Cievet-Bonfils pratique le WALANT pour deux interventions :
 
 - [Doigt à ressaut](doigt-a-ressaut.html)
 - [Syndrome du canal carpien](canal-carpien.html)
-- Kystes, certaines lésions tendineuses et certaines fractures de la main
 
 L'indication est discutée en consultation selon l'intervention, votre état de santé et vos préférences.
 

@@ -58,7 +58,7 @@ L'intervention est nécessaire dans les situations suivantes :
 
 Par une incision sur le bord interne de la base du pouce, le chirurgien libère le ligament, le remet en place et le fixe sur l'os, le plus souvent à l'aide d'une petite ancre (un mini-implant qui sert de point d'attache). Un fragment osseux déplacé est fixé par une broche ou une petite vis. Dans les instabilités anciennes, lorsque le ligament n'est plus réparable, une reconstruction avec un greffon tendineux ou, en cas d'arthrose, un blocage de l'articulation (arthrodèse) peuvent être discutés.
 
-L'intervention se fait en ambulatoire, sous anesthésie locale sans garrot ([WALANT](walant.html)) ou sous anesthésie locorégionale du bras.
+L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

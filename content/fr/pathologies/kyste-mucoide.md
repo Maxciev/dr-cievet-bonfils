@@ -52,7 +52,7 @@ L'intervention est proposée lorsque le kyste :
 
 Le chirurgien retire le kyste avec son pédicule, c'est-à-dire la partie de la capsule par laquelle il communique avec l'articulation. Il enlève également les ostéophytes du dos de l'articulation, qui sont à l'origine de la fuite de liquide : c'est ce geste qui limite le risque de récidive. Lorsque la peau au-dessus du kyste est très amincie, elle est retirée et la zone est recouverte par un petit lambeau de peau voisine.
 
-L'intervention dure en général une vingtaine de minutes et se fait en ambulatoire, sous anesthésie locale sans garrot ([WALANT](walant.html)) ou sous anesthésie du doigt. Vous rentrez chez vous le jour même.
+L'intervention dure en général une vingtaine de minutes et se fait en ambulatoire, sous anesthésie du doigt. Vous rentrez chez vous le jour même.
 
 ## Après l'opération
 

@@ -69,7 +69,7 @@ Selon les lésions, l'intervention peut associer :
 - une réimplantation lorsque le doigt amputé s'y prête
 - un lavage en cas d'infection ou de morsure
 
-La plupart de ces gestes se font en ambulatoire, sous anesthésie locorégionale du bras ou, pour certaines plaies des doigts, sous anesthésie locale sans garrot ([WALANT](walant.html)). Les réimplantations nécessitent une hospitalisation.
+La plupart de ces gestes se font en ambulatoire, sous anesthésie locorégionale du bras. Les réimplantations nécessitent une hospitalisation.
 
 ## Après la prise en charge
 

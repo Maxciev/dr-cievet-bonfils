@@ -6,6 +6,8 @@
 
 **Comment valider** : réponds à Claude, par exemple « valide tout sauf X » ou « fiche Y : remplacer … par … ». Claude retire la mention brouillon et la fiche est publiée automatiquement.
 
+**WALANT** : mention retirée de toutes les fiches sauf doigt à ressaut et canal carpien (décision du 9/10). Ignorer les points « WALANT » listés ci-dessous.
+
 **Point prioritaire** : la fiche *urgences-de-la-main* indique que le Dr Cievet-Bonfils participe au SOS Mains du Médipôle Lyon-Villeurbanne. À confirmer ou retirer.
 
 ### Relecture médicale — lot A (main)
