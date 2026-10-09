@@ -1,6 +1,6 @@
 # Fiches à valider
 
-24 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+23 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -19,7 +19,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Complications listées : névrome/irritation de la branche sensitive du nerf radial, luxation palmaire des tendons (exceptionnelle).
 - Association avec la grossesse / le post-partum (ajout hors source ICMMS).
 
-## [ ] [arthrose-des-doigts](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/arthrose-des-doigts.md)
+## [x] [arthrose-des-doigts](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/arthrose-des-doigts.md)
 - Indication de la prothèse IPP « surtout pour le majeur, l'annulaire et l'auriculaire » et arthrodèse préférée pour l'index et l'IPD : correspond-il à vos indications (prothèse IPP de l'index par voie latérale ?).
 - Anesthésie : locorégionale ou WALANT pour une prothèse IPP — à confirmer selon votre pratique.
 - Délai de consolidation d'une arthrodèse « en général 6 à 8 semaines ».

@@ -9,7 +9,6 @@ group: main
 image: arthrose-des-doigts.jpg
 image_alt: Main présentant des nodosités sur les articulations des doigts, caractéristiques de l'arthrose digitale
 related_pmids:
-status: brouillon
 ---
 L'arthrose des doigts est l'usure du cartilage des petites articulations des doigts, le plus souvent l'articulation du milieu du doigt (inter-phalangienne proximale) ou celle du bout du doigt (inter-phalangienne distale). Elle provoque douleurs, raideur et déformations en forme de nodosités. Le traitement repose d'abord sur les antalgiques, les orthèses et les infiltrations ; en cas d'échec, une prothèse de l'articulation du milieu du doigt ou un blocage de l'articulation (arthrodèse) peuvent être proposés.
 
@@ -53,7 +52,7 @@ Deux grandes options existent :
 - **Prothèse inter-phalangienne proximale** : l'articulation usée du milieu du doigt est remplacée par un implant. L'objectif est de supprimer la douleur tout en conservant une mobilité utile. Elle est surtout proposée pour le majeur, l'annulaire et l'auriculaire, qui ont besoin de flexion pour la prise globale
 - **Arthrodèse** : l'articulation est bloquée définitivement dans une position fonctionnelle, avec des broches ou une vis. Elle supprime la douleur et donne un doigt stable et solide, mais sans mouvement à ce niveau. C'est la solution habituelle pour l'articulation du bout du doigt, et souvent pour l'index, très sollicité en pince latérale
 
-Les ostéophytes, la synoviale inflammatoire ou un kyste associé peuvent être retirés dans le même temps. L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras ou, selon les cas, sous anesthésie locale sans garrot ([WALANT](walant.html)).
+Les ostéophytes, la synoviale inflammatoire ou un kyste associé peuvent être retirés dans le même temps. L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 
