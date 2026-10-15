@@ -9,7 +9,6 @@ fr: maladie-de-dupuytren
 image: maladie-de-dupuytren.jpg
 image_alt: Illustration of Dupuytren's cords in the palm
 related_pmids:
-status: draft
 ---
 Dupuytren's disease is a progressive thickening of the fibrous tissue of the palm (the palmar fascia). It forms nodules, then cords that gradually pull the fingers into the palm, mostly the ring and little fingers. It is treated when the contracture becomes a nuisance: there is no preventive treatment.
 

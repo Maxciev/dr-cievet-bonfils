@@ -399,7 +399,7 @@ def build_home_fr(pathos):
 
 <section class="wrap section two-col">
   <div><h2>Diplômes</h2><ul>{"".join(f"<li>{e(d)}</li>" for d in DIPLOMAS_FR)}</ul></div>
-  <div><h2>Sociétés savantes</h2><ul>{"".join(f"<li>{e(d)}</li>" for d in SOCIETIES_FR)}</ul><h2>Langues</h2><p>Français, anglais</p></div>
+  <div><h2>Sociétés savantes</h2><ul>{"".join(f"<li>{e(d)}</li>" for d in SOCIETIES_FR)}</ul><h2>Langues</h2><p>Français, anglais (consultations possibles en anglais pour les patients anglophones)</p></div>
 </section>
 
 <section class="band-navy" id="consultations"><div class="wrap section two-col">
@@ -449,11 +449,12 @@ def build_home_en(en_pathos=()):
 </div></section>
 <section class="wrap section two-col">
   <div><h2>Qualifications</h2><ul>{"".join(f"<li>{e(d)}</li>" for d in DIPLOMAS_EN)}</ul></div>
-  <div><h2>Professional societies</h2><ul>{"".join(f"<li>{e(d)}</li>" for d in SOCIETIES_EN)}</ul><h2>Languages</h2><p>French, English</p></div>
+  <div><h2>Professional societies</h2><ul>{"".join(f"<li>{e(d)}</li>" for d in SOCIETIES_EN)}</ul><h2>Languages</h2><p>French, English. Consultations are available in English for English-speaking patients.</p></div>
 </section>
 <section class="band" id="locations"><div class="wrap section two-col">
   <div><h2>Consultations</h2><ul class="plain">{consult}</ul>
   <p>{e(CFG['phone']['label_en'])}: <a href="tel:{CFG['phone']['e164']}">+33 4 87 25 83 35</a></p>
+  <p>Consultations in French or English.</p>
   <p>Contracted with the French national health insurance, sector 2 (fees above the standard tariff, not OPTAM).</p></div>
   <div><h2>Surgery</h2><ul class="plain">{surg}</ul></div>
 </div></section>

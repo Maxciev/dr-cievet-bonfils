@@ -9,7 +9,6 @@ fr: canal-carpien
 image: canal-carpien.jpg
 image_alt: Illustration of the median nerve compressed in the carpal tunnel
 related_pmids:
-status: draft
 ---
 Carpal tunnel syndrome is compression of the median nerve at the wrist. It causes tingling in the thumb, index and middle fingers, typically at night. When symptoms persist despite non-surgical treatment, or when the nerve is suffering, a short day-case operation, often under local anaesthesia, releases the nerve.
 

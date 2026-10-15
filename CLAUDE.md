@@ -4,6 +4,7 @@ Site statique du Dr Maxime Cievet-Bonfils, chirurgien de la main, du poignet et 
 
 - `config.json` : identité, liens, adresses, téléphone, requête PubMed, ORCID. Toute donnée d'identité se modifie ici, jamais en dur.
 - `content/fr/pathologies/*.md` : fiches patients. Pour en créer ou modifier une : skill `nouvelle-fiche`.
+- `content/en/conditions/*.md` : traductions anglaises (clé `fr:` = slug français). Toute fiche française publiée ou corrigée est traduite ou mise à jour : skill `traduction-fiche`.
 - `data/publications.json` : généré par `scripts/update_publications.py` (PubMed + ORCID + Crossref). Ne pas éditer à la main.
 - `static/` : CSS (charte ICMMS : #2E3B57, #D9BBA8, #F7F0E8, Montserrat auto-hébergée), images, polices.
 - `scripts/indexnow.py` + `static/<clé>.txt` : après chaque déploiement, les pages nouvelles ou modifiées sont signalées à Bing (IndexNow). Soumission complète : Actions → Build and deploy → Run workflow → cocher « Soumettre toutes les pages ». Ne pas supprimer le fichier de clé.

@@ -9,7 +9,6 @@ fr: doigt-a-ressaut
 image: doigt-a-ressaut.jpg
 image_alt: Illustration of the flexor tendon catching on the A1 pulley
 related_pmids:
-status: draft
 ---
 Trigger finger is a catching of the flexor tendon at the base of the finger. The finger locks in a bent position and then suddenly snaps free, often in the morning. An injection is frequently enough; otherwise, a procedure lasting a few minutes under local anaesthesia frees the tendon.
 
