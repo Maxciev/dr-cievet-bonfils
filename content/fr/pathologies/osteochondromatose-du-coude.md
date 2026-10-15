@@ -9,7 +9,6 @@ group: coude
 image: osteochondromatose-du-coude.jpg
 image_alt: Radiographie de coude montrant de multiples petits corps étrangers dans l'articulation
 related_pmids:
-status: brouillon
 ---
 L'ostéochondromatose du coude (ou chondromatose synoviale) est une maladie rare de la membrane qui tapisse l'intérieur de l'articulation : elle fabrique de petits nodules de cartilage qui se détachent et deviennent des corps étrangers libres dans le coude. Ils provoquent des douleurs, un gonflement et des blocages. Le traitement repose sur leur ablation sous arthroscopie, associée au retrait de la membrane malade.
 

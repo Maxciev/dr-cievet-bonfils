@@ -40,6 +40,7 @@ Le diagnostic est avant tout clinique : le chirurgien recherche une douleur pré
 - **L'échographie** visualise le nerf et recherche une cause locale de compression
 - **L'électromyogramme** est souvent normal dans la forme douloureuse ; il est indispensable dans la forme paralysante
 - **Une IRM** est demandée en cas de suspicion de masse
+- **Un test anesthésique** est réalisé systématiquement : une petite quantité d'anesthésique local est injectée, sous contrôle échographique, au contact du nerf au niveau de l'arcade de Frohse. Si la douleur disparaît pendant quelques heures, le nerf est bien en cause
 
 ## Quels traitements sans chirurgie ?
 
@@ -47,6 +48,8 @@ Le diagnostic est avant tout clinique : le chirurgien recherche une douleur pré
 - **Rééducation** avec un kinésithérapeute spécialisé en rééducation de la main
 - **Orthèse** de repos du poignet dans les phases douloureuses
 - **Antalgiques** sur de courtes périodes
+
+Les infiltrations de corticoïdes ne sont pas utilisées.
 
 ## Quand faut-il opérer ?
 

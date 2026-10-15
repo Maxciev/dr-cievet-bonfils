@@ -9,7 +9,6 @@ group: coude
 image: raideur-du-coude.jpg
 image_alt: Coude en extension incomplète illustrant une perte de mobilité après une fracture
 related_pmids:
-status: brouillon
 ---
 La raideur du coude est une perte de mobilité qui empêche de plier ou d'étendre complètement le bras. Elle survient le plus souvent après une fracture ou une entorse du coude, en raison de cicatrices autour de l'articulation, d'os en excès ou d'une consolidation en mauvaise position. La rééducation est le premier traitement ; si la raideur persiste et gêne, une arthrolyse (libération chirurgicale de l'articulation), souvent sous arthroscopie, permet de récupérer de la mobilité.
 
@@ -37,7 +36,7 @@ Une petite perte d'extension est souvent bien tolérée ; une perte de flexion e
 
 ## Comment pose-t-on le diagnostic ?
 
-L'examen mesure précisément les amplitudes de flexion, d'extension et de rotation, et recherche une atteinte du nerf ulnaire. Les radiographies vérifient la consolidation et recherchent des butées osseuses. Un scanner (ou arthroscanner) précise les obstacles osseux et l'état du cartilage, ce qui aide à planifier une éventuelle intervention. Un électromyogramme est demandé en cas de signes nerveux.
+L'examen mesure précisément les amplitudes de flexion, d'extension et de rotation, et recherche une atteinte du nerf ulnaire. Les radiographies vérifient la consolidation et recherchent des butées osseuses. Un arthroscanner précise les obstacles osseux et l'état du cartilage, ce qui aide à planifier une éventuelle intervention. Un électromyogramme est demandé en cas de signes nerveux.
 
 ## Quels traitements sans chirurgie ?
 
@@ -46,6 +45,7 @@ Dans les premiers mois, la raideur peut encore s'améliorer par la rééducation
 - **Kinésithérapie** régulière et exercices à la maison, sans forcer dans la douleur
 - **Orthèses** dynamiques ou posturales, qui mettent progressivement l'articulation en tension (flexion ou extension)
 - **Antalgiques et anti-inflammatoires** pour permettre la rééducation
+- **Injections de toxine botulique** dans le muscle biceps (Botox) : elles détendent le muscle, qui reste contracté pour protéger le coude douloureux, et favorisent la récupération de l'extension pendant la rééducation
 
 ## Quand faut-il opérer ?
 

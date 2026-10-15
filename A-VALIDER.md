@@ -1,6 +1,6 @@
 # Fiches à valider
 
-9 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+7 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -146,13 +146,13 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Place du PRP et des ondes de choc ; position prudente sur les infiltrations de corticoïdes (effet à court terme, pas de bénéfice à long terme).
 - Technique : débridement arthroscopique + retente ligamentaire arthroscopique en cas de micro-instabilité ; anesthésie locorégionale (WALANT non mentionné — à ajouter si pratiqué).
 
-## [ ] [raideur-du-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/raideur-du-coude.md)
+## [x] [raideur-du-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/raideur-du-coude.md)
 - Moment de l'arthrolyse : « plusieurs mois après le traumatisme, fracture consolidée ».
 - Libération du nerf ulnaire associée « si gain de flexion attendu important ».
 - Mobilisation « souvent dès le lendemain » ; hospitalisation courte possible (vs ambulatoire).
 - Mention de la prothèse de coude pour les articulations détruites.
 
-## [ ] [osteochondromatose-du-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/osteochondromatose-du-coude.md)
+## [x] [osteochondromatose-du-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/osteochondromatose-du-coude.md)
 - Épidémiologie : adulte jeune/âge moyen, unilatéral ; « transformation maligne exceptionnelle ».
 - Imagerie : arthroscanner ou IRM pour les nodules non calcifiés.
 - Paragraphe ostéochondrite disséquante du capitulum (adolescent sportif) : formulation à valider.
@@ -190,17 +190,17 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 ## [ ] [compression-nerf-interosseux-posterieur](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-interosseux-posterieur.md)
 - Deux formes (douloureuse = syndrome du tunnel radial, fréquente ; paralysante, rare) ; douleur « 4 à 5 cm sous le coude ».
 - EMG « souvent normal dans la forme douloureuse, indispensable dans la forme paralysante » ; échographie ; IRM si masse.
-- Traitement médical : rééducation, orthèse de repos du poignet, antalgiques (pas d'infiltration mentionnée).
+- Traitement médical : rééducation, orthèse, antalgiques ; pas de corticoïdes ; test anesthésique échoguidé systématique (confirmé le 2026-10-15).
 - Voie d'abord externe, libération de l'arcade de Frohse et du supinateur ; ambulatoire, ALR ; pansement 2 semaines.
 
 ## [ ] [micro-instabilite-tete-radiale](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/micro-instabilite-tete-radiale.md)
 - Concept SMILE (Arrigoni) présenté comme « instabilité mineure latérale du coude » ; causes : ancienne entorse, sollicitations, infiltrations répétées.
 - Diagnostic : radiographies normales, arthroscanner, confirmation arthroscopique.
-- Technique : arthroscopie, traitement de la synovite et de la plica, retente des ligaments externes. Précisez votre geste (plicature arthroscopique ? retente à ciel ouvert ?).
-- Suites : « orthèse quelques semaines » — durée à préciser.
+- Technique : arthroscopie, traitement de la synovite et de la plica, retente des ligaments externes. Plicature arthroscopique (confirmé le 2026-10-15).
+- Suites : attelle de repos 6 semaines (confirmé le 2026-10-15).
 
 ## [ ] [denervation-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/denervation-du-poignet.md)
-- Neurectomie NIOP + NIOA, « une ou deux incisions » au-dessus du poignet : votre voie d'abord ?
-- Test anesthésique préalable échoguidé : pratiqué systématiquement ?
+- Voie d'abord dorsale unique pour NIOP et NIOA (confirmé le 2026-10-15).
+- Test anesthésique systématique (confirmé le 2026-10-15).
 - Chiffre cité : environ 8 patients sur 10 soulagés sans réintervention, recul ~2 ans (méta-analyse Fidanza, EFORT Open Rev 2023, 347 poignets).
 - Pas d'immobilisation, pansement 2 semaines ; indications listées (arthrose SLAC/SNAC, Kienböck, douleurs chroniques, geste associé).

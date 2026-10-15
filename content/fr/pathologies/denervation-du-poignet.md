@@ -36,16 +36,16 @@ La dénervation ne traite pas la cause de la douleur : elle ne répare pas le ca
 - **Conservation de la mobilité** : aucune articulation n'est bloquée
 - **Pas d'immobilisation** : le poignet est utilisé dès les jours qui suivent
 - **Récupération rapide** : reprise des gestes quotidiens en quelques jours, et de la plupart des activités en quelques semaines
-- **Geste court**, par de petites incisions, en ambulatoire
+- **Geste court**, par une seule incision au dos du poignet, en ambulatoire
 - **Aucune porte fermée** : si la douleur revient avec l'évolution de l'arthrose, une arthrodèse partielle, une résection de la première rangée ou une prothèse restent possibles
 
 ## Comment savoir si elle peut être efficace ?
 
-Avant de proposer l'intervention, le chirurgien peut réaliser un **test anesthésique** : une injection d'anesthésique local, guidée par échographie, au contact des nerfs interosseux. Si la douleur diminue nettement pendant les heures qui suivent, la dénervation a de bonnes chances de soulager.
+Avant de proposer l'intervention, le chirurgien réalise systématiquement un **test anesthésique** : une injection d'anesthésique local, guidée par échographie, au contact des nerfs interosseux. Si la douleur diminue nettement pendant les heures qui suivent, la dénervation a de bonnes chances de soulager ; dans le cas contraire, elle n'est pas proposée.
 
 ## Comment se déroule l'intervention ?
 
-Par une ou deux courtes incisions au-dessus du poignet, le chirurgien repère les nerfs interosseux postérieur et antérieur au contact de la membrane interosseuse et en retire un petit segment. L'intervention dure peu de temps et se fait en ambulatoire, sous anesthésie locorégionale du bras.
+Par une seule courte incision au dos du poignet, quelques centimètres au-dessus de l'articulation, le chirurgien repère le nerf interosseux postérieur, puis atteint le nerf interosseux antérieur à travers la membrane interosseuse, sans incision à la face avant du poignet. Un petit segment de chaque nerf est retiré. L'intervention dure peu de temps et se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 

@@ -4,7 +4,7 @@ h1: Micro-instabilité de la tête radiale
 description: Douleur externe du coude qui résiste au traitement de l'épicondylite : la micro-instabilité de la tête radiale expliquée par le Dr Maxime Cievet-Bonfils, chirurgien de la main à Lyon.
 condition: Micro-instabilité de la tête radiale (instabilité mineure latérale du coude)
 condition_en: Symptomatic minor instability of the lateral elbow (SMILE)
-procedure: Retente arthroscopique des ligaments latéraux du coude
+procedure: Plicature arthroscopique des ligaments latéraux du coude
 group: coude
 image:
 image_alt:
@@ -51,13 +51,13 @@ L'intervention est proposée lorsque la douleur persiste et gêne malgré plusie
 
 ## Comment se déroule l'intervention ?
 
-L'intervention se fait sous **arthroscopie du coude** : une caméra et des instruments fins sont introduits par de petites incisions. Le chirurgien confirme l'instabilité, traite la synovite et les replis de membrane (plica), puis **retend les ligaments externes** du coude. Une épicondylite associée peut être traitée dans le même temps.
+L'intervention se fait sous **arthroscopie du coude** : une caméra et des instruments fins sont introduits par de petites incisions. Le chirurgien confirme l'instabilité, traite la synovite et les replis de membrane (plica), puis **retend les ligaments externes** du coude par des points de plicature (les ligaments détendus sont repliés et resserrés sur eux-mêmes). Une épicondylite associée peut être traitée dans le même temps.
 
 L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 
-- Une orthèse protège les ligaments pendant quelques semaines
+- Une attelle de repos protège les ligaments pendant 6 semaines
 - La rééducation reprend progressivement la mobilité puis le renforcement
 - La reprise des efforts et du sport est progressive, sur plusieurs mois
 

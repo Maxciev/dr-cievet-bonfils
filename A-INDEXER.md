@@ -21,5 +21,7 @@ Procédure : Search Console > barre « Inspecter n'importe quelle URL » > colle
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/conflit-ulno-carpien.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/maladie-de-kienbock.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/epicondylite.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/raideur-du-coude.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/osteochondromatose-du-coude.html (publiée le 2026-10-15)
 
 ## Fait
