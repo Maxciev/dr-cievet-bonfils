@@ -1,6 +1,6 @@
 # Fiches à valider
 
-23 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+22 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -28,7 +28,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Rééducation précoce après prothèse « avec une orthèse, pendant plusieurs semaines » : protocole à préciser si besoin (voie d'abord dorsale/palmaire).
 - Suppléments (glucosamine, chondroïtine) et synovectomie de la source volontairement omis.
 
-## [ ] [kyste-mucoide](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/kyste-mucoide.md)
+## [x] [kyste-mucoide](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/kyste-mucoide.md)
 - Geste : exérèse du kyste + pédicule + ostéophytes, lambeau de rotation si peau amincie ; durée « une vingtaine de minutes ».
 - Anesthésie : WALANT ou bloc digital.
 - Cicatrisation « environ deux semaines » et orthèse d'extension IPD « parfois, quelques jours à quelques semaines ».

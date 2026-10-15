@@ -9,7 +9,6 @@ group: main
 image: kyste-mucoide.jpg
 image_alt: Doigt présentant une petite boule translucide sur le dos de la dernière articulation, près de l'ongle
 related_pmids:
-status: brouillon
 ---
 Le kyste mucoïde est une petite boule remplie de liquide articulaire, située sur le dos du doigt entre la dernière articulation et l'ongle. Il est presque toujours lié à une arthrose de la dernière articulation du doigt et peut déformer l'ongle. Il est bénin ; lorsqu'il est gênant, une courte intervention sous anesthésie locale retire le kyste et les becs osseux qui l'alimentent.
 
