@@ -54,7 +54,7 @@ L'intervention est proposée lorsque la douleur persiste malgré le traitement m
 
 Les interventions se font sous anesthésie locorégionale (anesthésie du bras), le plus souvent en ambulatoire.
 
-- **Dénervation du poignet** : section de petites branches nerveuses sensitives qui transmettent la douleur de l'articulation. Ce geste simple conserve la mobilité ; il diminue la douleur sans arrêter l'usure et peut être proposé seul ou associé à un autre geste.
+- **[Dénervation du poignet](denervation-du-poignet.html)** : section de petites branches nerveuses sensitives qui transmettent la douleur de l'articulation. Ce geste simple conserve la mobilité ; il diminue la douleur sans arrêter l'usure et peut être proposé seul ou associé à un autre geste.
 - **Arthrodèse partielle** : fusion de quelques os du carpe entre eux, les zones usées étant supprimées. Le poignet garde une partie de sa mobilité et devient moins douloureux et plus solide. Un exemple fréquent est l'arthrodèse dite « des quatre os ».
 - **Résection de la première rangée du carpe** : ablation du scaphoïde, du lunatum et du triquétrum ; le capitatum vient s'articuler avec le radius. Ce geste conserve une partie de la mobilité, à condition que le cartilage de ces deux surfaces soit en bon état.
 - **Prothèse de poignet** : remplacement des surfaces articulaires usées par des implants. Elle vise à soulager la douleur tout en conservant la mobilité, chez des patients sélectionnés dont les activités ne sollicitent pas le poignet en force.

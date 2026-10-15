@@ -63,7 +63,7 @@ Quand le lunatum est fragmenté ou le poignet usé, le but est de **soulager la 
 
 - **Résection de la première rangée du carpe** : ablation du scaphoïde, du lunatum et du triquétrum
 - **Arthrodèse partielle** : fusion de certains os du carpe pour décharger le lunatum
-- **Dénervation du poignet**, seule ou associée
+- **[Dénervation du poignet](denervation-du-poignet.html)**, seule ou associée
 - **Arthrodèse totale** du poignet, en dernier recours
 
 L'**arthroscopie** du poignet est souvent utile pour évaluer précisément le cartilage avant de choisir le geste.

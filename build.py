@@ -50,9 +50,11 @@ PATHO_FR = {
         ("Entorses graves et lésions ligamentaires (ligament scapho-lunaire, TFCC), luxations du carpe", "lesion-ligament-scapho-lunaire"),
         ("Arthrose du poignet", "arthrose-du-poignet"),
         ("Kyste arthrosynovial du poignet", "kyste-du-poignet"),
+        ("Dénervation partielle du poignet (NIOP/NIOA)", "denervation-du-poignet"),
     ],
     "Coude": [
         ("Épicondylite (tennis elbow)", "epicondylite"),
+        ("Micro-instabilité de la tête radiale", "micro-instabilite-tete-radiale"),
         ("Fractures du coude", None),
         ("Raideur (arthrolyse), ostéochondrite, chondromatose et corps étrangers articulaires", "raideur-du-coude"),
         ("Arthrose et prothèse du coude", None),
@@ -61,7 +63,7 @@ PATHO_FR = {
         ("Syndrome du canal carpien (compression du nerf médian au poignet)", "canal-carpien"),
         ("Compression du nerf ulnaire au coude (fourmillements de l'annulaire et de l'auriculaire)", "compression-nerf-ulnaire-coude"),
         ("Syndrome du lacertus (compression du nerf médian au coude)", None),
-        ("Compression du nerf interosseux postérieur (branche du nerf radial au coude)", None),
+        ("Compression du nerf interosseux postérieur (branche du nerf radial au coude)", "compression-nerf-interosseux-posterieur"),
     ],
     "Urgences de la main (SOS Mains)": [
         ("Plaies, sections de tendons et de nerfs, fractures, replantations de doigts et de membre", "urgences-de-la-main"),

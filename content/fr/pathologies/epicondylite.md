@@ -9,7 +9,6 @@ group: coude
 image: epicondylite.jpg
 image_alt: Schéma du coude vu de côté montrant l'insertion des tendons extenseurs sur l'épicondyle latéral
 related_pmids:
-status: brouillon
 ---
 L'épicondylite latérale, ou « tennis elbow », est une souffrance des tendons qui s'attachent sur la face externe du coude. Elle provoque une douleur à l'extérieur du coude lors de la prise d'objets et des gestes de rotation de l'avant-bras. Le traitement est d'abord médical et souvent long ; la chirurgie n'est envisagée qu'après l'échec prolongé de ce traitement bien conduit.
 
@@ -17,7 +16,7 @@ L'épicondylite latérale, ou « tennis elbow », est une souffrance des tendons
 
 Les muscles qui étendent le poignet et les doigts s'insèrent par un tendon commun sur une saillie osseuse de la face externe du coude, l'épicondyle latéral. Des sollicitations répétées ou un effort inhabituel créent de petites lésions dans ce tendon, qui cicatrise mal : on parle aujourd'hui plutôt de tendinopathie (usure du tendon) que d'inflammation pure.
 
-Malgré son nom, l'épicondylite touche rarement des joueurs de tennis. Elle concerne surtout les adultes de 35 à 55 ans exposés à des gestes répétés : travail sur ordinateur, bricolage, métiers manuels, port de charges. Dans certains cas, elle est associée à une petite instabilité du coude liée à une détente des ligaments externes.
+Malgré son nom, l'épicondylite touche rarement des joueurs de tennis. Elle concerne surtout les adultes de 35 à 55 ans exposés à des gestes répétés : travail sur ordinateur, bricolage, métiers manuels, port de charges. Dans certains cas, elle est associée à une petite instabilité du coude liée à une détente des ligaments externes ([micro-instabilité de la tête radiale](micro-instabilite-tete-radiale.html)) ou à une compression du [nerf interosseux postérieur](compression-nerf-interosseux-posterieur.html) sous l'arcade de Frohse.
 
 ## Quels sont les symptômes ?
 
@@ -42,7 +41,7 @@ Le traitement médical est la règle en première intention. L'épicondylite gu�
 - **Antalgiques ou anti-inflammatoires** sur de courtes périodes
 - **Ondes de choc** ou **injection de PRP** (plasma riche en plaquettes, préparé à partir de votre propre sang) dans certaines formes rebelles, notamment en cas de fissure du tendon
 
-Les infiltrations répétées de corticoïdes sont aujourd'hui limitées : elles soulagent à court terme mais n'améliorent pas l'évolution à long terme et peuvent fragiliser le tendon.
+Les infiltrations répétées de corticoïdes sont aujourd'hui évitées : elles soulagent à court terme mais peuvent fragiliser le tendon et entraîner des dégénérescences ligamentaires.
 
 ## Quand faut-il opérer ?
 
@@ -72,7 +71,7 @@ Dans la grande majorité des cas, oui, mais lentement : il faut souvent compter 
 Pas forcément. L'objectif est de réduire les gestes qui déclenchent la douleur, pas d'immobiliser le bras. Un arrêt ou un aménagement temporaire peut être utile dans les métiers manuels.
 
 ### Les infiltrations de cortisone sont-elles efficaces ?
-Elles soulagent parfois rapidement, mais leur effet est souvent temporaire et elles ne modifient pas l'évolution à long terme. Elles sont donc utilisées avec prudence.
+Elles soulagent parfois rapidement, mais leur effet est souvent temporaire et elles ne modifient pas l'évolution à long terme. Elles risquent de fragiliser le tendon et d'entraîner des dégénérescences ligamentaires : il est préférable de ne plus les utiliser aujourd'hui.
 
 ### Quelle est la différence avec la compression d'un nerf ?
-Une compression du nerf interosseux postérieur, à l'avant-bras, peut donner une douleur proche de celle de l'épicondylite, mais située un peu plus bas. L'examen clinique et parfois l'imagerie permettent de faire la différence.
+Une compression du [nerf interosseux postérieur](compression-nerf-interosseux-posterieur.html), à l'avant-bras, peut donner une douleur proche de celle de l'épicondylite, mais située un peu plus bas. L'examen clinique et parfois l'imagerie permettent de faire la différence.

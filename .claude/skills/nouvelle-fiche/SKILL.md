@@ -52,7 +52,7 @@ related_pmids: <PMID séparés par espaces, ou vide>
 - Ne mentionne pas l'ICMMS comme source dans le texte.
 
 ## Slugs existants ou prévus (liens internes autorisés)
-canal-carpien, maladie-de-dupuytren, doigt-a-ressaut, rhizarthrose, walant, tenosynovite-de-de-quervain, arthrose-des-doigts, kyste-mucoide, doigt-en-maillet, entorse-des-doigts, entorse-du-pouce, fractures-des-doigts-et-metacarpes, lesions-des-poulies, urgences-de-la-main, fracture-du-poignet, pseudarthrose-du-scaphoide, lesion-ligament-scapho-lunaire, lesion-tfcc, kyste-du-poignet, arthrose-du-poignet, carpe-bossu, conflit-ulno-carpien, maladie-de-kienbock, epicondylite, raideur-du-coude, osteochondromatose-du-coude, rupture-du-biceps-distal, hygroma-du-coude, compression-nerf-ulnaire-coude, algodystrophie
+canal-carpien, maladie-de-dupuytren, doigt-a-ressaut, rhizarthrose, walant, tenosynovite-de-de-quervain, arthrose-des-doigts, kyste-mucoide, doigt-en-maillet, entorse-des-doigts, entorse-du-pouce, fractures-des-doigts-et-metacarpes, lesions-des-poulies, urgences-de-la-main, fracture-du-poignet, pseudarthrose-du-scaphoide, lesion-ligament-scapho-lunaire, lesion-tfcc, kyste-du-poignet, arthrose-du-poignet, carpe-bossu, conflit-ulno-carpien, maladie-de-kienbock, epicondylite, raideur-du-coude, osteochondromatose-du-coude, rupture-du-biceps-distal, hygroma-du-coude, compression-nerf-ulnaire-coude, algodystrophie, compression-nerf-interosseux-posterieur, micro-instabilite-tete-radiale, denervation-du-poignet
 
 ## Livrables
 - Un fichier `content/fr/pathologies/<slug>.md` par fiche assignée.

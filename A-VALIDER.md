@@ -1,6 +1,6 @@
 # Fiches à valider
 
-7 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+9 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -140,7 +140,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 
 # Lot D — points à vérifier par le chirurgien
 
-## [ ] [epicondylite](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/epicondylite.md)
+## [x] [epicondylite](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/epicondylite.md)
 - Tranche d'âge « 35 à 55 ans » et évolution « plusieurs mois, parfois plus d'un an ».
 - Délai avant chirurgie : « au moins six mois à un an » de traitement médical.
 - Place du PRP et des ondes de choc ; position prudente sur les infiltrations de corticoïdes (effet à court terme, pas de bénéfice à long terme).
@@ -184,3 +184,23 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Traitements de centre de la douleur cités (blocs, neurostimulation, perfusions) — à ajuster selon les pratiques locales.
 - Durée « plusieurs mois, parfois plus d'un an » ; mention de l'atteinte possible de l'épaule (symptôme, pas de chirurgie d'épaule).
 - Fiche non chirurgicale : section « Et la chirurgie ? » et « Peut-on la prévenir ? » remplacent les sections chirurgicales.
+
+### Nouvelles fiches demandées le 2026-10-15
+
+## [ ] [compression-nerf-interosseux-posterieur](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-interosseux-posterieur.md)
+- Deux formes (douloureuse = syndrome du tunnel radial, fréquente ; paralysante, rare) ; douleur « 4 à 5 cm sous le coude ».
+- EMG « souvent normal dans la forme douloureuse, indispensable dans la forme paralysante » ; échographie ; IRM si masse.
+- Traitement médical : rééducation, orthèse de repos du poignet, antalgiques (pas d'infiltration mentionnée).
+- Voie d'abord externe, libération de l'arcade de Frohse et du supinateur ; ambulatoire, ALR ; pansement 2 semaines.
+
+## [ ] [micro-instabilite-tete-radiale](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/micro-instabilite-tete-radiale.md)
+- Concept SMILE (Arrigoni) présenté comme « instabilité mineure latérale du coude » ; causes : ancienne entorse, sollicitations, infiltrations répétées.
+- Diagnostic : radiographies normales, arthroscanner, confirmation arthroscopique.
+- Technique : arthroscopie, traitement de la synovite et de la plica, retente des ligaments externes. Précisez votre geste (plicature arthroscopique ? retente à ciel ouvert ?).
+- Suites : « orthèse quelques semaines » — durée à préciser.
+
+## [ ] [denervation-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/denervation-du-poignet.md)
+- Neurectomie NIOP + NIOA, « une ou deux incisions » au-dessus du poignet : votre voie d'abord ?
+- Test anesthésique préalable échoguidé : pratiqué systématiquement ?
+- Chiffre cité : environ 8 patients sur 10 soulagés sans réintervention, recul ~2 ans (méta-analyse Fidanza, EFORT Open Rev 2023, 347 poignets).
+- Pas d'immobilisation, pansement 2 semaines ; indications listées (arthrose SLAC/SNAC, Kienböck, douleurs chroniques, geste associé).
