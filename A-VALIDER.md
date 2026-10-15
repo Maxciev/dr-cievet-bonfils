@@ -1,6 +1,6 @@
 # Fiches à valider
 
-22 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+21 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -35,7 +35,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Ponction ± infiltration présentée comme option à forte récidive (pas de chiffre donné).
 - Mise en garde contre l'auto-ponction (risque d'arthrite septique de l'IPD).
 
-## [ ] [doigt-en-maillet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/doigt-en-maillet.md)
+## [x] [doigt-en-maillet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/doigt-en-maillet.md)
 - Attelle permanente « 6 à 8 semaines », puis port nocturne quelques semaines avec sevrage progressif.
 - Indications chirurgicales : gros fragment / subluxation palmaire de P3, échec, forme ancienne avec col de cygne, impossibilité de porter l'attelle.
 - Technique : brochage percutané (type Ishiguro, non nommé) ; ablation des broches « en consultation, sans nouvelle anesthésie » ; protection « environ 6 semaines ».

@@ -9,9 +9,8 @@ group: main
 image: doigt-en-maillet.jpg
 image_alt: Doigt dont la dernière phalange reste fléchie vers le bas, sans pouvoir se redresser
 related_pmids:
-status: brouillon
 ---
-Le doigt en maillet est la perte de l'extension du bout du doigt après un choc : la dernière phalange reste pliée et ne se redresse plus activement. Il est dû à l'arrachement du tendon extenseur à son insertion, parfois avec un petit fragment d'os. Le traitement repose le plus souvent sur une attelle portée en permanence pendant 6 à 8 semaines ; une chirurgie est réservée à certaines fractures et aux formes anciennes.
+Le doigt en maillet est la perte de l'extension du bout du doigt après un choc : la dernière phalange reste pliée et ne se redresse plus activement. Il est dû à l'arrachement du tendon extenseur à son insertion, parfois avec un petit fragment d'os. Le traitement repose le plus souvent sur une attelle portée en permanence pendant 8 semaines ; une chirurgie est réservée à certaines fractures et aux formes anciennes.
 
 ## Qu'est-ce qu'un doigt en maillet ?
 
@@ -33,14 +32,14 @@ Le traumatisme paraît souvent anodin. On distingue :
 
 L'examen clinique suffit à reconnaître le doigt en maillet. Une **radiographie de profil du doigt est indispensable** : elle recherche un fragment osseux, mesure sa taille et vérifie que la dernière phalange reste bien centrée sur l'articulation. Ce sont ces éléments qui orientent vers l'attelle ou la chirurgie. L'échographie est rarement nécessaire.
 
-Consultez rapidement après le traumatisme : le traitement est plus simple et plus efficace lorsqu'il débute tôt. En cas de doute, une consultation d'[urgence de la main](urgences-de-la-main.html) permet une prise en charge dans les jours qui suivent.
+Consultez rapidement après le traumatisme : le traitement est plus simple et plus efficace lorsqu'il débute tôt. En cas de doute, il vaut mieux consulter rapidement.
 
 ## Quels traitements sans chirurgie ?
 
 La grande majorité des doigts en maillet, tendineux ou avec un petit fragment osseux non déplacé, guérissent avec une **attelle** :
 
 - l'attelle maintient la dernière phalange en extension, en laissant libre l'articulation du milieu du doigt
-- elle est portée **en permanence**, jour et nuit, en général pendant 6 à 8 semaines
+- elle est portée **en permanence**, jour et nuit, pendant 8 semaines
 - elle ne doit jamais être retirée pendant cette période, même pour la toilette : la moindre flexion du bout du doigt peut rompre la cicatrisation et imposer de recommencer le traitement
 - pour la changer ou nettoyer la peau, on maintient le doigt à plat sur une table, bout du doigt tendu
 - à la fin de cette période, l'attelle est souvent conservée la nuit quelques semaines supplémentaires, avec un sevrage progressif
@@ -58,12 +57,12 @@ La chirurgie est proposée dans un nombre limité de situations :
 
 ## Comment se déroule l'intervention ?
 
-En cas de fracture, le fragment osseux est remis en place et maintenu, le plus souvent par des broches placées à travers la peau. Dans les formes anciennes, le tendon peut être retendu ou réinséré, ou l'articulation bloquée (arthrodèse) si elle est abîmée. L'intervention se fait en ambulatoire ; elle se fait sous anesthésie du doigt ou du bras.
+En cas de fracture, le fragment osseux est remis en place et maintenu, par des broches ou une petite plaque vissée. Dans les formes anciennes, le tendon peut être retendu ou réinséré, ou l'articulation bloquée (arthrodèse) si elle est abîmée. L'intervention se fait en ambulatoire ; elle se fait sous anesthésie du doigt ou du bras.
 
 ## Après l'opération
 
 - Le doigt est protégé par une attelle pendant la cicatrisation, en général 6 semaines environ
-- Les broches sont retirées en consultation, sans nouvelle anesthésie, lorsque l'os est consolidé
+- Les broches sont retirées au bloc opératoire, sous anesthésie locale, lorsque l'os est consolidé
 - Une rééducation peut être prescrite pour récupérer la flexion du bout du doigt
 
 Après traitement, avec ou sans chirurgie, un léger défaut d'extension du bout du doigt peut persister ; il est en général peu gênant. Les complications possibles (infection sur broche, raideur, souffrance de la peau ou de l'ongle) vous sont expliquées en consultation.
