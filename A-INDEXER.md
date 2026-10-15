@@ -5,7 +5,7 @@ Procédure : Search Console > barre « Inspecter n'importe quelle URL » > colle
 
 ## En attente
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/entorse-du-pouce.html (modifiée le 2026-10-15, quota dépassé)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesions-des-poulies.html (publiée le 2026-10-15, quota dépassé)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/fractures-des-doigts-et-metacarpes.html (publiée le 2026-10-15, quota dépassé)
 
 ## Fait
-- [x] 2026-10-15 https://www.dr-cievet-bonfils.fr/pathologies/fractures-des-doigts-et-metacarpes.html
-- [x] 2026-10-15 https://www.dr-cievet-bonfils.fr/pathologies/lesions-des-poulies.html

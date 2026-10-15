@@ -8,7 +8,7 @@
 
 **WALANT** : mention retirée de toutes les fiches sauf doigt à ressaut et canal carpien (décision du 9/10). Ignorer les points « WALANT » listés ci-dessous.
 
-**Point prioritaire** : la fiche *urgences-de-la-main* indique que le Dr Cievet-Bonfils participe au SOS Mains du Médipôle Lyon-Villeurbanne. À confirmer ou retirer.
+**SOS Mains** : participation au SOS Mains du Médipôle confirmée le 2026-10-15.
 
 ### Relecture médicale — lot A (main)
 
@@ -71,7 +71,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Affirmation : effet préventif du strapping chez le grimpeur sans lésion « non démontré ».
 
 ## [ ] [urgences-de-la-main](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/urgences-de-la-main.md)
-- Phrase « Le Dr Cievet-Bonfils participe à la prise en charge des urgences de la main au sein du SOS Mains du Médipôle Lyon-Villeurbanne » : exactitude et souhait de la conserver.
+- Phrase SOS Mains Médipôle : confirmée le 2026-10-15.
 - Conservation du doigt amputé (compresse humidifiée au sérum, sachet fermé, récipient eau + glace, jamais au contact direct de la glace) et délai de réimplantation « limité à quelques heures ».
 - Conseil « un passage préalable par des urgences générales peut retarder la prise en charge » et « en cas d'amputation ou saignement abondant, appeler le 15 plutôt que se déplacer » : formulation acceptable ?
 - FESUM développée en « Fédération européenne des services d'urgence de la main » ; paragraphe sur le coude (biceps, fracture, infection) inclus à partir de la page SOS Coude. Aucun numéro de téléphone.
