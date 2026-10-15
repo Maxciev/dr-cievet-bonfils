@@ -31,6 +31,8 @@ SPECIALTY_FR = "Chirurgien de la main, du poignet et du coude à Lyon"
 SPECIALTY_EN = "Hand, Wrist and Elbow Surgeon in Lyon, France"
 
 GROUPS = {"main": "Main et doigts", "poignet": "Poignet", "coude": "Coude", "nerfs": "Nerfs", "autres": "Autres"}
+HAS_EN = False
+GROUPS_EN = {"main": "Hand and fingers", "poignet": "Wrist", "coude": "Elbow", "nerfs": "Nerves", "autres": "Other"}
 FEATURED = ["canal-carpien", "maladie-de-dupuytren", "doigt-a-ressaut", "rhizarthrose", "walant", "fracture-du-poignet", "epicondylite", "kyste-du-poignet"]
 
 # (label, page slug or None) — linked only if the page exists
@@ -176,7 +178,7 @@ def parse_md(path):
             continue
         if s.startswith("## "):
             title = s[3:]
-            in_faq = title.lower().startswith("questions fréquentes")
+            in_faq = title.lower().startswith(("questions fréquentes", "frequently asked questions"))
             blocks.append(f'<h2 id="{slugify(title)}">{md_inline(title)}</h2>')
         elif s.startswith("### "):
             current_q = s[4:]
@@ -292,18 +294,18 @@ def page(*, lang, path, title, description, body, graph, depth=0, alt=None):
     if lang == "fr":
         nav = (f'<a href="{up}pathologies/index.html">Pathologies</a><a href="{up}pathologies/walant.html">WALANT</a>'
                f'<a href="{up}publications.html">Publications</a><a href="{up}index.html#consultations">Consultations</a>'
-               f'<a href="{up}en/index.html" hreflang="en" lang="en">EN</a>')
+               f'<a href="{up}{(alt or {}).get("en") or "en/index.html"}" hreflang="en" lang="en">EN</a>')
         cta, footer_note = "Prendre rendez-vous", ("Les informations de ce site sont générales et ne remplacent pas une consultation. "
                                                    "En cas d'urgence de la main, contactez le SOS Mains ou le 15.")
         legal = f'<a href="{up}mentions-legales.html">Mentions légales</a>'
     else:
-        nav = (f'<a href="{up}en/index.html#conditions">Conditions</a><a href="{up}publications.html">Publications</a>'
-               f'<a href="{up}en/index.html#locations">Locations</a><a href="{up}index.html" hreflang="fr" lang="fr">FR</a>')
+        nav = (f'<a href="{up}{"en/conditions/index.html" if HAS_EN else "en/index.html#conditions"}">Conditions</a><a href="{up}publications.html">Publications</a>'
+               f'<a href="{up}en/index.html#locations">Locations</a><a href="{up}{(alt or {}).get("fr") or "index.html"}" hreflang="fr" lang="fr">FR</a>')
         cta, footer_note = "Book an appointment", ("The information on this website is general and does not replace a consultation. "
                                                    "For a hand emergency, contact the SOS Mains unit or call 15.")
         legal = f'<a href="{up}mentions-legales.html">Legal notice</a>'
     alts = ""
-    if alt:
+    if alt and alt.get("fr") is not None and alt.get("en") is not None:
         alts = (f'<link rel="alternate" hreflang="fr" href="{BASE}/{alt["fr"]}">'
                 f'<link rel="alternate" hreflang="en" href="{BASE}/{alt["en"]}">')
     consult = "".join(f"<li><strong>{e(a['name'])}</strong><br>{fmt_address(a, lang)}</li>" for a in CFG["consultations"])
@@ -421,7 +423,7 @@ def build_home_fr(pathos):
                              alt={"fr": "", "en": "en/"}))
 
 
-def build_home_en():
+def build_home_en(en_pathos=()):
     groups = "".join(f'<div class="card"><h3>{e(g)}</h3><ul>{"".join(f"<li>{e(t)}</li>" for t in items)}</ul></div>'
                      for g, items in PATHO_EN.items())
     consult = "".join(f"<li><strong>{e(a['name'])}</strong><br>{fmt_address(a, 'en')}</li>" for a in CFG["consultations"])
@@ -439,6 +441,7 @@ def build_home_en():
   </div>
   <img class="portrait" src="../img/portrait.jpg" width="480" height="600" alt="Portrait of Dr Maxime Cievet-Bonfils">
 </div></section>
+{f'<section class="wrap section"><h2>Patient information in English</h2><div class="tiles">{"".join(tile_en(p, "../") for p in en_pathos[:8])}</div><p><a class="btn btn-ghost" href="conditions/index.html">All conditions ({len(en_pathos)})</a></p></section>' if en_pathos else ""}
 <section class="wrap section" id="conditions"><h2>Conditions treated</h2><div class="cards">{groups}</div></section>
 <section class="band"><div class="wrap section two-col">
   <div><h2>Techniques</h2><ul>{"".join(f"<li>{e(t)}</li>" for t in TECH_EN)}</ul></div>
@@ -465,7 +468,8 @@ def build_home_en():
                                 alt={"fr": "", "en": "en/"}))
 
 
-def build_pathology(p, all_pathos):
+def build_pathology(p, all_pathos, en_by_fr=None):
+    en = (en_by_fr or {}).get(p["slug"])
     # A link to a fiche that is still a draft would 404 on the public site: keep only its text.
     published = {o["slug"] for o in all_pathos}
     p = {**p, "body": re.sub(r'<a href="([a-z0-9-]+)\.html">(.*?)</a>',
@@ -484,7 +488,7 @@ def build_pathology(p, all_pathos):
 <article class="wrap article">
   <nav class="crumbs"><a href="../index.html">Accueil</a> › <a href="index.html">Fiches pathologies</a> › {e(GROUPS.get(p.get("group", ""), ""))} › {e(p["h1"])}</nav>
   <h1>{e(p["h1"])}</h1>
-  <p class="byline">Par le {e(NAME)}, chirurgien de la main, du poignet et du coude à Lyon · Mis à jour le {e(date_fr(CFG["updated"]))}</p>
+  <p class="byline">Par le {e(NAME)}, chirurgien de la main, du poignet et du coude à Lyon · Mis à jour le {e(date_fr(CFG["updated"]))}{f' · <a href="../en/conditions/{en["slug"]}.html" hreflang="en" lang="en">English version</a>' if en else ""}</p>
   <p class="lead">{md_inline(p["lead"])}</p>
   {figure}
   {p["body"]}
@@ -512,8 +516,9 @@ def build_pathology(p, all_pathos):
     if p["faq"]:
         graph.append({"@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]})
+    alt = {"fr": f"pathologies/{p['slug']}.html", "en": f"en/conditions/{en['slug']}.html"} if en else None
     write(f"pathologies/{p['slug']}.html", page(lang="fr", path=f"pathologies/{p['slug']}.html", title=p["title"],
-                                                description=p["description"], body=body, graph=graph, depth=1))
+                                                description=p["description"], body=body, graph=graph, depth=1, alt=alt))
 
 
 def build_index(pathos):
@@ -534,6 +539,85 @@ def build_index(pathos):
     write("pathologies/index.html", page(lang="fr", path="pathologies/", title=f"Fiches pathologies de la main, du poignet et du coude — {NAME}",
                                          description="Fiches d'information patient : main, poignet, coude. Symptômes, traitements, chirurgie à Lyon.",
                                          body=body, graph=graph, depth=1))
+
+
+def tile_en(p, up=""):
+    img = f'<img src="{up}img/pathologies/{e(p["image"])}" alt="" loading="lazy" width="400" height="300">' if p.get("image") else ""
+    return (f'<a class="tile" href="{up}en/conditions/{p["slug"]}.html">{img}<span class="tile-body">'
+            f'<span class="tile-group">{e(GROUPS_EN.get(p.get("group", ""), ""))}</span>'
+            f'<span class="tile-title">{e(p["h1"])}</span></span></a>')
+
+
+def build_condition_en(p, en_pathos, fr_slugs):
+    # English fiches are translations of validated French fiches (front matter "fr: <slug>").
+    published = {o["slug"] for o in en_pathos}
+    p = {**p, "body": re.sub(r'<a href="([a-z0-9-]+)\.html">(.*?)</a>',
+                             lambda m: m.group(0) if m.group(1) in published else m.group(2), p["body"])}
+    fr = p.get("fr") if p.get("fr") in fr_slugs else None
+    related = [x for x in PUBS["items"] if x["pmid"] in p.get("related_pmids", "").split()]
+    rel_html = ""
+    if related:
+        rel_html = f'<section class="related"><h2>Publication{"s" if len(related) > 1 else ""} by Dr Cievet-Bonfils on this topic</h2><ol class="pubs">' + \
+                   "".join(f"<li>{fmt_pub(x)}</li>" for x in related) + "</ol></section>"
+    same = [o for o in en_pathos if o["slug"] != p["slug"] and o.get("group") == p.get("group")]
+    others = "".join(f'<li><a href="{o["slug"]}.html">{e(o["h1"])}</a></li>' for o in (same or en_pathos)[:8] if o["slug"] != p["slug"])
+    figure = (f'<figure class="figure"><img src="../../img/pathologies/{e(p["image"])}" alt="{e(p.get("image_alt", ""))}" width="1000" height="750">'
+              f'<figcaption>Illustration © ICMMS</figcaption></figure>') if p.get("image") else ""
+    consult = "".join(f"<li><strong>{e(a['name'])}</strong>, {fmt_address(a, 'en')}</li>" for a in CFG["consultations"])
+    fr_link = f' · <a href="../../pathologies/{fr}.html" hreflang="fr" lang="fr">Version française</a>' if fr else ""
+    body = f"""
+<article class="wrap article">
+  <nav class="crumbs"><a href="../index.html">Home</a> › <a href="index.html">Conditions</a> › {e(GROUPS_EN.get(p.get("group", ""), ""))} › {e(p["h1"])}</nav>
+  <h1>{e(p["h1"])}</h1>
+  <p class="byline">By {e(NAME)}, hand, wrist and elbow surgeon in Lyon, France · Updated {e(CFG["updated"])}{fr_link}</p>
+  <p class="lead">{md_inline(p["lead"])}</p>
+  {figure}
+  {p["body"]}
+  {rel_html}
+  <section class="consult-box"><h2>Consultations in Lyon</h2>
+    <p>{e(NAME)} sees patients at:</p><ul>{consult}</ul>
+    <p>{e(CFG['phone']['label_en'])}: <a href="tel:{CFG['phone']['e164']}">+33 4 87 25 83 35</a> · Consultations in French or English.</p>
+    <p><a class="btn" href="{e(L['doctolib'])}" rel="noopener">Book on Doctolib</a></p>
+  </section>
+  {f'<aside class="see-also"><h2>See also</h2><ul>{others}</ul></aside>' if others else ""}
+  <p class="disclaimer">This page provides general information. It does not replace a consultation: every situation is different.</p>
+</article>
+"""
+    url = f"{BASE}/en/conditions/{p['slug']}.html"
+    about = {"@type": "MedicalCondition", "name": p["condition"], "possibleTreatment": {"@type": "MedicalProcedure", "name": p["procedure"]}}
+    graph = [
+        {"@type": "MedicalWebPage", "@id": url, "url": url, "name": p["title"], "description": p["description"], "inLanguage": "en",
+         "about": about, "audience": {"@type": "Patient"}, **({"image": f"{BASE}/img/pathologies/{p['image']}"} if p.get("image") else {}),
+         "author": {"@id": BASE + "/#person"}, "reviewedBy": {"@id": BASE + "/#person"}, "lastReviewed": CFG["updated"], "dateModified": CFG["updated"]},
+        person_node(),
+    ]
+    if p["faq"]:
+        graph.append({"@type": "FAQPage", "mainEntity": [
+            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]})
+    alt = {"fr": f"pathologies/{fr}.html", "en": f"en/conditions/{p['slug']}.html"} if fr else None
+    write(f"en/conditions/{p['slug']}.html", page(lang="en", path=f"en/conditions/{p['slug']}.html", title=p["title"],
+                                                  description=p["description"], body=body, graph=graph, depth=2, alt=alt))
+
+
+def build_index_en(en_pathos):
+    sections = ""
+    for key, label in GROUPS_EN.items():
+        items = [p for p in en_pathos if p.get("group") == key]
+        if items:
+            sections += f'<h2 id="{key}">{e(label)}</h2><div class="tiles">' + "".join(tile_en(p, "../../") for p in items) + "</div>"
+    body = f"""
+<article class="wrap section">
+  <nav class="crumbs"><a href="../index.html">Home</a> › Conditions</nav>
+  <h1>Hand, wrist and elbow conditions</h1>
+  <p class="lead">Patient information on the hand, wrist and elbow conditions treated by {e(NAME)} in Lyon, France: symptoms, tests, treatment and recovery after surgery. More pages are available in French.</p>
+  {sections}
+  <p><a href="../../pathologies/index.html" hreflang="fr" lang="fr">All patient information pages in French</a></p>
+</article>"""
+    graph = [person_node(), {"@type": "CollectionPage", "url": BASE + "/en/conditions/", "name": "Hand, wrist and elbow conditions", "inLanguage": "en",
+                             "hasPart": [{"@type": "MedicalWebPage", "url": f"{BASE}/en/conditions/{p['slug']}.html", "name": p["h1"]} for p in en_pathos]}]
+    write("en/conditions/index.html", page(lang="en", path="en/conditions/", title=f"Hand, wrist and elbow conditions — {NAME}",
+                                           description="Patient information: hand, wrist and elbow conditions, symptoms, treatment and surgery in Lyon, France.",
+                                           body=body, graph=graph, depth=2, alt={"fr": "pathologies/", "en": "en/conditions/"}))
 
 
 def build_publications():
@@ -577,14 +661,17 @@ RPPS : {e(lg['rpps'])}<br>{e(lg['ordre'])}<br>{e(lg['secteur'])}<br>Téléphone 
                                         description="Mentions légales du site.", body=body, graph=[person_node()]))
 
 
-def build_meta(pathos):
+def build_meta(pathos, en_pathos=()):
     urls = ["", "en/", "pathologies/", "publications.html", "mentions-legales.html"] + [f"pathologies/{p['slug']}.html" for p in pathos]
+    if en_pathos:
+        urls += ["en/conditions/"] + [f"en/conditions/{p['slug']}.html" for p in en_pathos]
     sm = "".join(f"<url><loc>{BASE}/{u}</loc><lastmod>{CFG['updated']}</lastmod></url>" for u in urls)
     write("sitemap.xml", f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
     bots = ["Googlebot", "Bingbot", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User",
             "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot", "Applebot-Extended"]
     write("robots.txt", "".join(f"User-agent: {b}\nAllow: /\n\n" for b in bots) + f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\n")
     pages = "\n".join(f"- [{p['h1']}]({BASE}/pathologies/{p['slug']}.html): {p['description']}" for p in pathos)
+    pages += "".join(f"\n- [{p['h1']} (English)]({BASE}/en/conditions/{p['slug']}.html): {p['description']}" for p in en_pathos)
     write("llms.txt", f"# {NAME}\n\n> {LEAD_FR}\n\n## Pages\n\n- [Accueil]({BASE}/): présentation, pathologies, lieux\n"
                       f"- [English]({BASE}/en/): presentation in English\n- [Publications]({BASE}/publications.html): articles indexés dans PubMed\n"
                       f"{pages}\n\n## Rendez-vous\n\n- [Doctolib]({L['doctolib']})\n")
@@ -603,14 +690,27 @@ def main():
     if not os.environ.get("PREVIEW"):
         pathos = [p for p in pathos if p.get("status") != "brouillon"]
     pathos.sort(key=lambda p: (list(GROUPS).index(p.get("group", "autres")) if p.get("group") in GROUPS else 9, order.index(p["slug"]) if p["slug"] in order else 99, p["h1"]))
+    en_dir = ROOT / "content" / "en" / "conditions"
+    en_pathos = [parse_md(p) for p in en_dir.glob("*.md")] if en_dir.exists() else []
+    if not os.environ.get("PREVIEW"):
+        en_pathos = [p for p in en_pathos if p.get("status") not in ("draft", "brouillon")]
+    fr_order = [p["slug"] for p in pathos]
+    en_pathos.sort(key=lambda p: fr_order.index(p.get("fr")) if p.get("fr") in fr_order else 999)
+    en_by_fr = {p["fr"]: p for p in en_pathos if p.get("fr")}
+    global HAS_EN
+    HAS_EN = bool(en_pathos)
     build_home_fr(pathos)
-    build_home_en()
+    build_home_en(en_pathos)
     for p in pathos:
-        build_pathology(p, pathos)
+        build_pathology(p, pathos, en_by_fr)
+    for p in en_pathos:
+        build_condition_en(p, en_pathos, set(fr_order))
+    if en_pathos:
+        build_index_en(en_pathos)
     build_index(pathos)
     build_publications()
     build_legal()
-    build_meta(pathos)
+    build_meta(pathos, en_pathos)
     (DIST / ".nojekyll").write_text("")
     print(f"Built {len(list(DIST.rglob('*.html')))} pages into {DIST}")
 

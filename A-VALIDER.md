@@ -206,3 +206,16 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Test anesthésique systématique (confirmé le 2026-10-15).
 - Chiffre cité : environ 8 patients sur 10 soulagés sans réintervention, recul ~2 ans (méta-analyse Fidanza, EFORT Open Rev 2023, 347 poignets).
 - Pas d'immobilisation, pansement 2 semaines ; indications listées (arthrose SLAC/SNAC, Kienböck, douleurs chroniques, geste associé).
+
+### Version anglaise — essai sur 3 fiches (2026-10-15)
+
+Traductions fidèles des fiches françaises validées. Une fois approuvées : traduction des 30 autres et skill dédié.
+
+## [ ] [carpal-tunnel-syndrome](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/en/conditions/carpal-tunnel-syndrome.md)
+- Terminologie : « transverse carpal ligament », « electromyogram (EMG, nerve conduction study) », « wide-awake local anaesthesia with no tourniquet (WALANT) ».
+
+## [ ] [dupuytrens-disease](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/en/conditions/dupuytrens-disease.md)
+- « Percutaneous needle fasciotomy » / « fasciectomy » ; « hand therapist (physiotherapist) » pour le kinésithérapeute de la main.
+
+## [ ] [trigger-finger](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/en/conditions/trigger-finger.md)
+- « A1 pulley release » ; « trigger thumb in children ».
