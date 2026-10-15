@@ -9,9 +9,8 @@ group: main
 image: entorse-du-pouce.jpg
 image_alt: Pouce écarté de force vers l'extérieur par un bâton de ski, mécanisme de l'entorse du pouce
 related_pmids:
-status: brouillon
 ---
-L'entorse du pouce, ou « pouce du skieur », est une lésion du ligament situé à la base du pouce, côté index (ligament collatéral ulnaire de l'articulation métacarpo-phalangienne). Elle survient quand le pouce est écarté de force, typiquement lors d'une chute à ski avec le bâton en main, et rend la pince pouce-index douloureuse et instable. Une orthèse suffit dans les entorses bénignes et dans de nombreuses ruptures ; une intervention est nécessaire lorsque le ligament rompu ne peut pas cicatriser en place.
+L'entorse du pouce, ou « pouce du skieur », est une lésion du ligament situé à la base du pouce, côté index (ligament collatéral ulnaire de l'articulation métacarpo-phalangienne). Elle survient quand le pouce est écarté de force, typiquement lors d'une chute à ski avec le bâton en main, et rend la pince pouce-index douloureuse et instable. Une orthèse suffit dans les entorses bénignes ; mais une intervention est nécessaire lorsque le ligament est rompu et déplacé (effet Stener) car il ne peut pas cicatriser en place.
 
 ## Qu'est-ce que l'entorse du pouce ?
 
@@ -31,7 +30,7 @@ Le ski est la cause classique, mais cette entorse survient aussi lors de chutes 
 
 ## Comment pose-t-on le diagnostic ?
 
-Le chirurgien teste délicatement la stabilité de l'articulation en comparant avec le pouce opposé. Des **radiographies** recherchent un arrachement osseux ou une fracture associée. L'**échographie**, réalisée par un opérateur habitué, visualise le ligament, précise s'il est étiré ou rompu et recherche une lésion de Stener. Une IRM est parfois demandée en cas de doute.
+Le chirurgien teste délicatement la stabilité de l'articulation en comparant avec le pouce opposé. Des **radiographies** recherchent un arrachement osseux ou une fracture associée. L'**échographie**, réalisée par un opérateur habitué, visualise le ligament, précise s'il est étiré ou rompu et recherche une lésion de Stener.
 
 Consultez rapidement après le traumatisme, idéalement dans les premiers jours : une rupture reconnue tôt se répare plus simplement qu'une instabilité ancienne. Une consultation d'[urgence de la main](urgences-de-la-main.html) est possible.
 
@@ -63,7 +62,7 @@ L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 ## Après l'opération
 
 - Le pouce est protégé par une orthèse, en général 4 à 6 semaines
-- La rééducation débute ensuite pour récupérer la mobilité puis la force de la pince
+- La rééducation débute immédiatement après l'intervention pour récupérer la mobilité puis la force de la pince
 - La reprise des sports à risque pour le pouce se fait progressivement, souvent avec une protection
 - Une sensation de raideur ou un épaississement de l'articulation peuvent persister quelques mois
 

@@ -1,6 +1,6 @@
 # Fiches à valider
 
-20 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+19 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -49,7 +49,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Techniques : réinsertion par ancre, broches/vis/plaque ; WALANT pour tester la stabilité en actif.
 - Gonflement et épaississement persistant « plusieurs mois ».
 
-## [ ] [entorse-du-pouce](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/entorse-du-pouce.md)
+## [x] [entorse-du-pouce](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/entorse-du-pouce.md)
 - Orthèse MP « 4 à 6 semaines » en traitement conservateur et en postopératoire.
 - Place de l'échographie pour le diagnostic de lésion de Stener (et IRM si doute).
 - Indications : Stener, rupture complète instable, arrachement osseux déplacé, instabilité chronique.
