@@ -9,7 +9,6 @@ group: poignet
 image: lesion-ligament-scapho-lunaire.jpg
 image_alt: Schéma du poignet montrant le ligament scapho-lunaire entre le scaphoïde et le lunatum
 related_pmids: 30941255 42498062
-status: brouillon
 ---
 La lésion du ligament scapho-lunaire est une déchirure du principal ligament qui unit deux os du poignet, le scaphoïde et le lunatum. Elle survient le plus souvent après une chute sur la main et se traduit par une douleur du dos du poignet, parfois un ressaut et une perte de force. L'arthroscopie du poignet permet à la fois de confirmer la lésion et de la traiter ; non traitée, une rupture complète peut évoluer vers l'arthrose.
 
@@ -55,17 +54,17 @@ L'intervention est proposée en cas de rupture complète, d'instabilité, de dou
 
 La technique dépend de l'ancienneté et de la gravité de la lésion, ainsi que de l'état du cartilage :
 
-- **Arthroscopie** : elle confirme la lésion et permet, selon les cas, un nettoyage, un **resserrage** de la capsule (capsulodèse) ou une **réparation du ligament** par de petites incisions
+- **Arthroscopie** : elle confirme la lésion et permet une **retente de la capsule** (capsulodèse)
 - **Reconstruction ligamentaire (ligamentoplastie)** : si le ligament est trop abîmé, il est remplacé par un fragment de tendon ; ce geste peut être assisté par arthroscopie
-- **Lésion périlunaire** : réduction de la luxation, réparation des ligaments et fixation des fractures, avec des broches temporaires
+- **Lésion périlunaire** : réduction de la luxation, réparation des ligaments et fixation des fractures, avec des vis temporaires (technique sous assistance arthroscopique décrite dans une étude cosignée par le Dr Cievet-Bonfils : [Hand Surg Rehabil 2026](https://doi.org/10.1016/j.hansur.2026.102739))
 - **Arthrose installée** : lorsque l'instabilité ancienne a abîmé le cartilage, on discute une arthrodèse partielle (fusion de certains os du carpe) ou d'autres gestes palliatifs (voir [arthrose du poignet](arthrose-du-poignet.html))
 
 L'intervention se fait sous anesthésie locorégionale du bras, le plus souvent en ambulatoire.
 
 ## Après l'opération
 
-- Une immobilisation par attelle ou manchette est portée plusieurs semaines, selon le geste réalisé
-- Les broches éventuelles sont retirées après cicatrisation des ligaments
+- Une immobilisation par attelle thermoformée est portée 6 semaines
+- Les broches ou vis éventuelles sont retirées après cicatrisation des ligaments, à 6 semaines
 - La rééducation, progressive, vise la mobilité puis la force et la proprioception
 - La reprise des sports et travaux de force se fait en général après plusieurs mois
 

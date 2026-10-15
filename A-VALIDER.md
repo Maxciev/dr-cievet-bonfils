@@ -1,6 +1,6 @@
 # Fiches à valider
 
-14 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+13 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -88,7 +88,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Contrôle de la consolidation par scanner ; reprise des sports d'appui « après plusieurs mois ».
 - PMID 38331367 placé en related_pmids sans citation dans le texte : vérifier qu'il correspond bien à cette fiche.
 
-## [ ] [lesion-ligament-scapho-lunaire](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesion-ligament-scapho-lunaire.md)
+## [x] [lesion-ligament-scapho-lunaire](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesion-ligament-scapho-lunaire.md)
 - Techniques citées : capsulodèse et réparation sous arthroscopie, ligamentoplastie assistée par arthroscopie, arthrodèse partielle en cas d'arthrose (SLAC) : conformes à votre pratique ?
 - Lésion périlunaire présentée comme urgence chirurgicale (réduction, réparation, broches temporaires) « qui passe encore trop souvent inaperçue ».
 - Examens : radiographies bilatérales poing serré, arthroscanner ou IRM, arthroscopie comme examen de confirmation et de gradation.
