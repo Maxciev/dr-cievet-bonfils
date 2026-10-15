@@ -7,24 +7,23 @@ condition_en: Ulnocarpal impaction syndrome
 procedure: Ostéotomie de raccourcissement de l'ulna ou résection arthroscopique (Wafer)
 group: poignet
 image: conflit-ulno-carpien.jpg
-image_alt: Radiographie de face du poignet montrant une ulna plus longue que le radius au contact du carpe
+image_alt: Radiographie de face du poignet montrant un ulna plus long que le radius au contact du carpe
 related_pmids:
-status: brouillon
 ---
-Le conflit ulno-carpien est un frottement excessif entre la tête de l'ulna et les os du carpe, lorsque l'ulna est trop longue par rapport au radius. Il provoque une douleur du bord interne du poignet (côté du petit doigt), aggravée par les rotations et les efforts de serrage. Après échec du traitement médical, l'intervention consiste à raccourcir l'ulna ou à régulariser son extrémité sous arthroscopie.
+Le conflit ulno-carpien est un frottement excessif entre la tête de l'ulna et les os du carpe, lorsque l'ulna est trop long par rapport au radius. Il provoque une douleur du bord interne du poignet (côté du petit doigt), aggravée par les rotations et les efforts de serrage. Après échec du traitement médical, l'intervention consiste à raccourcir l'ulna ou à régulariser son extrémité sous arthroscopie.
 
 ## Qu'est-ce que le conflit ulno-carpien ?
 
-L'avant-bras comporte deux os : le radius, du côté du pouce, et l'ulna (anciennement appelée cubitus), du côté du petit doigt. Normalement, l'extrémité de l'ulna se situe à peu près au même niveau que celle du radius. Entre l'ulna et le carpe se trouve un amortisseur, le [TFCC](lesion-tfcc.html) (complexe fibrocartilagineux triangulaire).
+L'avant-bras comporte deux os : le radius, du côté du pouce, et l'ulna (anciennement appelé cubitus), du côté du petit doigt. Normalement, l'extrémité de l'ulna se situe à peu près au même niveau que celle du radius. Entre l'ulna et le carpe se trouve un amortisseur, le [TFCC](lesion-tfcc.html) (complexe fibrocartilagineux triangulaire).
 
-Lorsque l'ulna est plus longue que le radius (on parle de « variance ulnaire positive »), elle transmet une part excessive des pressions au carpe. Avec le temps, le TFCC s'amincit puis se perfore, le cartilage du lunatum et de la tête de l'ulna s'use, et le ligament entre le lunatum et le triquétrum peut se rompre.
+Lorsque l'ulna est plus long que le radius (on parle de « variance ulnaire positive »), elle transmet une part excessive des pressions au carpe. Avec le temps, le TFCC s'amincit puis se perfore, le cartilage du lunatum et de la tête de l'ulna s'use, et le ligament entre le lunatum et le triquétrum peut se rompre.
 
-Cette ulna trop longue peut être :
+Cet ulna trop long peut être :
 
 - **Constitutionnelle**, présente depuis toujours
 - **Acquise**, le plus souvent après une [fracture du poignet](fracture-du-poignet.html) qui a raccourci le radius en consolidant
 
-Le conflit peut aussi apparaître avec une ulna de longueur normale, lors d'efforts répétés en rotation et en serrage.
+Le conflit peut aussi apparaître avec un ulna de longueur normale, lors d'efforts répétés en rotation et en serrage.
 
 ## Quels sont les symptômes ?
 
@@ -59,14 +58,14 @@ L'intervention est proposée lorsque la douleur persiste après plusieurs mois d
 
 L'intervention se fait sous anesthésie locorégionale (anesthésie du bras), le plus souvent en ambulatoire.
 
-- **Ostéotomie de raccourcissement de l'ulna** : par une incision sur le bord interne de l'avant-bras, l'ulna est coupée, raccourcie de quelques millimètres puis fixée par une plaque vissée. C'est le geste de référence ; il détend aussi les ligaments du bord ulnaire du poignet.
+- **Ostéotomie de raccourcissement de l'ulna** : par une incision sur le bord interne de l'avant-bras, l'ulna est coupé, raccourci de quelques millimètres puis fixé par une plaque vissée. C'est le geste de référence ; il détend aussi les ligaments du bord ulnaire du poignet.
 - **Résection arthroscopique de l'extrémité de l'ulna (intervention de Wafer)** : sous arthroscopie du poignet, par de petites incisions, le chirurgien retire une fine tranche de la tête de l'ulna à travers la perforation du TFCC. Elle convient aux excès de longueur modérés.
 
 Une **arthroscopie** permet dans le même temps de régulariser le TFCC et le cartilage abîmés.
 
 ## Après l'opération
 
-- Après une ostéotomie, une immobilisation de quelques semaines est suivie d'une rééducation ; la consolidation de l'os prend en général deux à trois mois
+- Après une ostéotomie, une courte immobilisation de repos est suivie d'une rééducation ; la consolidation de l'os prend souvent plus de trois mois
 - Après une résection arthroscopique, la reprise des gestes quotidiens est plus rapide
 - La reprise des travaux de force et des sports sollicitant le poignet est progressive, sur plusieurs mois
 - La plaque peut être retirée ultérieurement si elle devient gênante
@@ -75,7 +74,7 @@ Les complications possibles (retard de consolidation, gêne liée à la plaque, 
 
 ## Questions fréquentes
 
-### Pourquoi mon ulna est-elle trop longue ?
+### Pourquoi mon ulna est-il trop long ?
 Soit c'est votre morphologie depuis toujours, soit le radius s'est raccourci après une fracture du poignet. Dans les deux cas, la radiographie comparative des deux poignets permet de le mesurer.
 
 ### Le conflit ulno-carpien peut-il abîmer le poignet ?
@@ -85,4 +84,4 @@ Oui, s'il évolue longtemps : le TFCC se perfore et le cartilage s'use. C'est po
 Pas systématiquement. On la retire si elle gêne, une fois l'os bien consolidé, en général après au moins un an.
 
 ### Quelle différence avec une lésion du TFCC ?
-Le conflit ulno-carpien est une cause d'usure du TFCC. Une lésion du TFCC peut aussi être traumatique, sans ulna trop longue ; le traitement est alors différent.
+Le conflit ulno-carpien est une cause d'usure du TFCC. Une lésion du TFCC peut aussi être traumatique, sans ulna trop long ; le traitement est alors différent.

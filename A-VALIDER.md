@@ -1,6 +1,6 @@
 # Fiches à valider
 
-9 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+8 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -125,7 +125,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Arthrodèse carpo-métacarpienne évoquée en cas de récidive ou d'instabilité, sans perte de mobilité notable du poignet.
 - Infiltration présentée comme pouvant soulager durablement certaines poussées.
 
-## [ ] [conflit-ulno-carpien](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/conflit-ulno-carpien.md)
+## [x] [conflit-ulno-carpien](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/conflit-ulno-carpien.md)
 - Ostéotomie de raccourcissement de l'ulna présentée comme « geste de référence », fixée par plaque, consolidation « en général deux à trois mois ».
 - Intervention de Wafer réservée aux excès de longueur modérés (seuil non chiffré, classiquement ≤ 2-4 mm selon les auteurs).
 - Ablation de plaque non systématique, « en général après au moins un an ».

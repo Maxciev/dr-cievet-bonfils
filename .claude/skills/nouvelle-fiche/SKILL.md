@@ -63,3 +63,6 @@ canal-carpien, maladie-de-dupuytren, doigt-a-ressaut, rhizarthrose, walant, teno
 Dans le compte rendu de chaque publication, donner systématiquement l'adresse exacte de chaque fiche publiée, à coller dans Google Search Console (Inspection de l'URL > Demander une indexation) :
 `https://www.dr-cievet-bonfils.fr/pathologies/<slug>.html`
 Ajouter chaque adresse publiée ou modifiée dans `A-INDEXER.md` (section « En attente ») ; la déplacer dans « Fait » quand le chirurgien confirme. Si le quota Google est dépassé, programmer un rappel le lendemain matin avec la liste « En attente ».
+
+## Terminologie
+- « ulna » est masculin (un ulna, l'ulna est raccourci, trop long), conformément à l'usage du chirurgien et de Wikipédia.

@@ -18,5 +18,6 @@ Procédure : Search Console > barre « Inspecter n'importe quelle URL » > colle
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/kyste-du-poignet.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/arthrose-du-poignet.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/carpe-bossu.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/conflit-ulno-carpien.html (publiée le 2026-10-15)
 
 ## Fait

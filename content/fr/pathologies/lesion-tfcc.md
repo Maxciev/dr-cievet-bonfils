@@ -22,7 +22,7 @@ Le TFCC est un ensemble formé d'un disque de fibrocartilage et de ligaments, si
 On distingue deux grands types de lésions :
 
 - **Les lésions traumatiques**, après une chute sur la main, une torsion brutale ou un choc (raquette, club de golf). Elles s'associent parfois à une [fracture du poignet](fracture-du-poignet.html).
-- **Les lésions dégénératives**, par usure progressive, souvent favorisées par une ulna un peu plus longue que le radius : on parle alors de [conflit ulno-carpien](conflit-ulno-carpien.html).
+- **Les lésions dégénératives**, par usure progressive, souvent favorisées par un ulna un peu plus long que le radius : on parle alors de [conflit ulno-carpien](conflit-ulno-carpien.html).
 
 ## Quels sont les symptômes ?
 
@@ -58,7 +58,7 @@ Selon la lésion :
 
 - **Débridement** : une déchirure centrale, dans une zone peu vascularisée qui ne cicatrise pas, est régularisée pour supprimer le fragment qui frotte.
 - **Réinsertion (suture)** : une désinsertion en périphérie, là où le tissu est bien vascularisé, est recousue à sa place, sous arthroscopie ou par une courte incision complémentaire.
-- **Geste associé** : en cas d'ulna trop longue, un raccourcissement de l'ulna peut être réalisé dans le même temps.
+- **Geste associé** : en cas d'ulna trop long, un raccourcissement de l'ulna peut être réalisé dans le même temps.
 
 ## Après l'opération
 
