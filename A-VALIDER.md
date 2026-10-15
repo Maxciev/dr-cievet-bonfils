@@ -1,6 +1,6 @@
 # Fiches à valider
 
-11 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+10 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -112,7 +112,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Pansement environ deux semaines, orthèse de confort quelques jours, reprise des appuis sur quelques semaines.
 - Déconseil de l'écrasement du kyste par un choc.
 
-## [ ] [arthrose-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/arthrose-du-poignet.md)
+## [x] [arthrose-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/arthrose-du-poignet.md)
 - Causes présentées comme majoritaires : SLAC, SNAC, fractures du radius, Kienböck (l'arthrose « par vieillissement seul » dite rare).
 - Arthrodèse « des quatre os » citée comme exemple d'arthrodèse partielle ; résection de la première rangée conditionnée au bon état du cartilage de la tête du capitatum et de la fossette lunarienne du radius.
 - Prothèse de poignet : indication chez des patients sélectionnés sans activités de force ; complications citées usure/descellement.

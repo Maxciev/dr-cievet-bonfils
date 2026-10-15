@@ -9,7 +9,6 @@ group: poignet
 image: arthrose-du-poignet.jpg
 image_alt: Radiographie de face d'un poignet arthrosique avec pincement de l'interligne articulaire
 related_pmids:
-status: brouillon
 ---
 L'arthrose du poignet est l'usure du cartilage des articulations du poignet, le plus souvent secondaire à une ancienne lésion ligamentaire ou à une fracture mal consolidée. Elle provoque une douleur à l'effort, une raideur et une perte de force. Le traitement commence par une orthèse et des infiltrations ; si la gêne persiste, plusieurs interventions sont possibles : dénervation, arthrodèse partielle, résection de la première rangée du carpe ou prothèse de poignet.
 

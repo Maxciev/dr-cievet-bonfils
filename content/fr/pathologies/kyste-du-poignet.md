@@ -61,7 +61,7 @@ Le choix se discute en consultation selon la localisation du kyste et vos attent
 - Une raideur transitoire du poignet est fréquente et récupère avec une rééducation adaptée
 - La reprise des appuis et des efforts est progressive sur quelques semaines
 
-Les complications sont rares : infection, hématome, cicatrice sensible, irritation d'une branche nerveuse sensitive, algodystrophie. Une récidive reste possible, estimée à 10 %.
+Les complications sont rares : infection, hématome, cicatrice sensible, irritation d'une branche nerveuse sensitive, algodystrophie. Une récidive reste possible, estimée à environ 10 % après arthroscopie.
 
 ## Questions fréquentes
 
@@ -72,7 +72,7 @@ Non. C'est une lésion bénigne qui ne se transforme pas en cancer. En cas de do
 Non. Un kyste indolore peut être surveillé. L'intervention est réservée aux kystes douloureux, gênants ou qui récidivent.
 
 ### Le kyste peut-il revenir après l'opération ?
-Oui, c'est possible (environ 10 %), mais nettement moins souvent qu'après une simple ponction (environ 50 %), car le pédicule est retiré avec le kyste.
+Oui, c'est possible (environ 10 % après arthroscopie), mais nettement moins souvent qu'après une simple ponction (environ 50 %), car le pédicule est retiré avec le kyste.
 
 ### Arthroscopie ou incision classique : que choisir ?
-Les deux techniques visent le même résultat. L'arthroscopie laisse des cicatrices plus petites ; l'incision classique peut se faire sous anesthésie locale. Le choix dépend de la localisation du kyste et se discute en consultation.
+Les deux techniques visent le même résultat. L'arthroscopie laisse des cicatrices plus petites ; l'incision classique peut parfois se faire sous anesthésie locale, au cas par cas. Le choix dépend de la localisation du kyste et se discute en consultation.
