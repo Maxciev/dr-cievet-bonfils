@@ -1,5 +1,5 @@
 ---
-title: Fracture du poignet (radius distal) : plâtre ou chirurgie à Lyon
+title: Fracture du poignet (radius distal) : orthèse ou chirurgie à Lyon
 h1: Fracture du poignet (fracture du radius distal)
 description: Chute sur la main, poignet déformé : la fracture du radius distal expliquée par le Dr Maxime Cievet-Bonfils, chirurgien de la main à Lyon.
 condition: Fracture du radius distal
@@ -9,9 +9,8 @@ group: poignet
 image: fracture-du-poignet.jpg
 image_alt: Radiographie de profil d'un poignet montrant une fracture de l'extrémité inférieure du radius
 related_pmids:
-status: brouillon
 ---
-La fracture du poignet est le plus souvent une fracture de l'extrémité inférieure du radius, l'os de l'avant-bras situé du côté du pouce. Elle survient typiquement après une chute sur la main tendue et provoque une douleur vive, un gonflement et parfois une déformation du poignet. Une fracture peu déplacée et stable se traite par une immobilisation ; une fracture déplacée ou articulaire est en général opérée, le plus souvent avec une plaque vissée.
+La fracture du poignet est le plus souvent une fracture de l'extrémité inférieure du radius, l'os de l'avant-bras situé du côté du pouce. Elle survient typiquement après une chute sur la main tendue et provoque une douleur vive, un gonflement et parfois une déformation du poignet. Une fracture non déplacée et stable se traite par une immobilisation ; une fracture déplacée ou articulaire est en général opérée, le plus souvent avec une plaque vissée.
 
 ## Qu'est-ce qu'une fracture du radius distal ?
 
@@ -40,10 +39,10 @@ Après 50 ans, une fracture du poignet après une chute banale doit faire recher
 
 ## Quels traitements sans chirurgie ?
 
-Une fracture non déplacée ou peu déplacée, et stable, se traite par immobilisation :
+Une fracture non déplacée et stable se traite par immobilisation :
 
-- **plâtre**, résine ou **orthèse thermoformée** sur mesure, en général pendant environ six semaines
-- **radiographies de contrôle** rapprochées pendant les premières semaines, car une fracture peut se déplacer secondairement dans le plâtre
+- **orthèse thermoformée** sur mesure, en général pendant six semaines
+- **radiographies de contrôle** rapprochées pendant les premières semaines, car une fracture peut se déplacer secondairement malgré l'immobilisation
 - mobilisation des doigts dès le premier jour pour éviter la raideur et le gonflement
 
 Chez la personne âgée peu exigeante sur le plan fonctionnel, un certain déplacement peut être accepté sans opération, après discussion.
@@ -56,8 +55,8 @@ L'intervention est proposée lorsque la fracture est déplacée, instable, ou lo
 
 Le chirurgien remet les fragments en place, puis les fixe. Plusieurs techniques existent :
 
-- **broches** : fines tiges métalliques introduites à travers la peau, adaptées à certaines fractures simples ; une immobilisation est alors nécessaire et les broches sont retirées au bout de quelques semaines
-- **plaque verrouillée** : placée le plus souvent à la face palmaire du poignet, elle offre un montage solide qui permet en général de se passer de plâtre et d'utiliser la main pour les gestes légers dès les premiers jours
+- **broches** : fines tiges métalliques introduites à travers la peau, adaptées à certaines fractures simples ; une immobilisation est alors nécessaire et les broches sont retirées au bloc opératoire sous anesthésie locale au bout de quelques semaines
+- **plaque verrouillée** : placée à la face palmaire du poignet, elle offre un montage solide qui permet de se passer d'immobilisation et d'utiliser la main pour les gestes légers dès les premiers jours
 - **assistance arthroscopique** : pour certaines fractures articulaires, une caméra introduite dans le poignet permet de contrôler la surface du cartilage et de rechercher une lésion ligamentaire associée
 
 L'intervention se fait le plus souvent en ambulatoire, sous anesthésie locorégionale du bras : le bras est endormi pendant plusieurs heures, ce qui assure une nuit confortable.
@@ -66,21 +65,21 @@ L'intervention se fait le plus souvent en ambulatoire, sous anesthésie locorég
 
 - Gardez la main surélevée et bougez les doigts dès le jour de l'intervention
 - Avec une plaque, les gestes légers (écrire, manger, ordinateur) sont en général autorisés rapidement ; les efforts et le port de charges attendent la consolidation, vers six semaines
-- Une rééducation est souvent prescrite pour retrouver la mobilité et la force
-- La plaque est le plus souvent laissée en place ; elle peut être retirée si elle gêne
+- Une rééducation est nécessaire pour retrouver la mobilité et la force
+- La plaque est le plus souvent retirée
 
 Les complications possibles sont la raideur, une irritation d'un tendon par le matériel, un syndrome du [canal carpien](canal-carpien.html) ou un syndrome douloureux régional complexe ([algodystrophie](algodystrophie.html)). Elles vous sont expliquées en consultation.
 
 ## Questions fréquentes
 
-### Plâtre ou opération : qui décide ?
+### Orthèse ou opération : qui décide ?
 Le choix dépend du déplacement, de la stabilité et de l'atteinte de l'articulation sur les radiographies et le scanner, mais aussi de votre âge, de votre main dominante et de vos activités ; il se discute en consultation.
 
 ### Quand pourrai-je conduire après une fracture du poignet opérée ?
-La conduite reprend lorsque vous pouvez tenir fermement le volant et réagir sans douleur, souvent après quelques semaines avec une plaque ; en cas de plâtre, elle n'est pas possible pendant l'immobilisation.
+La conduite reprend lorsque vous pouvez tenir fermement le volant et réagir sans douleur, souvent après quelques semaines avec une plaque ; en cas de traitement par orthèse, elle n'est pas possible pendant l'immobilisation.
 
 ### Faut-il enlever la plaque ?
-Pas systématiquement. La plaque n'a plus de rôle une fois l'os consolidé ; elle est retirée seulement si elle gêne, par exemple en irritant un tendon.
+Le plus souvent oui. La plaque n'a plus de rôle une fois l'os consolidé ; elle peut gêner la mobilité ou irriter les tendons.
 
 ### Pourquoi me parle-t-on d'ostéoporose après une fracture du poignet ?
 Parce qu'une fracture du poignet après une chute banale est souvent le premier signe d'une fragilité osseuse ; la dépister permet de prévenir d'autres fractures, notamment de la hanche ou des vertèbres.

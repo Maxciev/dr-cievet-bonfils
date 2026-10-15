@@ -1,6 +1,6 @@
 # Fiches à valider
 
-16 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+15 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -76,7 +76,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Conseil « un passage préalable par des urgences générales peut retarder la prise en charge » et « en cas d'amputation ou saignement abondant, appeler le 15 plutôt que se déplacer » : formulation acceptable ?
 - FESUM développée en « Fédération européenne des services d'urgence de la main » ; paragraphe sur le coude (biceps, fracture, infection) inclus à partir de la page SOS Coude. Aucun numéro de téléphone.
 
-## [ ] [fracture-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/fracture-du-poignet.md)
+## [x] [fracture-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/fracture-du-poignet.md)
 - Immobilisation « plâtre, résine ou orthèse thermoformée, environ six semaines » (la source ICMMS indique que plâtres et résines ne sont plus utilisés chez l'adulte et annonce 4 à 6 semaines).
 - Plaque palmaire verrouillée « permettant en général de se passer de plâtre » ; plaque « le plus souvent laissée en place » (la source ICMMS dit qu'elle est « très souvent retirée ») — à trancher.
 - Broches : « adaptées à certaines fractures simples, avec immobilisation » ; assistance arthroscopique pour certaines fractures articulaires et recherche de lésions ligamentaires associées.
