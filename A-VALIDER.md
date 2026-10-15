@@ -1,6 +1,6 @@
 # Fiches à valider
 
-15 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+14 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -82,7 +82,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Broches : « adaptées à certaines fractures simples, avec immobilisation » ; assistance arthroscopique pour certaines fractures articulaires et recherche de lésions ligamentaires associées.
 - Bilan d'ostéoporose proposé après 50 ans (vitamine D, ostéodensitométrie) ; anesthésie locorégionale « de plusieurs heures » (la source évoque un bloc de longue durée d'environ 24 h et l'hypnose).
 
-## [ ] [pseudarthrose-du-scaphoide](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/pseudarthrose-du-scaphoide.md)
+## [x] [pseudarthrose-du-scaphoide](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/pseudarthrose-du-scaphoide.md)
 - Fracture récente : scanner présenté comme l'examen le plus utile (IRM en alternative) ; traitement « immobilisation de plusieurs semaines » ou vissage percutané.
 - Greffe osseuse prélevée sur le radius ou la crête iliaque ; greffe vascularisée si pôle proximal mal vascularisé ; greffe + vis sous arthroscopie « pour certaines pseudarthroses ».
 - Contrôle de la consolidation par scanner ; reprise des sports d'appui « après plusieurs mois ».

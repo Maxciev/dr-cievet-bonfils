@@ -9,9 +9,8 @@ group: poignet
 image: pseudarthrose-du-scaphoide.jpg
 image_alt: Scanner du poignet montrant un trait de pseudarthrose au milieu du scaphoïde
 related_pmids: 38331367
-status: brouillon
 ---
-La pseudarthrose du scaphoïde est l'absence de consolidation d'une fracture de ce petit os du poignet. Elle fait souvent suite à une fracture passée inaperçue, prise pour une entorse, et se traduit par une douleur du poignet côté pouce. Sans traitement, elle évolue vers l'arthrose : on la traite en général par une greffe osseuse associée à une vis, à ciel ouvert ou sous arthroscopie.
+La pseudarthrose du scaphoïde est l'absence de consolidation d'une fracture de ce petit os du poignet. Elle fait souvent suite à une fracture passée inaperçue, prise pour une entorse, et se traduit par une douleur du poignet côté pouce. Sans traitement, elle évolue vers l'arthrose : on la traite en général par une greffe osseuse associée à une vis, à ciel ouvert ou sous arthroscopie. L'arrêt complet du tabac est indispensable.
 
 ## Qu'est-ce que le scaphoïde ?
 
@@ -25,7 +24,7 @@ La fracture du scaphoïde survient le plus souvent chez l'adulte jeune, après u
 - Le trait de fracture est souvent **invisible sur les premières radiographies**
 - Le **scanner** du poignet est l'examen le plus utile pour confirmer ou éliminer la fracture et mesurer son déplacement ; une IRM est une alternative
 
-Une fracture récente non déplacée consolide le plus souvent avec une immobilisation de plusieurs semaines. Une fracture déplacée, ou chez un patient qui souhaite limiter l'immobilisation, peut être fixée par une **vis** mise à travers la peau. Toute « entorse du poignet » qui reste douloureuse après une chute mérite donc un avis et, au besoin, un scanner.
+Une fracture récente non déplacée consolide le plus souvent avec une immobilisation de 3 mois. Une fracture déplacée, ou chez un patient qui souhaite limiter l'immobilisation, peut être fixée par une **vis** mise à travers la peau. Toute « entorse du poignet » qui reste douloureuse après une chute mérite donc un avis et, au besoin, un scanner.
 
 ## Quels sont les symptômes de la pseudarthrose ?
 
@@ -42,15 +41,19 @@ Sans traitement, la pseudarthrose modifie le fonctionnement du poignet et condui
 
 ## Quels traitements sans chirurgie ?
 
-Une pseudarthrose installée ne consolide que rarement avec une simple immobilisation. Les antalgiques et une orthèse peuvent soulager transitoirement, mais n'empêchent pas l'évolution vers l'arthrose. Le traitement non chirurgical se discute surtout chez les patients peu gênés ou lorsque l'arthrose est déjà très avancée.
+Une pseudarthrose installée ne consolide pas avec une simple immobilisation. Les antalgiques et une orthèse peuvent soulager transitoirement, mais n'empêchent pas l'évolution vers l'arthrose. Le traitement non chirurgical se discute surtout chez les patients peu gênés ou lorsque l'arthrose est déjà très avancée.
 
 ## Quand faut-il opérer ?
 
 L'intervention est proposée dès que la pseudarthrose est diagnostiquée, avant l'apparition de l'arthrose, pour obtenir la consolidation et préserver le poignet. Plus elle est traitée tôt, plus la réparation est simple.
 
+## Pourquoi faut-il arrêter complètement le tabac ?
+
+Le tabac empêche le scaphoïde de consolider : il favorise la pseudarthrose après une fracture, et il empêche la greffe osseuse de consolider après l'intervention. Aucun tabagisme n'est toléré pendant le traitement d'une fracture ou d'une pseudarthrose du scaphoïde.
+
 ## Comment se déroule l'intervention ?
 
-Le principe est de retirer le tissu fibreux entre les fragments, de combler l'espace par une **greffe osseuse** et de fixer le scaphoïde, le plus souvent par une **vis**, parfois par des broches ou une petite plaque.
+Le principe est de retirer le tissu fibreux entre les fragments, de combler l'espace par une **greffe osseuse** et de fixer le scaphoïde, le plus souvent par une **vis**, ou parfois par des broches.
 
 - **À ciel ouvert** : l'os de greffe est prélevé sur le radius, au poignet, ou sur la crête de la hanche selon la quantité nécessaire ; une greffe vascularisée (avec son propre vaisseau) peut être proposée lorsque le pôle proximal est mal vascularisé
 - **Sous arthroscopie** : pour certaines pseudarthroses, la greffe osseuse et la vis sont mises en place à travers de petites incisions, à l'aide d'une caméra introduite dans le poignet ; cette technique respecte les ligaments et la vascularisation du scaphoïde
@@ -73,7 +76,7 @@ Oui. Une pseudarthrose du scaphoïde peut rester silencieuse longtemps puis deve
 Non. Elle convient à certaines pseudarthroses, selon la perte osseuse, la bascule du scaphoïde et l'état du cartilage ; le scanner permet de choisir la technique la mieux adaptée.
 
 ### Pourquoi le scaphoïde consolide-t-il mal ?
-Parce que sa vascularisation est fragile et qu'il subit des contraintes importantes à chaque mouvement du poignet ; un diagnostic tardif ou une immobilisation insuffisante favorisent la pseudarthrose.
+Parce que sa vascularisation est fragile et qu'il subit des contraintes importantes à chaque mouvement du poignet ; un diagnostic tardif, une immobilisation insuffisante et le tabac favorisent la pseudarthrose.
 
 ### Que se passe-t-il si je ne me fais pas opérer ?
 Le risque est l'évolution progressive vers une arthrose du poignet, avec douleur, raideur et perte de force, qui limite ensuite les options de réparation.
