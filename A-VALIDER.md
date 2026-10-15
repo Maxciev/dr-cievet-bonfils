@@ -1,6 +1,6 @@
 # Fiches à valider
 
-13 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+12 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -98,7 +98,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 
 Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (aucune publication listée ne correspond directement). Pour Kienböck, la publication sur les fractures du lunatum (PMID 37364729) n'a pas été ajoutée, car il s'agit d'une affection différente ; à ajouter si vous jugez le lien pertinent. Les sources ICMMS contenaient deux erreurs, corrigées dans les fiches : la douleur du conflit ulno-carpien était située « à l'extérieur du poignet » (elle est au bord interne, côté ulnaire), et le carpe bossu était décrit comme une arthrose incluant le trapèze (elle concerne le trapézoïde/capitatum et la base des 2e et 3e métacarpiens).
 
-## [ ] [lesion-tfcc](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesion-tfcc.md)
+## [x] [lesion-tfcc](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesion-tfcc.md)
 - Distinction thérapeutique : débridement des lésions centrales (zone peu vascularisée) contre réinsertion des désinsertions périphériques, sous arthroscopie ou avec une mini-incision complémentaire.
 - Après réinsertion : immobilisation « plusieurs semaines » bloquant la prono-supination (non chiffrée ; habituellement environ 6 semaines, à préciser selon votre protocole).
 - Reprise du sport « après plusieurs mois » ; ostéotomie de raccourcissement de l'ulna associée dans le même temps si l'ulna est longue.

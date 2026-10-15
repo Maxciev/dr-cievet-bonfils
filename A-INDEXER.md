@@ -14,5 +14,6 @@ Procédure : Search Console > barre « Inspecter n'importe quelle URL » > colle
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/fracture-du-poignet.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/pseudarthrose-du-scaphoide.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesion-ligament-scapho-lunaire.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesion-tfcc.html (publiée le 2026-10-15)
 
 ## Fait

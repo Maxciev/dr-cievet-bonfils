@@ -64,7 +64,7 @@ L'intervention se fait sous anesthésie locorégionale du bras, le plus souvent 
 ## Après l'opération
 
 - Une immobilisation par attelle thermoformée est portée 6 semaines
-- Les broches ou vis éventuelles sont retirées après cicatrisation des ligaments, à 6 semaines
+- Les broches ou vis éventuelles sont retirées au bloc opératoire après cicatrisation des ligaments, à 6 semaines (sous anesthésie locorégionale pour les vis)
 - La rééducation, progressive, vise la mobilité puis la force et la proprioception
 - La reprise des sports et travaux de force se fait en général après plusieurs mois
 

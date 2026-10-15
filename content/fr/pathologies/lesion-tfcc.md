@@ -9,7 +9,6 @@ group: poignet
 image: lesion-tfcc.jpg
 image_alt: Vue arthroscopique du complexe fibrocartilagineux triangulaire à l'intérieur du poignet
 related_pmids:
-status: brouillon
 ---
 Le TFCC (complexe fibrocartilagineux triangulaire) est un petit « ménisque » du poignet qui stabilise l'articulation entre le radius et l'ulna, du côté du petit doigt. Sa lésion, après une chute ou par usure, provoque une douleur du bord interne du poignet, surtout lors des rotations de l'avant-bras. Le traitement commence par le repos et une orthèse ; si la douleur persiste, une arthroscopie du poignet permet de nettoyer ou de réparer la lésion.
 
@@ -37,24 +36,19 @@ On distingue deux grands types de lésions :
 L'examen clinique recherche une douleur précise au bord ulnaire du poignet et teste la stabilité de l'articulation radio-ulnaire distale, en comparant avec le côté opposé.
 
 - **Radiographies** : elles éliminent une fracture et mesurent la longueur relative de l'ulna par rapport au radius.
-- **IRM ou arthroscanner** (scanner après injection de produit de contraste dans l'articulation) : ils visualisent la lésion du TFCC et les éventuelles lésions associées des ligaments ou du cartilage.
-- **Échographie** : elle peut compléter le bilan dans certains cas.
+- **Arthroscanner** (scanner après injection de produit de contraste dans l'articulation) : il visualise la lésion du TFCC et les éventuelles lésions associées des ligaments ou du cartilage.
 
 L'arthroscopie reste l'examen le plus précis : elle confirme la lésion et permet de la traiter dans le même temps.
 
 ## Quels traitements sans chirurgie ?
 
-La majorité des lésions récentes et stables sont d'abord traitées médicalement :
+Les lésions traumatiques très récentes du TFCC peuvent parfois être traitées simplement avec une **orthèse thermoformée** sur mesure qui bloque la prono-supination.
 
-- **Orthèse** du poignet pendant quelques semaines, pour mettre le TFCC au repos
-- **Éviction des gestes douloureux**, en particulier les rotations en force et les appuis sur la main
-- **Antalgiques et anti-inflammatoires** sur de courtes périodes
-- **Rééducation** avec un kinésithérapeute, une fois la douleur calmée, pour renforcer les muscles stabilisateurs du poignet
-- **Infiltration** de corticoïdes dans certains cas
+Les lésions partielles peuvent parfois récupérer après une **rééducation** bien menée.
 
 ## Quand faut-il opérer ?
 
-L'intervention est discutée lorsque la douleur persiste après plusieurs mois de traitement bien conduit, ou d'emblée en cas d'instabilité nette de l'articulation radio-ulnaire distale. Le choix du geste dépend de la localisation de la déchirure, de son ancienneté et d'un éventuel conflit ulno-carpien associé.
+L'intervention est discutée lorsque la douleur persiste après plusieurs mois de traitement bien conduit pour une lésion partielle, ou d'emblée en cas d'instabilité nette de l'articulation radio-ulnaire distale sur une lésion complète. Le choix du geste dépend de la localisation de la déchirure, de son ancienneté et d'un éventuel conflit ulno-carpien associé.
 
 ## Comment se déroule l'intervention ?
 
@@ -69,7 +63,7 @@ Selon la lésion :
 ## Après l'opération
 
 - Après un simple débridement, l'immobilisation est courte et la reprise des gestes quotidiens se fait en quelques semaines.
-- Après une réinsertion, le poignet et l'avant-bras sont immobilisés plusieurs semaines pour bloquer les rotations et laisser cicatriser la suture, puis une rééducation est prescrite.
+- Après une réinsertion, le poignet et l'avant-bras sont immobilisés 4 semaines pour bloquer les rotations et laisser cicatriser la suture, puis une rééducation est prescrite.
 - La reprise des sports sollicitant le poignet et des travaux de force est progressive, en général après plusieurs mois.
 
 Les complications sont rares : raideur, irritation d'une petite branche nerveuse sensitive, algodystrophie (syndrome douloureux régional complexe). Elles vous sont expliquées en consultation.
