@@ -9,7 +9,6 @@ group: autres
 image: algodystrophie.jpg
 image_alt: Main gonflée et rouge illustrant la phase chaude d'une algodystrophie
 related_pmids:
-status: brouillon
 ---
 L'algodystrophie, ou syndrome douloureux régional complexe (SDRC), est une réaction anormale du système nerveux qui survient le plus souvent après un traumatisme ou une intervention sur la main ou le poignet. Elle associe une douleur disproportionnée, un gonflement, des modifications de la peau puis une raideur. Son traitement n'est pas chirurgical : il repose sur un diagnostic précoce, une rééducation douce et régulière et une prise en charge adaptée de la douleur. Elle guérit le plus souvent, mais lentement.
 

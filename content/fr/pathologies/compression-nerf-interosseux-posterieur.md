@@ -9,7 +9,6 @@ group: nerfs
 image:
 image_alt:
 related_pmids:
-status: brouillon
 ---
 La compression du nerf interosseux postérieur est le pincement d'une branche du nerf radial juste sous le coude, le plus souvent sous l'arcade de Frohse, à l'entrée du muscle supinateur. Elle provoque une douleur de la face externe de l'avant-bras, quelques centimètres sous le coude, souvent confondue avec une [épicondylite](epicondylite.html). Le traitement commence par le repos et la rééducation ; en cas d'échec, une intervention libère le nerf.
 

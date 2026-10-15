@@ -26,5 +26,10 @@ Procédure : Search Console > barre « Inspecter n'importe quelle URL » > colle
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/rupture-du-biceps-distal.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/hygroma-du-coude.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/compression-nerf-ulnaire-coude.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/algodystrophie.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/compression-nerf-interosseux-posterieur.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/micro-instabilite-tete-radiale.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/denervation-du-poignet.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/arthrose-du-poignet.html (lien ajouté le 2026-10-15)
 
 ## Fait

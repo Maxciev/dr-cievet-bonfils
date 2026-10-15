@@ -1,6 +1,6 @@
 # Fiches à valider
 
-4 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+0 fiche en brouillon : toutes les fiches sont publiées (2026-10-15) : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -180,7 +180,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Durée du traitement médical (« plusieurs semaines à quelques mois ») ; récupération de la force « sur plusieurs mois ».
 - related_pmids 36289037 renseigné.
 
-## [ ] [algodystrophie](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/algodystrophie.md)
+## [x] [algodystrophie](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/algodystrophie.md)
 - Critères de Budapest cités ; types 1 et 2.
 - Vitamine C préventive après fracture du poignet : « parfois proposée » (niveau de preuve discuté).
 - Traitements de centre de la douleur cités (blocs, neurostimulation, perfusions) — à ajuster selon les pratiques locales.
@@ -189,19 +189,19 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 
 ### Nouvelles fiches demandées le 2026-10-15
 
-## [ ] [compression-nerf-interosseux-posterieur](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-interosseux-posterieur.md)
+## [x] [compression-nerf-interosseux-posterieur](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-interosseux-posterieur.md)
 - Deux formes (douloureuse = syndrome du tunnel radial, fréquente ; paralysante, rare) ; douleur « 4 à 5 cm sous le coude ».
 - EMG « souvent normal dans la forme douloureuse, indispensable dans la forme paralysante » ; échographie ; IRM si masse.
 - Traitement médical : rééducation, orthèse, antalgiques ; pas de corticoïdes ; test anesthésique échoguidé systématique (confirmé le 2026-10-15).
 - Voie d'abord externe, libération de l'arcade de Frohse et du supinateur ; ambulatoire, ALR ; pansement 2 semaines.
 
-## [ ] [micro-instabilite-tete-radiale](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/micro-instabilite-tete-radiale.md)
+## [x] [micro-instabilite-tete-radiale](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/micro-instabilite-tete-radiale.md)
 - Concept SMILE (Arrigoni) présenté comme « instabilité mineure latérale du coude » ; causes : ancienne entorse, sollicitations, infiltrations répétées.
 - Diagnostic : radiographies normales, arthroscanner, confirmation arthroscopique.
 - Technique : arthroscopie, traitement de la synovite et de la plica, retente des ligaments externes. Plicature arthroscopique (confirmé le 2026-10-15).
 - Suites : attelle de repos 6 semaines (confirmé le 2026-10-15).
 
-## [ ] [denervation-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/denervation-du-poignet.md)
+## [x] [denervation-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/denervation-du-poignet.md)
 - Voie d'abord dorsale unique pour NIOP et NIOA (confirmé le 2026-10-15).
 - Test anesthésique systématique (confirmé le 2026-10-15).
 - Chiffre cité : environ 8 patients sur 10 soulagés sans réintervention, recul ~2 ans (méta-analyse Fidanza, EFORT Open Rev 2023, 347 poignets).

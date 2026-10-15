@@ -9,7 +9,6 @@ group: poignet
 image:
 image_alt:
 related_pmids:
-status: brouillon
 ---
 La dénervation partielle du poignet consiste à couper deux petits nerfs profonds qui transmettent une grande partie de la douleur de l'articulation : le nerf interosseux postérieur (NIOP) et le nerf interosseux antérieur (NIOA). Elle est surtout utilisée dans l'[arthrose du poignet](arthrose-du-poignet.html). C'est une intervention courte, en ambulatoire, qui diminue la douleur en conservant la mobilité et la force du poignet, sans immobilisation, et qui n'empêche aucune intervention ultérieure.
 
@@ -26,7 +25,8 @@ La dénervation ne traite pas la cause de la douleur : elle ne répare pas le ca
 
 ## Pour quelles situations ?
 
-- **Arthrose du poignet**, notamment après une ancienne lésion ligamentaire ou une pseudarthrose du scaphoïde, lorsque la douleur prédomine et que la mobilité est conservée
+- **Arthrose radio-carpienne**, notamment après une ancienne lésion ligamentaire ou une pseudarthrose du scaphoïde, lorsque la douleur prédomine et que la mobilité est conservée
+- **Arthrose radio-ulnaire distale** (articulation entre le radius et l'ulna, au poignet)
 - [Maladie de Kienböck](maladie-de-kienbock.html), seule ou associée à un autre geste
 - Certaines **douleurs chroniques du poignet** après fracture ou entorse grave
 - En complément d'une autre intervention sur le poignet (arthrodèse partielle, résection de la première rangée du carpe)
@@ -41,7 +41,7 @@ La dénervation ne traite pas la cause de la douleur : elle ne répare pas le ca
 
 ## Comment savoir si elle peut être efficace ?
 
-Avant de proposer l'intervention, le chirurgien réalise systématiquement un **test anesthésique** : une injection d'anesthésique local, guidée par échographie, au contact des nerfs interosseux. Si la douleur diminue nettement pendant les heures qui suivent, la dénervation a de bonnes chances de soulager ; dans le cas contraire, elle n'est pas proposée.
+Avant de proposer l'intervention, un **test anesthésique** est réalisé : une injection d'anesthésique local, guidée par échographie, au contact des nerfs interosseux. Si la douleur diminue nettement pendant les heures qui suivent, la dénervation a de bonnes chances de soulager ; dans le cas contraire, elle n'est pas proposée.
 
 ## Comment se déroule l'intervention ?
 

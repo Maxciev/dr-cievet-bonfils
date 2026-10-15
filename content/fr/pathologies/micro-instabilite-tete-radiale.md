@@ -9,7 +9,6 @@ group: coude
 image:
 image_alt:
 related_pmids:
-status: brouillon
 ---
 La micro-instabilité de la tête radiale est un jeu anormal, discret, de la tête du radius au coude, lié à une détente des ligaments externes. Elle provoque une douleur de la face externe du coude qui ressemble à une [épicondylite](epicondylite.html) et résiste souvent à son traitement. Le diagnostic repose sur l'examen et l'imagerie ; lorsque la rééducation ne suffit pas, une arthroscopie permet de confirmer l'instabilité et de retendre les ligaments.
 
@@ -33,6 +32,7 @@ Cette détente peut faire suite à une ancienne entorse ou à une chute sur la m
 
 - **Examen clinique** : le chirurgien recherche une douleur précise sur l'articulation entre la tête radiale et l'humérus, et des manœuvres qui reproduisent la douleur en rotation ou en appui
 - **Radiographies** : elles sont le plus souvent normales et éliminent une autre cause
+- **Échographie** : elle peut mesurer l'écart entre la tête radiale et l'humérus lors de la mise en charge, ce qui permet de quantifier l'instabilité
 - **Arthroscanner** (scanner après injection de produit de contraste dans l'articulation) : il recherche une détente ligamentaire, une usure du cartilage ou un épaississement de la membrane articulaire
 - **Arthroscopie** : elle confirme l'instabilité en visualisant directement le jeu de la tête radiale, et permet de la traiter dans le même temps
 
