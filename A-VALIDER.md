@@ -1,12 +1,14 @@
 # Fiches à valider
 
-7 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+6 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
 **Comment valider** : réponds à Claude, par exemple « valide tout sauf X » ou « fiche Y : remplacer … par … ». Claude retire la mention brouillon et la fiche est publiée automatiquement.
 
 **WALANT** : mention retirée de toutes les fiches sauf doigt à ressaut et canal carpien (décision du 9/10). Ignorer les points « WALANT » listés ci-dessous.
+
+**Illustrations à créer** (plus tard) : compression-nerf-interosseux-posterieur, micro-instabilite-tete-radiale, denervation-du-poignet.
 
 **SOS Mains** : participation au SOS Mains du Médipôle confirmée le 2026-10-15.
 
@@ -158,7 +160,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Paragraphe ostéochondrite disséquante du capitulum (adolescent sportif) : formulation à valider.
 - Surveillance radiologique post-opératoire pour récidive.
 
-## [ ] [rupture-du-biceps-distal](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/rupture-du-biceps-distal.md)
+## [x] [rupture-du-biceps-distal](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/rupture-du-biceps-distal.md)
 - Délai conseillé : « idéalement dans les deux à trois semaines » ; greffe tendineuse si prise en charge tardive.
 - Épidémiologie : homme 40-60 ans ; facteurs de risque (tabac, anabolisants).
 - Moyens de fixation cités (bouton cortical, ancre, vis) ; attelle ou mobilisation immédiate selon le montage.
