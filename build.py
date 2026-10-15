@@ -471,7 +471,7 @@ def build_pathology(p, all_pathos):
     related = [x for x in PUBS["items"] if x["pmid"] in p.get("related_pmids", "").split()]
     rel_html = ""
     if related:
-        rel_html = '<section class="related"><h2>Publication du Dr Cievet-Bonfils sur ce sujet</h2><ol class="pubs">' + \
+        rel_html = f'<section class="related"><h2>Publication{"s" if len(related) > 1 else ""} du Dr Cievet-Bonfils sur ce sujet</h2><ol class="pubs">' + \
                    "".join(f"<li>{fmt_pub(x)}</li>" for x in related) + "</ol></section>"
     same = [o for o in all_pathos if o["slug"] != p["slug"] and o.get("group") == p.get("group")]
     others = "".join(f'<li><a href="{o["slug"]}.html">{e(o["h1"])}</a></li>' for o in (same or all_pathos[:6])[:8])
