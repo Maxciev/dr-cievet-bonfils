@@ -9,7 +9,6 @@ group: main
 image: lesions-des-poulies.jpg
 image_alt: Schéma d'un doigt montrant les poulies A2 et A4 et le tendon fléchisseur en corde d'arc
 related_pmids:
-status: brouillon
 ---
 Une lésion des poulies est la déchirure d'un des anneaux fibreux qui plaquent les tendons fléchisseurs contre les os du doigt. Elle touche surtout les grimpeurs et se traduit par un craquement, puis une douleur à la base du doigt lors des prises en force. La plupart des lésions isolées guérissent avec une bague de protection et une reprise progressive ; les ruptures de plusieurs poulies avec « corde d'arc » relèvent d'une reconstruction chirurgicale.
 

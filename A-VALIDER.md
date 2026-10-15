@@ -1,6 +1,6 @@
 # Fiches à valider
 
-18 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+17 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -64,7 +64,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Possibilité d'opérer « de nombreuses fractures des doigts » sous WALANT, et anesthésie locorégionale réservée plutôt aux métacarpiens / montages longs : conforme à votre pratique ?
 - Fracture du boxeur : « légère bascule souvent bien tolérée, traitement sans chirurgie », mais rotation toujours à corriger.
 
-## [ ] [lesions-des-poulies](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesions-des-poulies.md)
+## [x] [lesions-des-poulies](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/lesions-des-poulies.md)
 - Échographie dynamique présentée comme « examen de référence », IRM en complément.
 - Indication chirurgicale : ruptures multiples (A2+A3, A2+A3+A4) ou échec ; rupture isolée d'A2 ou A4 « le plus souvent » traitée sans chirurgie.
 - Technique décrite : reconstruction par greffe tendineuse (anneau autour de la phalange ou fixation sur les reliquats) ; mention d'une réalisation possible sous WALANT « selon les cas » — à confirmer.
