@@ -9,7 +9,6 @@ group: coude
 image: hygroma-du-coude.jpg
 image_alt: Gonflement arrondi à la pointe du coude caractéristique d'un hygroma
 related_pmids:
-status: brouillon
 ---
 L'hygroma du coude, ou bursite olécrânienne, est une poche de liquide qui se forme à la pointe du coude, dans une petite bourse de glissement située sous la peau. Il se manifeste par un gonflement souvent peu douloureux. La plupart des hygromas non infectés guérissent avec un traitement simple ; un hygroma infecté (rouge, chaud, douloureux) nécessite une prise en charge rapide, parfois chirurgicale.
 
@@ -43,7 +42,7 @@ L'examen clinique suffit le plus souvent. En cas de doute sur une infection, une
 Hygroma non infecté :
 - **Supprimer les appuis** sur le coude, protéger la zone (coudière)
 - **Glace et anti-inflammatoires** sur de courtes périodes
-- **Bandage compressif**
+- **Manchon compressif**
 - **Ponction** du liquide si la poche est volumineuse ou gênante, en sachant que la récidive est fréquente
 
 Hygroma infecté pris tôt :
@@ -71,7 +70,7 @@ Les complications possibles sont surtout un retard de cicatrisation, une récidi
 ## Questions fréquentes
 
 ### Comment savoir si mon hygroma est infecté ?
-Une rougeur, une chaleur, une douleur importante, une plaie ou de la fièvre doivent faire suspecter une infection. Dans ce cas, consultez rapidement, par exemple via le service [SOS Mains et urgences de la main](urgences-de-la-main.html).
+Une rougeur, une chaleur, une douleur importante, une plaie ou de la fièvre doivent faire suspecter une infection. Dans ce cas, consultez en urgence.
 
 ### Faut-il ponctionner un hygroma ?
 Pas toujours. La ponction soulage un hygroma volumineux et permet d'analyser le liquide, mais la poche se remplit souvent à nouveau si les appuis se poursuivent.

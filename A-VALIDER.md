@@ -1,6 +1,6 @@
 # Fiches à valider
 
-6 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+5 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -167,7 +167,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Durées : force complète en 3 à 6 mois ; charges lourdes/musculation après 3 à 4 mois.
 - Complication principale : irritation du nerf cutané latéral de l'avant-bras (non nommé dans le texte). Pas d'image.
 
-## [ ] [hygroma-du-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/hygroma-du-coude.md)
+## [x] [hygroma-du-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/hygroma-du-coude.md)
 - Prise en charge de l'hygroma septique : antibiotiques ± ponction ± immobilisation, chirurgie si échec rapide/abcès.
 - Anesthésie : locorégionale ou locale (WALANT non mentionné).
 - Attelle post-opératoire quelques jours ; éviction des appuis « plusieurs semaines ».

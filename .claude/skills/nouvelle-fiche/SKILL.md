@@ -66,3 +66,4 @@ Ajouter chaque adresse publiée ou modifiée dans `A-INDEXER.md` (section « En 
 
 ## Terminologie
 - « ulna » est masculin (un ulna, l'ulna est raccourci, trop long), conformément à l'usage du chirurgien et de Wikipédia.
+- Ne lier une fiche que si la pathologie est la même : un nerf ou une structure commune ne suffit pas (ex. complication nerveuse d'une chirurgie ≠ fiche de compression de ce nerf).

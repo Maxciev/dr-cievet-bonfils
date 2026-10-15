@@ -51,7 +51,7 @@ Par une courte incision à l'avant du coude, le chirurgien récupère le tendon 
 - La rééducation récupère d'abord la mobilité, puis la force
 - Il faut en général compter trois à six mois pour retrouver une force complète et reprendre les travaux lourds ou le sport de force
 
-Les complications possibles sont surtout une irritation transitoire d'un nerf sensitif de l'avant-bras (fourmillements), une irritation du [nerf interosseux postérieur](compression-nerf-interosseux-posterieur.html) qui peut entraîner une paralysie de l'extension des doigts et du poignet, plus rarement une ossification anormale, une raideur ou une nouvelle rupture. Elles vous sont expliquées en consultation.
+Les complications possibles sont surtout une irritation transitoire d'un nerf sensitif de l'avant-bras (fourmillements), une irritation du nerf interosseux postérieur qui peut entraîner une paralysie de l'extension des doigts et du poignet, plus rarement une ossification anormale, une raideur ou une nouvelle rupture. Elles vous sont expliquées en consultation.
 
 ## Questions fréquentes
 
