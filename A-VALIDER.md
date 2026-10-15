@@ -1,6 +1,6 @@
 # Fiches à valider
 
-10 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+9 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -119,7 +119,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Arthrodèse totale : conserve la prono-supination.
 - Délais : immobilisation « plusieurs semaines » après arthrodèse partielle, récupération « plusieurs mois ».
 
-## [ ] [carpe-bossu](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/carpe-bossu.md)
+## [x] [carpe-bossu](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/carpe-bossu.md)
 - Localisation : articulation carpo-métacarpienne des 2e et 3e rayons (trapézoïde, capitatum) ; os surnuméraire (os styloïdeum) évoqué comme cause plus rare.
 - Possibilité d'intervention en WALANT (non prévue dans la liste des gestes cités par la consigne) : à valider.
 - Arthrodèse carpo-métacarpienne évoquée en cas de récidive ou d'instabilité, sans perte de mobilité notable du poignet.

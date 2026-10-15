@@ -9,7 +9,6 @@ group: poignet
 image: carpe-bossu.jpg
 image_alt: Saillie osseuse sur le dos de la main à la base des deuxième et troisième métacarpiens
 related_pmids:
-status: brouillon
 ---
 Le carpe bossu est une petite saillie osseuse dure sur le dos de la main, à la base de l'index et du majeur, juste avant le poignet. Il correspond à une petite arthrose localisée entre les os du carpe et la base des métacarpiens, et peut être douloureux lors des appuis ou des mouvements. Le traitement est d'abord médical ; en cas de gêne persistante, la bosse peut être retirée lors d'une courte intervention en ambulatoire.
 
@@ -39,7 +38,6 @@ Beaucoup de carpes bossus sont peu gênants et ne nécessitent aucun traitement.
 - **Éviter temporairement** les appuis et les gestes déclenchants
 - **Orthèse** de poignet lors des activités sollicitantes
 - **Anti-inflammatoires** sur de courtes périodes
-- **Infiltration** de corticoïdes au contact de l'articulation, qui peut soulager durablement certaines poussées
 
 ## Quand faut-il opérer ?
 
@@ -47,13 +45,14 @@ L'intervention est proposée lorsque la douleur persiste malgré ces mesures et 
 
 ## Comment se déroule l'intervention ?
 
-Par une courte incision sur le dos de la main, en écartant les tendons extenseurs, le chirurgien retire la saillie osseuse (**résection**) jusqu'à retrouver une surface régulière, ainsi qu'un éventuel kyste associé. Dans certaines situations, notamment en cas de récidive ou d'articulation très instable, une **arthrodèse** (fusion) de cette petite articulation peut être discutée ; elle n'entraîne pas de perte de mobilité notable du poignet, car cette articulation bouge très peu.
+Par une courte incision sur le dos de la main, en écartant les tendons extenseurs, le chirurgien retire la saillie osseuse (**résection**) jusqu'à retrouver une surface régulière, ainsi qu'un éventuel kyste associé.
 
 L'intervention se fait en ambulatoire. Elle est réalisée sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 
-- Un pansement est gardé environ deux semaines, parfois avec une orthèse de confort quelques jours
+- Un pansement est gardé environ deux semaines
+- Une immobilisation est portée pendant 4 semaines
 - Les doigts sont mobilisés immédiatement pour les gestes légers
 - La reprise des appuis sur la main et des efforts se fait progressivement sur quelques semaines
 - Une rééducation est parfois utile en cas de raideur
