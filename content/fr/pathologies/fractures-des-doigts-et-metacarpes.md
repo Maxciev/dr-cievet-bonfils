@@ -9,7 +9,6 @@ group: main
 image: fractures-des-doigts-et-metacarpes.jpg
 image_alt: Radiographie d'une main montrant une fracture d'un métacarpien et d'une phalange
 related_pmids:
-status: brouillon
 ---
 Une fracture des doigts ou des métacarpes est la cassure d'une phalange (os d'un doigt) ou d'un métacarpien (os long de la paume). Elle se manifeste par une douleur, un gonflement et parfois une déformation ou un doigt qui chevauche son voisin quand on ferme le poing. Une fracture stable se traite par une attelle ; une fracture déplacée, tournée ou articulaire est le plus souvent fixée chirurgicalement.
 
@@ -73,7 +72,7 @@ L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 - Une attelle de protection est souvent portée quelques semaines, en laissant libres les articulations qui peuvent l'être
 - La rééducation débute tôt pour limiter la raideur, principal risque des fractures de la main
-- Les broches sont retirées en consultation, en général vers la quatrième à la sixième semaine ; les vis et plaques sont le plus souvent laissées en place, sauf gêne
+- Les broches sont retirées au bloc opératoire sous anesthésie locale, en général vers la quatrième à la sixième semaine ; les vis et plaques sont le plus souvent laissées en place, sauf en cas de gêne
 - La reprise du travail et du sport dépend de l'os, de la fixation et de votre activité
 
 Les complications possibles sont la raideur, un cal vicieux, un retard de consolidation, une infection ou un syndrome douloureux régional complexe ([algodystrophie](algodystrophie.html)). Elles vous sont expliquées en consultation.
@@ -84,7 +83,7 @@ Les complications possibles sont la raideur, un cal vicieux, un retard de consol
 Oui, une légère bascule du col du cinquième métacarpien est souvent bien tolérée et peut se traiter sans chirurgie ; la perte de la « bosse » de l'articulation est alors surtout esthétique, mais une rotation, elle, doit toujours être corrigée.
 
 ### Combien de temps faut-il pour qu'un doigt cassé consolide ?
-L'os est en général suffisamment solide au bout de quatre à six semaines pour une utilisation courante, mais la souplesse et la force continuent de progresser pendant plusieurs mois.
+L'os est en général suffisamment solide au bout de quatre à six semaines pour une utilisation courante, mais la consolidation complète prend au moins 3 mois ; la souplesse et la force continuent de progresser pendant plusieurs mois.
 
 ### Faut-il toujours un plâtre ?
 Non. Les attelles ou orthèses sur mesure et la syndactylie ont largement remplacé le plâtre pour les doigts : elles immobilisent seulement ce qui est nécessaire et limitent la raideur.

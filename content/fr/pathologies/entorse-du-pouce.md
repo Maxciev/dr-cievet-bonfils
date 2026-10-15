@@ -16,7 +16,7 @@ L'entorse du pouce, ou « pouce du skieur », est une lésion du ligament situé
 
 L'articulation métacarpo-phalangienne relie le premier métacarpien à la première phalange du pouce. Sur son bord interne, côté index, le ligament collatéral ulnaire l'empêche de s'ouvrir lorsque vous pincez un objet. Lorsque le pouce est brutalement écarté de la main, ce ligament peut être étiré (entorse bénigne), déchiré complètement (entorse grave), ou arracher un petit fragment osseux de la phalange.
 
-Dans certaines ruptures complètes, le ligament arraché se retourne et se retrouve coincé au-dessus d'une lame fibreuse d'un muscle du pouce (l'aponévrose de l'adducteur). C'est la **lésion de Stener** : le ligament ne peut plus rejoindre l'os et ne cicatrise pas seul, quelle que soit la durée d'immobilisation.
+Dans certaines ruptures complètes, le ligament arraché se retourne et se retrouve coincé au-dessus d'une lame fibreuse d'un muscle du pouce (l'aponévrose de l'adducteur). C'est l'**effet Stener** : le ligament ne peut plus rejoindre l'os et ne cicatrise pas seul, quelle que soit la durée d'immobilisation.
 
 Le ski est la cause classique, mais cette entorse survient aussi lors de chutes sur la main, de sports de ballon, de combat ou de vélo.
 
@@ -30,7 +30,7 @@ Le ski est la cause classique, mais cette entorse survient aussi lors de chutes 
 
 ## Comment pose-t-on le diagnostic ?
 
-Le chirurgien teste délicatement la stabilité de l'articulation en comparant avec le pouce opposé. Des **radiographies** recherchent un arrachement osseux ou une fracture associée. L'**échographie**, réalisée par un opérateur habitué, visualise le ligament, précise s'il est étiré ou rompu et recherche une lésion de Stener.
+Le chirurgien teste délicatement la stabilité de l'articulation en comparant avec le pouce opposé. Des **radiographies** recherchent un arrachement osseux ou une fracture associée. L'**échographie**, réalisée par un opérateur habitué, visualise le ligament, précise s'il est étiré ou rompu et recherche un effet Stener.
 
 Consultez rapidement après le traumatisme, idéalement dans les premiers jours : une rupture reconnue tôt se répare plus simplement qu'une instabilité ancienne. Une consultation d'[urgence de la main](urgences-de-la-main.html) est possible.
 
@@ -48,7 +48,7 @@ Un petit arrachement osseux non déplacé peut également être traité par orth
 
 L'intervention est nécessaire dans les situations suivantes :
 
-- **lésion de Stener**, que seule la chirurgie peut corriger
+- **effet Stener**, que seule la chirurgie peut corriger
 - rupture complète avec articulation franchement instable
 - arrachement osseux déplacé ou fragment articulaire important
 - instabilité chronique, douloureuse ou gênante, après une entorse ancienne mal cicatrisée
@@ -62,7 +62,7 @@ L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 ## Après l'opération
 
 - Le pouce est protégé par une orthèse, en général 4 à 6 semaines
-- La rééducation débute immédiatement après l'intervention pour récupérer la mobilité puis la force de la pince
+- La rééducation débute immédiatement après l'intervention, sous protection de l'orthèse, pour récupérer la mobilité puis la force de la pince
 - La reprise des sports à risque pour le pouce se fait progressivement, souvent avec une protection
 - Une sensation de raideur ou un épaississement de l'articulation peuvent persister quelques mois
 
@@ -80,4 +80,4 @@ Une instabilité durable de la pince pouce-index, avec douleur, perte de force e
 Il vaut mieux arrêter et consulter. Poursuivre l'activité avec un pouce instable expose à aggraver la lésion ; après traitement, une orthèse de protection facilite la reprise.
 
 ### Faut-il une échographie ?
-Elle est très utile en cas d'entorse grave suspectée, car elle permet de savoir si le ligament peut cicatriser en place ou s'il existe une lésion de Stener nécessitant une opération.
+Elle est très utile en cas d'entorse grave suspectée, car elle permet de savoir si le ligament peut cicatriser en place ou s'il existe un effet Stener nécessitant une opération.

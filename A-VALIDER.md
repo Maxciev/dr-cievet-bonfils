@@ -1,6 +1,6 @@
 # Fiches à valider
 
-19 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+18 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -58,7 +58,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 
 # Lot B — points à vérifier par le chirurgien
 
-## [ ] [fractures-des-doigts-et-metacarpes](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/fractures-des-doigts-et-metacarpes.md)
+## [x] [fractures-des-doigts-et-metacarpes](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/fractures-des-doigts-et-metacarpes.md)
 - Durée d'immobilisation annoncée « en général 3 à 6 semaines selon l'os » (la source ICMMS indique 4 à 6 semaines) et consolidation « suffisante vers 4 à 6 semaines ».
 - Retrait des broches « vers la 4e à la 6e semaine » ; vis et plaques « le plus souvent laissées en place, sauf gêne ».
 - Possibilité d'opérer « de nombreuses fractures des doigts » sous WALANT, et anesthésie locorégionale réservée plutôt aux métacarpiens / montages longs : conforme à votre pratique ?
