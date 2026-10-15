@@ -19,7 +19,7 @@ Entre la peau et la pointe osseuse du coude (l'olécrane) se trouve une bourse s
 On distingue deux situations très différentes :
 
 - **L'hygroma non infecté (aseptique)** : il est dû à des appuis répétés sur le coude (travail sur un bureau, métiers au sol, sports), à un choc, ou plus rarement à une maladie inflammatoire comme la goutte ou la polyarthrite rhumatoïde.
-- **L'hygroma infecté (septique)** : des germes pénètrent dans la bourse, souvent par une petite plaie ou une écorchure de la peau du coude. C'est une urgence relative.
+- **L'hygroma infecté (septique)** : des germes pénètrent dans la bourse, souvent par une petite plaie ou une écorchure de la peau du coude. C'est une urgence.
 
 ## Quels sont les symptômes ?
 

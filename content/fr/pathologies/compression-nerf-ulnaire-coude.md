@@ -9,7 +9,6 @@ group: nerfs
 image:
 image_alt:
 related_pmids: 36289037
-status: brouillon
 ---
 La compression du nerf ulnaire au coude, ou syndrome du tunnel cubital, est la deuxième compression nerveuse du membre supérieur après le [canal carpien](canal-carpien.html). Elle provoque des fourmillements de l'annulaire et de l'auriculaire, surtout coude plié, puis une perte de force et d'habileté de la main. Le traitement commence par des mesures simples (éviter de garder le coude plié, attelle la nuit) ; si les symptômes persistent ou si le nerf souffre, une intervention libère le nerf.
 
@@ -31,7 +30,7 @@ Contrairement au canal carpien, l'atteinte musculaire peut s'installer sans beau
 
 ## Comment pose-t-on le diagnostic ?
 
-L'examen recherche une diminution de la sensibilité, une faiblesse des petits muscles de la main et une douleur à la percussion du nerf au coude ; il vérifie aussi si le nerf se luxe lors de la flexion. Un électromyogramme (EMG) confirme la compression, précise son niveau (coude ou poignet) et sa sévérité, et élimine une atteinte du cou. Une échographie peut visualiser le nerf, et une radiographie rechercher une cause osseuse.
+L'examen recherche une diminution de la sensibilité, une faiblesse des petits muscles de la main et une douleur à la percussion du nerf au coude ; il vérifie aussi si le nerf se luxe lors de la flexion. Un électromyogramme (EMG) confirme la compression, précise son niveau (coude ou poignet) et sa sévérité, et élimine une atteinte du cou. L'échographie est l'examen le plus sensible : elle permet de vérifier la structure du nerf et de rechercher une cause de compression locale. Une radiographie recherche une cause osseuse.
 
 ## Quels traitements sans chirurgie ?
 
@@ -50,13 +49,15 @@ L'intervention est proposée lorsque les symptômes persistent malgré le traite
 
 ## Comment se déroule l'intervention ?
 
-L'intervention de référence est la **libération du nerf in situ** (neurolyse) : par une incision à la face interne du coude, le chirurgien ouvre l'arcade fibreuse et les zones de compression, sans déplacer le nerf. Lorsque le nerf est instable et se luxe en avant à la flexion, ou dans certaines situations (séquelles de fracture, récidive), il peut être déplacé en avant de l'épitrochlée : c'est la **transposition antérieure**.
+L'intervention habituellement proposée est la **libération du nerf in situ** (neurolyse) : par une incision à la face interne du coude, le chirurgien ouvre l'arcade fibreuse et les zones de compression, sans déplacer le nerf. Lorsque le nerf est instable et se luxe en avant à la flexion, ou dans certaines situations (séquelles de fracture, récidive), il peut être déplacé en avant de l'épitrochlée : c'est la **transposition antérieure**.
 
-L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras ; une libération simple peut aussi être réalisée sous anesthésie locale.
+En cas de compression du nerf ulnaire par une hypertrophie du muscle triceps, une résection partielle du muscle peut soulager la compression.
+
+L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 
 ## Après l'opération
 
-- Le coude est mobilisé rapidement pour éviter les adhérences autour du nerf ; une attelle est parfois portée quelques jours après une transposition
+- Le coude est mobilisé rapidement pour éviter les adhérences autour du nerf
 - Les fourmillements s'améliorent souvent en quelques semaines ; la récupération de la sensibilité et surtout de la force est lente, sur plusieurs mois
 - Une rééducation de la main peut être prescrite en cas d'atteinte musculaire
 - La durée de l'arrêt de travail dépend de votre métier et du geste réalisé

@@ -1,6 +1,6 @@
 # Fiches à valider
 
-5 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+4 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -173,7 +173,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Attelle post-opératoire quelques jours ; éviction des appuis « plusieurs semaines ».
 - Récidive post-bursectomie qualifiée de « peu fréquente ».
 
-## [ ] [compression-nerf-ulnaire-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-ulnaire-coude.md) (rédigée sans source ICMMS)
+## [x] [compression-nerf-ulnaire-coude](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/compression-nerf-ulnaire-coude.md) (rédigée sans source ICMMS)
 - « Deuxième compression nerveuse du membre supérieur » (expression « petit juif » retirée par Claude).
 - Indications de transposition antérieure (nerf instable, séquelles de fracture, récidive) vs libération in situ de référence.
 - Anesthésie : locorégionale, ou locale pour une libération simple (lien WALANT à ajouter si pratiqué).
