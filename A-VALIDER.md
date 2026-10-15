@@ -1,6 +1,6 @@
 # Fiches à valider
 
-8 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+7 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -131,7 +131,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Ablation de plaque non systématique, « en général après au moins un an ».
 - Cliché poing serré pour accentuer la variance ; œdème IRM du bord du lunatum et de la tête de l'ulna.
 
-## [ ] [maladie-de-kienbock](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/maladie-de-kienbock.md)
+## [x] [maladie-de-kienbock](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/maladie-de-kienbock.md)
 - Facteurs évoqués : vascularisation du lunatum, microtraumatismes, variance ulnaire négative ; atteinte unilatérale « dans la grande majorité des cas ».
 - Immobilisation « parfois pendant plusieurs mois » aux stades débutants, surtout chez l'adolescent et l'adulte jeune.
 - Greffe osseuse vascularisée prélevée « en général sur le radius » (pédicule 4-5 ECA ou autre) ; ostéotomie de raccourcissement du radius si variance ulnaire négative.

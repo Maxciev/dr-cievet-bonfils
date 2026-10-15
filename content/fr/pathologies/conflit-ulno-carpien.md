@@ -58,7 +58,7 @@ L'intervention est proposée lorsque la douleur persiste après plusieurs mois d
 
 L'intervention se fait sous anesthésie locorégionale (anesthésie du bras), le plus souvent en ambulatoire.
 
-- **Ostéotomie de raccourcissement de l'ulna** : par une incision sur le bord interne de l'avant-bras, l'ulna est coupé, raccourci de quelques millimètres puis fixé par une plaque vissée. C'est le geste de référence ; il détend aussi les ligaments du bord ulnaire du poignet.
+- **Ostéotomie de raccourcissement de l'ulna** : par une incision sur le bord interne de l'avant-bras, l'ulna est coupé, raccourci de quelques millimètres puis fixé par une plaque vissée. C'est le geste le plus souvent proposé ; il détend aussi les ligaments du bord ulnaire du poignet.
 - **Résection arthroscopique de l'extrémité de l'ulna (intervention de Wafer)** : sous arthroscopie du poignet, par de petites incisions, le chirurgien retire une fine tranche de la tête de l'ulna à travers la perforation du TFCC. Elle convient aux excès de longueur modérés.
 
 Une **arthroscopie** permet dans le même temps de régulariser le TFCC et le cartilage abîmés.

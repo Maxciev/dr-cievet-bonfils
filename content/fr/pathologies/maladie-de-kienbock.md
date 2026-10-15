@@ -9,7 +9,6 @@ group: poignet
 image: maladie-de-kienbock.jpg
 image_alt: Radiographie du poignet montrant un lunatum condensé et affaissé au centre du carpe
 related_pmids:
-status: brouillon
 ---
 La maladie de Kienböck est une nécrose du lunatum, un petit os situé au centre du poignet, qui perd progressivement sa vascularisation, se fragilise puis s'affaisse. Elle touche surtout l'adulte jeune et provoque une douleur au dos du poignet, un gonflement et une raideur. Le traitement dépend du stade : immobilisation au début, puis chirurgie pour décharger ou revasculariser l'os, ou pour soulager un poignet déjà usé.
 
