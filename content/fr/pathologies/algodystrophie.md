@@ -43,7 +43,7 @@ Le diagnostic est clinique : il repose sur l'association de symptômes et de sig
 
 ## Comment traite-t-on l'algodystrophie ?
 
-Le traitement est médical et souvent multidisciplinaire (chirurgien, médecin de la douleur, kinésithérapeute, ergothérapeute). Il associe :
+Le traitement est médical et souvent multidisciplinaire (chirurgien, médecin de la douleur, kinésithérapeute spécialisé en rééducation de la main). Il associe :
 
 - **Une rééducation douce, régulière et non douloureuse** : c'est le pilier du traitement. Il faut continuer à se servir de la main, sans forcer dans la douleur. Des techniques comme la thérapie miroir ou l'imagerie motrice peuvent être utilisées
 - **La lutte contre le gonflement** : surélévation de la main, drainage, bains écossais (alternance chaud et froid) selon la tolérance

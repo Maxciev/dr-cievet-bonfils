@@ -58,7 +58,7 @@ Selon la lésion, le chirurgien remet l'articulation en place, répare ou réins
 ## Après l'opération
 
 - Une orthèse protège l'articulation pendant la cicatrisation, en général quelques semaines
-- La rééducation avec un kinésithérapeute ou un ergothérapeute débute tôt pour limiter la raideur
+- La rééducation avec un kinésithérapeute spécialisé en rééducation de la main débute tôt pour limiter la raideur
 - Le retour au sport se fait progressivement, souvent avec une syndactylie de protection
 
 Qu'il y ait eu chirurgie ou non, il est habituel que l'articulation reste un peu gonflée et raide pendant plusieurs mois. Un épaississement définitif de l'articulation est fréquent et généralement sans conséquence fonctionnelle.

@@ -44,7 +44,7 @@ Les fractures non déplacées et stables se traitent sans opération :
 - **radiographies de contrôle** rapprochées les premières semaines, pour vérifier que la fracture ne se déplace pas
 - antalgiques et surélévation de la main pour limiter le gonflement
 
-Les doigts supportent mal l'immobilisation prolongée : la mobilisation est reprise dès que la stabilité le permet, souvent avec l'aide d'un kinésithérapeute ou d'un ergothérapeute.
+Les doigts supportent mal l'immobilisation prolongée : la mobilisation est reprise dès que la stabilité le permet, souvent avec l'aide d'un kinésithérapeute spécialisé en rééducation de la main.
 
 ## Quand faut-il opérer ?
 

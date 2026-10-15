@@ -40,7 +40,7 @@ Le traitement médical est efficace dans une grande partie des cas, surtout lors
 - **Orthèse** qui immobilise le pouce et le poignet, portée la nuit et pendant les activités qui déclenchent la douleur
 - **Anti-inflammatoires** en cure courte et application de froid
 - **Infiltration de corticoïdes** dans la gaine des tendons, souvent guidée par l'échographie ; elle soulage rapidement mais son effet peut être transitoire
-- **Rééducation** avec un kinésithérapeute ou un ergothérapeute une fois la douleur calmée, pour adapter les gestes du quotidien
+- **Rééducation** avec un kinésithérapeute spécialisé en rééducation de la main une fois la douleur calmée, pour adapter les gestes du quotidien
 
 ## Quand faut-il opérer ?
 

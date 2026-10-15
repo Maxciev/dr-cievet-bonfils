@@ -9,7 +9,6 @@ group: main
 image: urgences-de-la-main.jpg
 image_alt: Main blessée protégée par un pansement compressif, surélevée, avant une prise en charge en urgence
 related_pmids:
-status: brouillon
 ---
 Une urgence de la main est une blessure qui peut toucher des tendons, des nerfs, des vaisseaux ou des os dans un très petit espace, même quand la plaie paraît minime. En cas de plaie, de doigt sectionné, d'écrasement ou de morsure, il faut protéger la blessure, rester à jeun et se rendre dans un centre SOS Mains ou appeler le 15. Une réparation précoce par un chirurgien de la main conditionne la récupération.
 
@@ -30,15 +29,13 @@ Le Dr Cievet-Bonfils participe à la prise en charge des urgences de la main au 
 - **Fracture** ou **luxation** avec déformation, notamment une fracture ouverte (os visible ou plaie en regard)
 - **Brûlure** étendue ou profonde de la main
 
-Au coude, une plaie, une infection ou un traumatisme récent (rupture du tendon du biceps, fracture) relèvent aussi d'une prise en charge rapide ; voir la [rupture du biceps distal](rupture-du-biceps-distal.html).
-
 ## Que faire immédiatement ?
 
 **Pour une plaie :**
-- rincer doucement à l'eau propre ou au sérum physiologique
+- rincer doucement à l'eau propre ou au sérum physiologique et savonner délicatement pour nettoyer
 - couvrir d'une compresse propre et appuyer fermement pour arrêter le saignement
 - surélever la main au-dessus du cœur
-- ne pas poser de garrot, sauf hémorragie impossible à contrôler en attendant les secours
+- ne jamais poser de garrot
 - retirer bagues, montre et bracelets avant que la main ne gonfle
 
 **Pour un doigt amputé :**
@@ -55,7 +52,7 @@ Au coude, une plaie, une infection ou un traumatisme récent (rupture du tendon 
 
 ## Où aller ?
 
-En cas d'urgence, rendez-vous directement dans un **centre SOS Mains** ou appelez le **15** (SAMU), qui vous orientera. En cas d'amputation, de saignement abondant ou de blessure grave, appelez le 15 plutôt que de vous déplacer par vos propres moyens. Un passage préalable par un service d'urgences générales peut retarder la prise en charge spécialisée.
+En cas d'urgence, rendez-vous directement dans un **centre SOS Mains** ou appelez le **15** (SAMU), qui vous orientera. En cas d'amputation, de saignement abondant ou de blessure grave, appelez le 15 plutôt que de vous déplacer par vos propres moyens. Un passage préalable par un service d'urgences générales plus proche de chez vous permet parfois un adressage au SOS Mains.
 
 ## Comment se déroule la prise en charge ?
 
@@ -69,13 +66,13 @@ Selon les lésions, l'intervention peut associer :
 - une réimplantation lorsque le doigt amputé s'y prête
 - un lavage en cas d'infection ou de morsure
 
-La plupart de ces gestes se font en ambulatoire, sous anesthésie locorégionale du bras. Les réimplantations nécessitent une hospitalisation.
+La plupart de ces gestes se font en ambulatoire, sous anesthésie locorégionale du bras. Les réimplantations nécessitent parfois une hospitalisation.
 
 ## Après la prise en charge
 
 - Surélever la main et suivre les consignes de pansement
 - Respecter l'attelle prescrite : une réparation de tendon est fragile pendant plusieurs semaines
-- Débuter la rééducation dans les délais fixés, souvent avec un kinésithérapeute ou un ergothérapeute spécialisé
+- Débuter la rééducation dans les délais fixés, avec un kinésithérapeute spécialisé en rééducation de la main (annuaire du [GEMMSOR](https://www.sfrm-gemmsor.fr/annuaire_kine_ergo.php))
 - Consulter sans attendre en cas de fièvre, de rougeur ou de douleur croissante
 
 ## Questions fréquentes

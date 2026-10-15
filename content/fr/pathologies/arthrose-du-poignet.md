@@ -45,7 +45,7 @@ L'examen clinique mesure la mobilité, la force et localise la douleur. Des **ra
 - **Orthèse** de poignet portée lors des activités douloureuses ou la nuit
 - **Antalgiques et anti-inflammatoires** lors des poussées
 - **Infiltration** de corticoïdes dans l'articulation, dont l'effet est souvent transitoire
-- **Adaptation des gestes** et, si besoin, du poste de travail, avec l'aide d'un ergothérapeute ou d'un kinésithérapeute
+- **Adaptation des gestes** et, si besoin, du poste de travail, avec l'aide d'un kinésithérapeute spécialisé en rééducation de la main
 
 ## Quand faut-il opérer ?
 

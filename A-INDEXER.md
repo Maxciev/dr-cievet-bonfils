@@ -7,5 +7,9 @@ Procédure : Search Console > barre « Inspecter n'importe quelle URL » > colle
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/entorse-du-pouce.html (modifiée le 2026-10-15, quota dépassé)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesions-des-poulies.html (publiée le 2026-10-15, quota dépassé)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/fractures-des-doigts-et-metacarpes.html (publiée le 2026-10-15, quota dépassé)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/urgences-de-la-main.html (publiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/arthrose-des-doigts.html (modifiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/entorse-des-doigts.html (modifiée le 2026-10-15)
+- [ ] https://www.dr-cievet-bonfils.fr/pathologies/tenosynovite-de-de-quervain.html (modifiée le 2026-10-15)
 
 ## Fait

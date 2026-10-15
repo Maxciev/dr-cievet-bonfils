@@ -36,7 +36,7 @@ L'examen clinique identifie les articulations touchées, leur mobilité, leur st
 - **Antalgiques** et anti-inflammatoires, en particulier en gel ou en cure courte lors des poussées
 - **Orthèses** de repos, portées la nuit ou pendant les activités douloureuses, pour mettre l'articulation au repos
 - **Infiltration** de corticoïdes dans l'articulation, utile lors des poussées inflammatoires
-- **Rééducation et ergothérapie** : conseils pour protéger les articulations, aides techniques, exercices pour entretenir la mobilité
+- **Rééducation** : conseils pour protéger les articulations, aides techniques, exercices pour entretenir la mobilité
 - Application de chaleur ou de froid selon ce qui soulage
 
 L'arthrose évolue par poussées : une articulation très douloureuse pendant quelques mois peut ensuite se stabiliser et devenir moins gênante, même si elle reste déformée.
@@ -56,7 +56,7 @@ Les ostéophytes, la synoviale inflammatoire ou un kyste associé peuvent être 
 
 ## Après l'opération
 
-- Après une prothèse, la rééducation commence tôt, avec une orthèse et des séances de kinésithérapie ou d'ergothérapie pendant plusieurs semaines ; elle est indispensable pour récupérer la mobilité
+- Après une prothèse, la rééducation commence tôt, avec une orthèse et des séances de kinésithérapie pendant plusieurs semaines ; elle est indispensable pour récupérer la mobilité
 - Après une arthrodèse, le doigt est protégé jusqu'à la consolidation osseuse, en général 6 à 8 semaines
 - Le gonflement du doigt peut persister plusieurs mois
 - La reprise des efforts de force est progressive

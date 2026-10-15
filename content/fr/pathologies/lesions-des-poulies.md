@@ -61,7 +61,7 @@ L'intervention se fait en ambulatoire, sous anesthésie locorégionale du bras.
 ## Après l'opération
 
 - Une bague ou une attelle protège la reconstruction pendant plusieurs semaines
-- La rééducation, encadrée par un kinésithérapeute ou un ergothérapeute, commence tôt pour éviter l'adhérence des tendons
+- La rééducation, encadrée par un kinésithérapeute spécialisé en rééducation de la main, commence tôt pour éviter l'adhérence des tendons
 - La reprise de l'escalade est progressive et se fait sur plusieurs mois, avec une protection par bague
 - Le risque principal est la raideur du doigt, d'où l'importance des exercices
 

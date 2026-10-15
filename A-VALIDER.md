@@ -1,6 +1,6 @@
 # Fiches à valider
 
-17 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+16 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -70,7 +70,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Technique décrite : reconstruction par greffe tendineuse (anneau autour de la phalange ou fixation sur les reliquats) ; mention d'une réalisation possible sous WALANT « selon les cas » — à confirmer.
 - Affirmation : effet préventif du strapping chez le grimpeur sans lésion « non démontré ».
 
-## [ ] [urgences-de-la-main](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/urgences-de-la-main.md)
+## [x] [urgences-de-la-main](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/urgences-de-la-main.md)
 - Phrase SOS Mains Médipôle : confirmée le 2026-10-15.
 - Conservation du doigt amputé (compresse humidifiée au sérum, sachet fermé, récipient eau + glace, jamais au contact direct de la glace) et délai de réimplantation « limité à quelques heures ».
 - Conseil « un passage préalable par des urgences générales peut retarder la prise en charge » et « en cas d'amputation ou saignement abondant, appeler le 15 plutôt que se déplacer » : formulation acceptable ?
