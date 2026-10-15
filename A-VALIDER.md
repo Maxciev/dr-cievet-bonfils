@@ -1,6 +1,6 @@
 # Fiches à valider
 
-12 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+11 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -105,7 +105,7 @@ Remarques générales : pour ces six fiches, le champ `related_pmids` est vide (
 - Affirmation : les lésions dégénératives à l'IRM sont fréquentes sans douleur « surtout après 40 ans ».
 - Arthroscopie sous anesthésie locorégionale (pas de mention du WALANT) : à confirmer.
 
-## [ ] [kyste-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/kyste-du-poignet.md)
+## [x] [kyste-du-poignet](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/kyste-du-poignet.md)
 - Kyste dorsal naissant le plus souvent en regard du ligament scapho-lunaire ; kyste palmaire au contact de l'artère radiale.
 - Récidive « fréquente » après ponction, moins fréquente après exérèse du pédicule (non chiffrée).
 - Exérèse à ciel ouvert possible en WALANT ; exérèse arthroscopique présentée comme adaptée surtout aux kystes dorsaux, sous anesthésie locorégionale.

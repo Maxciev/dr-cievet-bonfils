@@ -9,7 +9,6 @@ group: poignet
 image: kyste-du-poignet.jpg
 image_alt: Kyste arthrosynovial formant une tuméfaction arrondie sur le dos du poignet
 related_pmids:
-status: brouillon
 ---
 Le kyste arthrosynovial du poignet est une petite poche bénigne remplie de liquide épais, reliée à une articulation du poignet. Il forme une boule le plus souvent sur le dos du poignet, parfois à sa face palmaire, qui peut être indolore ou gêner les mouvements. Un kyste qui ne gêne pas peut être simplement surveillé ; s'il est douloureux ou gênant, il peut être retiré par une courte incision ou sous arthroscopie.
 
@@ -37,7 +36,7 @@ L'examen clinique suffit souvent. Une **échographie** confirme le contenu liqui
 ## Quels traitements sans chirurgie ?
 
 - **Surveillance** : un kyste indolore peut être laissé en place. Certains régressent ou disparaissent spontanément.
-- **Ponction** à l'aiguille, éventuellement guidée par échographie, parfois suivie d'une infiltration : elle vide le kyste et soulage, mais il se reforme fréquemment car le pédicule reste en place.
+- **Ponction** à l'aiguille, toujours guidée par échographie, parfois suivie d'une infiltration : elle vide le kyste et soulage, mais il y a un risque de récidive de 50 %, car le pédicule reste en place.
 - **Mesures simples** : limiter temporairement les appuis douloureux, orthèse de repos lors des poussées.
 
 Écraser le kyste par un choc, pratique ancienne, est déconseillé.
@@ -57,12 +56,12 @@ Le choix se discute en consultation selon la localisation du kyste et vos attent
 
 ## Après l'opération
 
-- Un pansement est gardé environ deux semaines ; une orthèse de confort peut être portée quelques jours
+- Un pansement est gardé environ deux semaines ; une orthèse est généralement portée 15 jours
 - Les doigts sont mobilisés immédiatement pour les gestes légers
-- Une raideur transitoire du poignet est possible ; une rééducation est parfois utile
+- Une raideur transitoire du poignet est fréquente et récupère avec une rééducation adaptée
 - La reprise des appuis et des efforts est progressive sur quelques semaines
 
-Les complications sont rares : infection, hématome, cicatrice sensible, irritation d'une branche nerveuse sensitive, algodystrophie. Une récidive reste possible, même après une exérèse bien conduite.
+Les complications sont rares : infection, hématome, cicatrice sensible, irritation d'une branche nerveuse sensitive, algodystrophie. Une récidive reste possible, estimée à 10 %.
 
 ## Questions fréquentes
 
@@ -73,7 +72,7 @@ Non. C'est une lésion bénigne qui ne se transforme pas en cancer. En cas de do
 Non. Un kyste indolore peut être surveillé. L'intervention est réservée aux kystes douloureux, gênants ou qui récidivent.
 
 ### Le kyste peut-il revenir après l'opération ?
-Oui, c'est possible, mais nettement moins souvent qu'après une simple ponction, car le pédicule est retiré avec le kyste.
+Oui, c'est possible (environ 10 %), mais nettement moins souvent qu'après une simple ponction (environ 50 %), car le pédicule est retiré avec le kyste.
 
 ### Arthroscopie ou incision classique : que choisir ?
 Les deux techniques visent le même résultat. L'arthroscopie laisse des cicatrices plus petites ; l'incision classique peut se faire sous anesthésie locale. Le choix dépend de la localisation du kyste et se discute en consultation.
