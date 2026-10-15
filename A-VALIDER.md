@@ -1,6 +1,6 @@
 # Fiches à valider
 
-21 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
+20 fiches sont en brouillon : elles sont dans le dépôt mais **pas publiées** sur www.dr-cievet-bonfils.fr.
 
 **Comment relire** : clique sur le nom d'une fiche ci-dessous, GitHub l'affiche en texte lisible. Les points à vérifier sont listés sous chaque fiche.
 
@@ -42,7 +42,7 @@ Affirmations à vérifier par le chirurgien, fiche par fiche.
 - Traitement par attelle « encore tenté avec quelques semaines de retard ».
 - WALANT mentionné comme option.
 
-## [ ] [entorse-des-doigts](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/entorse-des-doigts.md)
+## [x] [entorse-des-doigts](https://github.com/Maxciev/dr-cievet-bonfils/blob/main/content/fr/pathologies/entorse-des-doigts.md)
 - Syndactylie « en général 3 à 4 semaines » et priorité à la mobilisation précoce.
 - Mise en garde sur la lésion de la bandelette médiane (risque de boutonnière) — ajout hors source.
 - Indications chirurgicales : luxation irréductible ou instable, fracture articulaire déplacée de la base de P2, rupture ligamentaire complète instable.

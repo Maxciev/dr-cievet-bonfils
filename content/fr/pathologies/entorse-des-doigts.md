@@ -9,7 +9,6 @@ group: main
 image: entorse-des-doigts.jpg
 image_alt: Doigt gonflé au niveau de l'articulation du milieu, après une entorse
 related_pmids:
-status: brouillon
 ---
 L'entorse du doigt est une lésion des ligaments de l'articulation du milieu du doigt (articulation inter-phalangienne proximale), le plus souvent après un choc avec un ballon ou une chute. Elle provoque une douleur, un gonflement et une raideur qui peuvent durer plusieurs mois. La plupart des entorses se soignent sans chirurgie, en solidarisant le doigt au doigt voisin et en le mobilisant tôt ; une intervention est réservée aux luxations instables et à certaines fractures.
 
@@ -33,7 +32,7 @@ Un doigt qui ne peut plus se tendre activement au niveau de l'articulation du mi
 
 Le chirurgien localise la douleur, teste la stabilité de l'articulation et vérifie que les tendons fonctionnent. Des **radiographies de face et de profil** du doigt sont systématiques : elles recherchent une fracture ou un arrachement osseux et vérifient que l'articulation est bien centrée. Une échographie aide à préciser l'atteinte des ligaments, de la plaque palmaire ou des tendons ; l'IRM est rarement nécessaire.
 
-Une luxation remise en place sur le terrain doit tout de même être examinée et radiographiée. En cas de doute, une consultation d'[urgence de la main](urgences-de-la-main.html) permet une prise en charge rapide.
+Une luxation remise en place sur le terrain doit tout de même être examinée et radiographiée. Une consultation en urgence permet une prise en charge rapide.
 
 ## Quels traitements sans chirurgie ?
 
@@ -51,7 +50,6 @@ L'intervention est nécessaire dans des situations moins fréquentes :
 - luxation qui ne peut pas être remise en place (irréductible) ou qui se reproduit (instable)
 - fracture articulaire importante ou déplacée de la base de la deuxième phalange (voir [fractures des doigts et des métacarpes](fractures-des-doigts-et-metacarpes.html))
 - rupture ligamentaire complète avec instabilité persistante
-- lésion associée du tendon extenseur ne pouvant être traitée par orthèse
 
 ## Comment se déroule l'intervention ?
 
