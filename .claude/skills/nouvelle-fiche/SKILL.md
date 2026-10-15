@@ -58,3 +58,7 @@ canal-carpien, maladie-de-dupuytren, doigt-a-ressaut, rhizarthrose, walant, teno
 - Un fichier `content/fr/pathologies/<slug>.md` par fiche assignée.
 - Un fichier `review/<ton-lot>.md` listant, par fiche, les affirmations médicales que le chirurgien doit vérifier (chiffres, durées, indications, techniques), en 2-5 puces par fiche.
 - Ne modifie AUCUN autre fichier.
+
+## Après publication (validation par le chirurgien)
+Dans le compte rendu de chaque publication, donner systématiquement l'adresse exacte de chaque fiche publiée, à coller dans Google Search Console (Inspection de l'URL > Demander une indexation) :
+`https://www.dr-cievet-bonfils.fr/pathologies/<slug>.html`
