@@ -31,7 +31,9 @@ lieux de consultation (adresses), spécialités, pathologies traitées, techniqu
 Liste chaque source avec son URL. Signale toute information contradictoire entre sources.
 ```
 
-## Historique des scores (requêtes B où le Dr Cievet-Bonfils est cité)
-| Date | ChatGPT | Gemini | Remarques |
-|---|---|---|---|
-| 2026-09-25 | 6/8 | 0/8 | Avant le site. ChatGPT cite via le Pôle Locomoteur de la Colline ; Gemini privilégie les sites perso avec articles par pathologie. |
+## Historique mensuel (audit le 11 de chaque mois)
+ChatGPT / Gemini : requêtes B où le Dr Cievet-Bonfils est cité. Google : pages indexées (rapport Pages), clics et impressions sur 28 jours (rapport Performances). Bing : pages indexées.
+
+| Date | ChatGPT | Gemini | Google indexées | Clics 28 j | Impressions 28 j | Bing indexées | Remarques |
+|---|---|---|---|---|---|---|---|
+| 2026-09-25 | 6/8 | 0/8 | — | — | — | — | Avant le site. ChatGPT cite via le Pôle Locomoteur de la Colline ; Gemini privilégie les sites perso avec articles par pathologie. |
