@@ -1,11 +1,12 @@
 # Indexation Google
 
-Décision du 2026-10-16 : plus de demandes d'indexation manuelles systématiques. Le sitemap (envoyé dans la Search Console) suffit ; Google indexe seul (21 pages indexées au 16/10).
-Demande manuelle uniquement pour une page déjà indexée dont le contenu médical a été corrigé de façon importante (Search Console > « Inspecter n'importe quelle URL » > « Demander une indexation »).
-Contrôle : rapport « Pages » de la Search Console lors de l'audit IA du 2026-11-11 (pages « Découverte, actuellement non indexée » à relancer manuellement).
+Procédure (révisée le 2026-10-16) : pour chaque adresse, Search Console > « Inspecter n'importe quelle URL ».
+- « L'URL est sur Google » : rien à faire, cocher.
+- « L'URL n'est pas sur Google » : « Demander une indexation » (quota ≈ 10/jour).
+Le rapport « Pages » a plusieurs jours de retard : seule l'inspection d'URL fait foi.
+Pages anglaises : pas de demande manuelle, découverte par le sitemap et les liens hreflang ; contrôle lors de l'audit du 2026-11-11.
 
-## Historique (file d'attente close le 2026-10-16)
-
+## En attente (françaises)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/entorse-du-pouce.html (modifiée le 2026-10-15, quota dépassé)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesions-des-poulies.html (publiée le 2026-10-15, quota dépassé)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/fractures-des-doigts-et-metacarpes.html (publiée le 2026-10-15, quota dépassé)
@@ -32,6 +33,8 @@ Contrôle : rapport « Pages » de la Search Console lors de l'audit IA du 2026-
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/compression-nerf-interosseux-posterieur.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/micro-instabilite-tete-radiale.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/denervation-du-poignet.html (publiée le 2026-10-15)
+
+## Anglaises (sitemap, pas de demande manuelle)
 - [ ] https://www.dr-cievet-bonfils.fr/en/conditions/ (index anglais, 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/en/conditions/carpal-boss.html (version anglaise, 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/en/conditions/carpal-tunnel-syndrome.html (version anglaise, 2026-10-15)
