@@ -14,7 +14,6 @@ Pages anglaises : pas de demande manuelle, découverte par le sitemap et les lie
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/arthrose-des-doigts.html (modifiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/entorse-des-doigts.html (modifiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/tenosynovite-de-de-quervain.html (modifiée le 2026-10-15)
-- [ ] https://www.dr-cievet-bonfils.fr/pathologies/fracture-du-poignet.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/pseudarthrose-du-scaphoide.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesion-ligament-scapho-lunaire.html (publiée le 2026-10-15)
 - [ ] https://www.dr-cievet-bonfils.fr/pathologies/lesion-tfcc.html (publiée le 2026-10-15)
@@ -71,3 +70,4 @@ Pages anglaises : pas de demande manuelle, découverte par le sitemap et les lie
 - [ ] https://www.dr-cievet-bonfils.fr/en/conditions/wrist-ganglion.html (version anglaise, 2026-10-15)
 
 ## Fait
+- [x] 2026-10-16 https://www.dr-cievet-bonfils.fr/pathologies/fracture-du-poignet.html (déjà sur Google)
