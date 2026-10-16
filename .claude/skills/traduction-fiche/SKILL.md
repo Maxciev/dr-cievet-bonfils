@@ -14,7 +14,7 @@ Toute fiche française publiée a sa traduction anglaise. Toute correction valid
 1. Lire la fiche française `content/fr/pathologies/<slug>.md` et un modèle anglais (`content/en/conditions/trigger-finger.md`).
 2. Écrire `content/en/conditions/<slug-en>.md` (slug anglais de la table ci-dessous ; pour une nouvelle fiche, slug anglais court, minuscules, tirets, sans apostrophe).
 3. `python3 build.py` puis contrôle des liens internes (aucun lien cassé, script de contrôle habituel sur `dist/`).
-4. Ajouter l'adresse `https://www.dr-cievet-bonfils.fr/en/conditions/<slug-en>.html` dans `A-INDEXER.md` (« En attente »).
+4. Pas de demande d'indexation Google manuelle : le sitemap suffit (décision du 2026-10-16).
 
 ## Front matter (une ligne par clé, pas de guillemets)
 ```
