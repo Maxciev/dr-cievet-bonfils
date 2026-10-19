@@ -28,5 +28,5 @@ Pas de superlatif, pas de photos avant/après, pas de sollicitation d'avis, pas 
 | Plateforme | Statut | Date |
 |---|---|---|
 | Google Business Profile | Gérée par le Dr Cievet-Bonfils (à vérifier : cohérence avec ce tableau) | — |
-| Bing Places | À faire | — |
-| Apple Business Connect | À faire | — |
+| Bing Places | Fait | 2026-10-19 |
+| Apple Business Connect | Soumis, vérification en cours (Kbis + enregistrement DNS TXT apple-domain-verification, présent chez OVH) | 2026-10-19 |
