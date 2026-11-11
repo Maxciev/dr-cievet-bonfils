@@ -1,6 +1,6 @@
 # Fiche d'identité à recopier (Google Business, Bing Places, Apple Business Connect, annuaires)
 
-Règle : recopier ces champs à l'identique partout. Une seule variante du nom, de l'adresse et du téléphone.
+Règle : recopier ces champs à l'identique partout. Adresse : « 18-20 rue Tronchet » (adresse du Kbis et de la porte d'entrée, décision du 2026-11-11), complément « Centre Eiffel, 3e étage ». Une seule variante du nom, de l'adresse et du téléphone.
 
 | Champ | Valeur |
 |---|---|
@@ -10,7 +10,7 @@ Règle : recopier ces champs à l'identique partout. Une seule variante du nom, 
 | Téléphone | 04 87 25 83 35 (+33 4 87 25 83 35) |
 | Site web | https://www.dr-cievet-bonfils.fr/ |
 | Lien de rendez-vous | https://www.doctolib.fr/chirurgien-orthopediste/villeurbanne/maxime-cievet-bonfils |
-| Adresse 1 | ICMMS – Centre Eiffel, 18 rue Tronchet, 69006 Lyon (3e étage) |
+| Adresse 1 | ICMMS – Centre Eiffel, 18-20 rue Tronchet, 69006 Lyon (3e étage) |
 | Adresse 2 | Clinique de l'Infirmerie Protestante, 3 chemin du Penthod, 69300 Caluire-et-Cuire (bâtiment D, 4e étage) |
 | Langues | Français, anglais |
 | Conventionnement | Secteur 2, non adhérent OPTAM |
