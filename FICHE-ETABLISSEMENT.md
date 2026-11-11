@@ -10,7 +10,7 @@ Règle : recopier ces champs à l'identique partout. Une seule variante du nom, 
 | Téléphone | 04 87 25 83 35 (+33 4 87 25 83 35) |
 | Site web | https://www.dr-cievet-bonfils.fr/ |
 | Lien de rendez-vous | https://www.doctolib.fr/chirurgien-orthopediste/villeurbanne/maxime-cievet-bonfils |
-| Adresse 1 | ICMMS – Centre Eiffel, 20 rue Tronchet, 69006 Lyon (3e étage) |
+| Adresse 1 | ICMMS – Centre Eiffel, 18 rue Tronchet, 69006 Lyon (3e étage) |
 | Adresse 2 | Clinique de l'Infirmerie Protestante, 3 chemin du Penthod, 69300 Caluire-et-Cuire (bâtiment D, 4e étage) |
 | Langues | Français, anglais |
 | Conventionnement | Secteur 2, non adhérent OPTAM |
