@@ -1,5 +1,5 @@
 ---
-title: WALANT: hand surgery under local anaesthesia with no tourniquet in Lyon
+title: WALANT: wide-awake hand surgery without a tourniquet in Lyon
 h1: WALANT: wide-awake hand surgery with no tourniquet
 description: The WALANT technique (Wide Awake Local Anaesthesia No Tourniquet) explained by Dr Maxime Cievet-Bonfils, hand surgeon in Lyon, France: principle, procedures, what to expect, benefits and limits.
 condition: Hand surgery under local anaesthesia (WALANT)

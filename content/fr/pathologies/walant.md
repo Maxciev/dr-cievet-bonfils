@@ -1,5 +1,5 @@
 ---
-title: WALANT : chirurgie de la main sous anesthésie locale sans garrot à Lyon
+title: WALANT : chirurgie de la main sous anesthésie locale à Lyon
 h1: WALANT : chirurgie de la main éveillé, sans garrot
 description: La technique WALANT (Wide Awake Local Anesthesia No Tourniquet) expliquée par le Dr Maxime Cievet-Bonfils, chirurgien de la main à Lyon : principe, interventions concernées, déroulement, avantages et limites.
 condition: Chirurgie de la main sous anesthésie locale (WALANT)

@@ -19,7 +19,7 @@ Toute fiche française publiée a sa traduction anglaise. Toute correction valid
 ## Front matter (une ligne par clé, pas de guillemets)
 ```
 ---
-title: <Name>: <symptoms/treatment/surgery> in Lyon
+title: <Name>: <symptoms/treatment/surgery> in Lyon   (≤ 70 caractères, obligatoire)
 h1: <Condition name>
 description: <1-2 phrases, ≤ 160 caractères si possible, avec "Dr Maxime Cievet-Bonfils, hand surgeon in Lyon, France">
 condition: <English condition name>

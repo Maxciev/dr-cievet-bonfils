@@ -22,7 +22,7 @@ Lis d'abord `content/fr/pathologies/canal-carpien.md` : c'est le modèle validé
 ## Front matter (obligatoire, une ligne par clé, pas de guillemets)
 ```
 ---
-title: <Nom> : <symptômes/traitement/chirurgie> à Lyon      (≤ 70 caractères si possible)
+title: <Nom> : <symptômes/traitement/chirurgie> à Lyon      (≤ 70 caractères, obligatoire : le build affiche un WARNING au-delà, Bing le signale en erreur)
 h1: <Nom de la pathologie>
 description: <1-2 phrases, ≤ 160 caractères, avec "Dr Maxime Cievet-Bonfils, chirurgien de la main à Lyon">
 condition: <nom français>

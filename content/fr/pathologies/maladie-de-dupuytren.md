@@ -1,5 +1,5 @@
 ---
-title: Maladie de Dupuytren : doigts rétractés, traitement et chirurgie à Lyon
+title: Maladie de Dupuytren : doigts rétractés, traitement, chirurgie à Lyon
 h1: Maladie de Dupuytren
 description: Nodules dans la paume, doigts qui se replient : la maladie de Dupuytren expliquée par le Dr Maxime Cievet-Bonfils, chirurgien de la main à Lyon. Quand opérer, quelles techniques, quelles suites.
 condition: Maladie de Dupuytren

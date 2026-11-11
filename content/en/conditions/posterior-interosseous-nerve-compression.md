@@ -1,5 +1,5 @@
 ---
-title: Posterior interosseous nerve compression at the elbow: treatment in Lyon
+title: Posterior interosseous nerve compression: treatment in Lyon
 h1: Posterior interosseous nerve compression at the elbow
 description: Forearm pain just below the elbow, sometimes mistaken for tennis elbow: posterior interosseous nerve compression explained by Dr Maxime Cievet-Bonfils, hand surgeon in Lyon, France.
 condition: Posterior interosseous nerve compression (radial tunnel syndrome)

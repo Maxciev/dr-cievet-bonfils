@@ -1,5 +1,5 @@
 ---
-title: Complex regional pain syndrome (CRPS) of the hand: symptoms, treatment in Lyon
+title: Complex regional pain syndrome (CRPS): symptoms and treatment in Lyon
 h1: Complex regional pain syndrome (CRPS)
 description: Pain, swelling and stiffness of the hand after an injury: complex regional pain syndrome explained by Dr Maxime Cievet-Bonfils, hand surgeon in Lyon, France.
 condition: Complex regional pain syndrome

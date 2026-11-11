@@ -230,7 +230,7 @@ def fmt_pub(p, highlight=True):
 
 
 def tile(p, up=""):
-    img = f'<img src="{up}img/pathologies/{e(p["image"])}" alt="" loading="lazy" width="400" height="300">' if p.get("image") else ""
+    img = f'<img src="{up}img/pathologies/{e(p["image"])}" alt="{e(p.get("image_alt") or p["h1"])}" loading="lazy" width="400" height="300">' if p.get("image") else ""
     return (f'<a class="tile" href="{up}pathologies/{p["slug"]}.html">{img}<span class="tile-body">'
             f'<span class="tile-group">{e(GROUPS.get(p.get("group", ""), ""))}</span>'
             f'<span class="tile-title">{e(p["h1"])}</span></span></a>')
@@ -354,6 +354,10 @@ def page(*, lang, path, title, description, body, graph, depth=0, alt=None):
 
 
 def write(rel, content):
+    # Bing flags titles over 70 characters ("Title too long"): warn at build time.
+    t = re.search(r"<title>(.*?)</title>", content)
+    if t and len(html.unescape(t.group(1))) > 70:
+        print(f"WARNING title > 70 characters ({len(html.unescape(t.group(1)))}): {rel}")
     out = DIST / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(content, encoding="utf-8")
@@ -418,7 +422,7 @@ def build_home_fr(pathos):
     graph = [person_node(), physician_node(),
              {"@type": "WebPage", "@id": BASE + "/#webpage", "url": BASE + "/", "name": f"{NAME} — {SPECIALTY_FR}",
               "inLanguage": "fr", "about": {"@id": BASE + "/#person"}, "dateModified": CFG["updated"]}]
-    write("index.html", page(lang="fr", path="", title=f"{NAME} — {SPECIALTY_FR}",
+    write("index.html", page(lang="fr", path="", title=f"{NAME} — Chirurgien main, poignet, coude à Lyon",
                              description=LEAD_FR[:155].rsplit(" ", 1)[0] + "…", body=body, graph=graph,
                              alt={"fr": "", "en": "en/"}))
 
@@ -464,7 +468,7 @@ def build_home_en(en_pathos=()):
     graph = [person_node(), physician_node(),
              {"@type": "WebPage", "url": BASE + "/en/", "name": f"{NAME} — {SPECIALTY_EN}", "inLanguage": "en",
               "about": {"@id": BASE + "/#person"}, "dateModified": CFG["updated"]}]
-    write("en/index.html", page(lang="en", path="en/", title=f"{NAME} — {SPECIALTY_EN}",
+    write("en/index.html", page(lang="en", path="en/", title=f"{NAME} — Hand, Wrist and Elbow Surgeon, Lyon",
                                 description=LEAD_EN[:155].rsplit(" ", 1)[0] + "…", body=body, graph=graph, depth=1,
                                 alt={"fr": "", "en": "en/"}))
 
@@ -537,13 +541,13 @@ def build_index(pathos):
 </article>"""
     graph = [person_node(), {"@type": "CollectionPage", "url": BASE + "/pathologies/", "name": "Fiches pathologies",
                              "hasPart": [{"@type": "MedicalWebPage", "url": f"{BASE}/pathologies/{p['slug']}.html", "name": p["h1"]} for p in pathos]}]
-    write("pathologies/index.html", page(lang="fr", path="pathologies/", title=f"Fiches pathologies de la main, du poignet et du coude — {NAME}",
+    write("pathologies/index.html", page(lang="fr", path="pathologies/", title="Fiches pathologies main, poignet, coude — Dr Cievet-Bonfils",
                                          description="Fiches d'information patient : main, poignet, coude. Symptômes, traitements, chirurgie à Lyon.",
                                          body=body, graph=graph, depth=1))
 
 
 def tile_en(p, up=""):
-    img = f'<img src="{up}img/pathologies/{e(p["image"])}" alt="" loading="lazy" width="400" height="300">' if p.get("image") else ""
+    img = f'<img src="{up}img/pathologies/{e(p["image"])}" alt="{e(p.get("image_alt") or p["h1"])}" loading="lazy" width="400" height="300">' if p.get("image") else ""
     return (f'<a class="tile" href="{up}en/conditions/{p["slug"]}.html">{img}<span class="tile-body">'
             f'<span class="tile-group">{e(GROUPS_EN.get(p.get("group", ""), ""))}</span>'
             f'<span class="tile-title">{e(p["h1"])}</span></span></a>')

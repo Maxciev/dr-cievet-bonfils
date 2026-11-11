@@ -1,5 +1,5 @@
 ---
-title: Compression du nerf interosseux postérieur au coude : traitement à Lyon
+title: Compression du nerf interosseux postérieur : traitement à Lyon
 h1: Compression du nerf interosseux postérieur au coude
 description: Douleur à l'avant-bras sous le coude, parfois prise pour une épicondylite : la compression du nerf interosseux postérieur expliquée par le Dr Maxime Cievet-Bonfils, chirurgien de la main à Lyon.
 condition: Compression du nerf interosseux postérieur (syndrome du tunnel radial)

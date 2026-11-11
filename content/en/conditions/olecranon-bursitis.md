@@ -1,5 +1,5 @@
 ---
-title: Olecranon bursitis (elbow bursitis): infected or not, treatment in Lyon
+title: Olecranon bursitis (elbow bursitis): treatment in Lyon
 h1: Olecranon bursitis (elbow bursitis)
 description: A fluid-filled swelling at the tip of the elbow: olecranon bursitis explained by Dr Maxime Cievet-Bonfils, hand surgeon in Lyon, France. Infected forms, aspiration, surgery.
 condition: Olecranon bursitis
