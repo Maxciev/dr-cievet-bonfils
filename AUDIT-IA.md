@@ -37,3 +37,4 @@ ChatGPT / Gemini : requêtes B où le Dr Cievet-Bonfils est cité. Google : page
 | Date | ChatGPT | Gemini | Google indexées | Clics 28 j | Impressions 28 j | Bing indexées | Remarques |
 |---|---|---|---|---|---|---|---|
 | 2026-09-25 | 6/8 | 0/8 | — | — | — | — | Avant le site. ChatGPT cite via le Pôle Locomoteur de la Colline ; Gemini privilégie les sites perso avec articles par pathologie. |
+| 2026-11-11 | 8/8 | 5/8 | 67/72 | 33 | 2 526 | n.d. (3 impressions, 0 clic) | ChatGPT et Gemini citent surtout la page ICMMS, jamais dr-cievet-bonfils.fr. Gemini absent sur Q1, Q3, Q4. Clics Google : 24/33 sur l'accueil, requêtes surtout sur le nom ; « meilleur spécialiste de la main lyon » position 2 (121 impressions). Incohérences relevées : 18/20 rue Tronchet, Centre Léon Blum (Villeurbanne) absent du site, épaule sur Ramsay, Médipôle 69008 sur ICMMS. Apple refusé (nom de marque, catégorie). |
